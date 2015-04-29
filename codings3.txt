@@ -1,0 +1,3 @@
+C, r,P	 at 	-0.09240767	PREFIXED after 2 iterates
+C, r,C	 at 	-0.12138673	Period 2 orbit
+C, r,0	 at 	-0.14761358	PREZERO after 2 iterates

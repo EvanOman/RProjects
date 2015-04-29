@@ -1,0 +1,1505 @@
+C, r, R, R, R, R, R, R, R, R, R		 at 	-0.092425254	
+C, r, R, R, R, R, R, R, R, R, R	0	 at 	-0.092438599			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, R, R, L	0	 at 	-0.09245477			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, R, R, L		 at 	-0.092462149	
+C, r, R, R, R, R, R, R, R, L, L		 at 	-0.092520082	
+C, r, R, R, R, R, R, R, R, L, L	0	 at 	-0.092524007			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, R, L, R	0	 at 	-0.092531072			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, R, L, R		 at 	-0.092535782	
+C, r, R, R, R, R, R, R, L, L, R		 at 	-0.092648351	
+C, r, R, R, R, R, R, R, L, L, R	0	 at 	-0.09265102			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, L, L, L	0	 at 	-0.092654945			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, L, L, L		 at 	-0.092657143	
+C, r, R, R, R, R, R, R, L, R, L		 at 	-0.092682106	
+C, r, R, R, R, R, R, R, L, R, L	0	 at 	-0.092684775			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, L, R, R	0	 at 	-0.092689799			PREZERO after 11 iterates
+C, r, R, R, R, R, R, R, L, R, R		 at 	-0.092693724	
+C, r, R, R, R, R, R, L, L, R, R		 at 	-0.09292891	
+C, r, R, R, R, R, R, L, L, R, R	0	 at 	-0.092931108			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, L, R, L	0	 at 	-0.092934248			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, L, R, L		 at 	-0.092935661	
+C, r, R, R, R, R, R, L, L, L, L		 at 	-0.092949634	
+C, r, R, R, R, R, R, L, L, L, L	0	 at 	-0.09295089			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, L, L, R	0	 at 	-0.092952931			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, L, L, R		 at 	-0.092954344	
+C, r, R, R, R, R, R, L, R, L, R		 at 	-0.093003485	
+C, r, R, R, R, R, R, L, R, L, R	0	 at 	-0.093005212			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, R, L, L	0	 at 	-0.093007724			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, R, L, L		 at 	-0.093009137	
+C, r, R, R, R, R, R, L, R, R, L		 at 	-0.093027349	
+C, r, R, R, R, R, R, L, R, R, L	0	 at 	-0.09302939			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, R, R, R	0	 at 	-0.093033943			PREZERO after 11 iterates
+C, r, R, R, R, R, R, L, R, R, R		 at 	-0.093037397	
+C, r, R, R, R, R, L, L, R, R, R		 at 	-0.093545449	
+C, r, R, R, R, R, L, L, R, R, R	0	 at 	-0.093547647			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, R, R, L	0	 at 	-0.093550316			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, R, R, L		 at 	-0.093551572	
+C, r, R, R, R, R, L, L, R, L, L		 at 	-0.093562405	
+C, r, R, R, R, R, L, L, R, L, L	0	 at 	-0.09356319			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, R, L, R	0	 at 	-0.09356476			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, R, L, R		 at 	-0.093565702	
+C, r, R, R, R, R, L, L, L, L, R		 at 	-0.093593334	
+C, r, R, R, R, R, L, L, L, L, R	0	 at 	-0.093593962			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, L, L, L	0	 at 	-0.093595218			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, L, L, L		 at 	-0.093595689	
+C, r, R, R, R, R, L, L, L, R, L		 at 	-0.093603068	
+C, r, R, R, R, R, L, L, L, R, L	0	 at 	-0.093603853			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, L, R, R	0	 at 	-0.093605423			PREZERO after 11 iterates
+C, r, R, R, R, R, L, L, L, R, R		 at 	-0.093606679	
+C, r, R, R, R, R, L, R, L, R, R		 at 	-0.093710456	
+C, r, R, R, R, R, L, R, L, R, R	0	 at 	-0.093711869			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, L, R, L	0	 at 	-0.093713753			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, L, R, L		 at 	-0.093714695	
+C, r, R, R, R, R, L, R, L, L, L		 at 	-0.093723487	
+C, r, R, R, R, R, L, R, L, L, L	0	 at 	-0.093724272			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, L, L, R	0	 at 	-0.093725528			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, L, L, R		 at 	-0.09372647	
+C, r, R, R, R, R, L, R, R, L, R		 at 	-0.093762423	
+C, r, R, R, R, R, L, R, R, L, R	0	 at 	-0.093763836			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, R, L, L	0	 at 	-0.093765877			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, R, L, L		 at 	-0.093766976	
+C, r, R, R, R, R, L, R, R, R, L		 at 	-0.09378299	
+C, r, R, R, R, R, L, R, R, R, L	0	 at 	-0.093784874			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, R, R, R	0	 at 	-0.093789113			PREZERO after 11 iterates
+C, r, R, R, R, R, L, R, R, R, R		 at 	-0.09379241	
+C, r, R, R, R, R, r, R, R, R, R		 at 	-0.094341282	
+C, r, R, R, R, R, r, R, R, R, R	0	 at 	-0.094371583			PREZERO after 11 iterates
+C, r, R, R, R, L, r, R, R, R, R	0	 at 	-0.094478029			PREZERO after 11 iterates
+C, r, R, R, R, L, r, R, R, R, R		 at 	-0.094506603	
+C, r, R, R, R, L, L, R, R, R, R		 at 	-0.094923909	
+C, r, R, R, R, L, L, R, R, R, R	0	 at 	-0.09492595			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, R, R, L	0	 at 	-0.094928619			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, R, R, L		 at 	-0.094929718	
+C, r, R, R, R, L, L, R, R, L, L		 at 	-0.094939452	
+C, r, R, R, R, L, L, R, R, L, L	0	 at 	-0.09494008			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, R, L, R	0	 at 	-0.094941336			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, R, L, R		 at 	-0.094942121	
+C, r, R, R, R, L, L, R, L, L, R		 at 	-0.09496363	
+C, r, R, R, R, L, L, R, L, L, R	0	 at 	-0.094964101			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, L, L, L	0	 at 	-0.094964886			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, L, L, L		 at 	-0.094965357	
+C, r, R, R, R, L, L, R, L, R, L		 at 	-0.094970538	
+C, r, R, R, R, L, L, R, L, R, L	0	 at 	-0.094971009			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, L, R, R	0	 at 	-0.094972108			PREZERO after 11 iterates
+C, r, R, R, R, L, L, R, L, R, R		 at 	-0.094972893	
+C, r, R, R, R, L, L, L, L, R, R		 at 	-0.095031611	
+C, r, R, R, R, L, L, L, L, R, R	0	 at 	-0.095032082			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, L, R, L	0	 at 	-0.095033024			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, L, R, L		 at 	-0.095033338	
+C, r, R, R, R, L, L, L, L, L, L		 at 	-0.095037263	
+C, r, R, R, R, L, L, L, L, L, L	0	 at 	-0.095037577			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, L, L, R	0	 at 	-0.095038205			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, L, L, R		 at 	-0.095038519	
+C, r, R, R, R, L, L, L, R, L, R		 at 	-0.09505312	
+C, r, R, R, R, L, L, L, R, L, R	0	 at 	-0.095053591			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, R, L, L	0	 at 	-0.095054376			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, R, L, L		 at 	-0.095054847	
+C, r, R, R, R, L, L, L, R, R, L		 at 	-0.095060342	
+C, r, R, R, R, L, L, L, R, R, L	0	 at 	-0.09506097			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, R, R, R	0	 at 	-0.095062383			PREZERO after 11 iterates
+C, r, R, R, R, L, L, L, R, R, R		 at 	-0.095063482	
+C, r, R, R, R, L, L, r, R, R, R		 at 	-0.09515988	
+C, r, R, R, R, L, R, r, R, R, R		 at 	-0.095187512	
+C, r, R, R, R, L, R, L, R, R, R		 at 	-0.095292388	
+C, r, R, R, R, L, R, L, R, R, R	0	 at 	-0.095293644			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, R, R, L	0	 at 	-0.095295214			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, R, R, L		 at 	-0.095295999	
+C, r, R, R, R, L, R, L, R, L, L		 at 	-0.095302593	
+C, r, R, R, R, L, R, L, R, L, L	0	 at 	-0.095303064			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, R, L, R	0	 at 	-0.095304006			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, R, L, R		 at 	-0.095304634	
+C, r, R, R, R, L, R, L, L, L, R		 at 	-0.095322061	
+C, r, R, R, R, L, R, L, L, L, R	0	 at 	-0.095322532			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, L, L, L	0	 at 	-0.095323317			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, L, L, L		 at 	-0.095323631	
+C, r, R, R, R, L, R, L, L, R, L		 at 	-0.095328498	
+C, r, R, R, R, L, R, L, L, R, L	0	 at 	-0.095328969			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, L, R, R	0	 at 	-0.095329911			PREZERO after 11 iterates
+C, r, R, R, R, L, R, L, L, R, R		 at 	-0.095330696	
+C, r, R, R, R, L, R, R, L, R, R		 at 	-0.09540794	
+C, r, R, R, R, L, R, R, L, R, R	0	 at 	-0.095408882			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, L, R, L	0	 at 	-0.095410452			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, L, R, L		 at 	-0.095411237	
+C, r, R, R, R, L, R, R, L, L, L		 at 	-0.095418459	
+C, r, R, R, R, L, R, R, L, L, L	0	 at 	-0.09541893			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, L, L, R	0	 at 	-0.095420186			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, L, L, R		 at 	-0.095420814	
+C, r, R, R, R, L, R, R, R, L, R		 at 	-0.095452842	
+C, r, R, R, R, L, R, R, R, L, R	0	 at 	-0.095453941			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, R, L, L	0	 at 	-0.095455982			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, R, L, L		 at 	-0.095456924	
+C, r, R, R, R, L, R, R, R, R, L		 at 	-0.095472153	
+C, r, R, R, R, L, R, R, R, R, L	0	 at 	-0.095474037			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, R, R, R	0	 at 	-0.095478276			PREZERO after 11 iterates
+C, r, R, R, R, L, R, R, R, R, R		 at 	-0.095481573	
+C, r, R, R, R, r, R, R, R, R, R		 at 	-0.096580259	
+C, r, R, R, R, r, R, R, R, R, R	0	 at 	-0.096593604			PREZERO after 11 iterates
+C, r, R, R, R, r, R, R, R, R, L	0	 at 	-0.096612444			PREZERO after 11 iterates
+C, r, R, R, R, r, R, R, R, R, L		 at 	-0.096620451	
+C, r, R, R, R, r, R, R, R, L, L		 at 	-0.096699579	
+C, r, R, R, R, r, R, R, R, L, L	0	 at 	-0.096705231			PREZERO after 11 iterates
+C, r, R, R, R, r, R, R, R, L, R	0	 at 	-0.09671732			PREZERO after 11 iterates
+C, r, R, R, R, r, R, R, R, L, R		 at 	-0.096724856	
+C, r, R, R, L, r, R, R, R, L, R		 at 	-0.097185965	
+C, r, R, R, L, r, R, R, R, L, R	0	 at 	-0.097192873			PREZERO after 11 iterates
+C, r, R, R, L, r, R, R, R, L, L	0	 at 	-0.097203863			PREZERO after 11 iterates
+C, r, R, R, L, r, R, R, R, L, L		 at 	-0.097209044	
+C, r, R, R, L, r, R, R, R, R, L		 at 	-0.097280008	
+C, r, R, R, L, r, R, R, R, R, L	0	 at 	-0.097287073			PREZERO after 11 iterates
+C, r, R, R, L, r, R, R, R, R, R	0	 at 	-0.097303715			PREZERO after 11 iterates
+C, r, R, R, L, r, R, R, R, R, R		 at 	-0.09731549	
+C, r, R, R, L, L, R, R, R, R, R		 at 	-0.098127965	
+C, r, R, R, L, L, R, R, R, R, R	0	 at 	-0.098129849			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, R, R, L	0	 at 	-0.098132518			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, R, R, L		 at 	-0.098133617	
+C, r, R, R, L, L, R, R, R, L, L		 at 	-0.098143037	
+C, r, R, R, L, L, R, R, R, L, L	0	 at 	-0.098143665			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, R, L, R	0	 at 	-0.098144764			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, R, L, R		 at 	-0.098145549	
+C, r, R, R, L, L, R, R, L, L, R		 at 	-0.098165017	
+C, r, R, R, L, L, R, R, L, L, R	0	 at 	-0.098165488			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, L, L, L	0	 at 	-0.098166116			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, L, L, L		 at 	-0.09816643	
+C, r, R, R, L, L, R, R, L, R, L		 at 	-0.098170826	
+C, r, R, R, L, L, R, R, L, R, L	0	 at 	-0.09817114			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, L, R, R	0	 at 	-0.098172082			PREZERO after 11 iterates
+C, r, R, R, L, L, R, R, L, R, R		 at 	-0.09817271	
+C, r, R, R, L, L, R, R, r, R, R		 at 	-0.09819469	
+C, r, R, R, L, L, R, L, r, R, R		 at 	-0.098201755	
+C, r, R, R, L, L, R, L, L, R, R		 at 	-0.098219182	
+C, r, R, R, L, L, R, L, L, R, R	0	 at 	-0.098219653			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, L, R, L	0	 at 	-0.098220281			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, L, R, L		 at 	-0.098220438	
+C, r, R, R, L, L, R, L, L, L, L		 at 	-0.098223264	
+C, r, R, R, L, L, R, L, L, L, L	0	 at 	-0.098223421			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, L, L, R	0	 at 	-0.098223735			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, L, L, R		 at 	-0.098224049	
+C, r, R, R, L, L, R, L, R, L, R		 at 	-0.098234097	
+C, r, R, R, L, L, R, L, R, L, R	0	 at 	-0.098234411			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, R, L, L	0	 at 	-0.098235039			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, R, L, L		 at 	-0.098235196	
+C, r, R, R, L, L, R, L, R, R, L		 at 	-0.098238964	
+C, r, R, R, L, L, R, L, R, R, L	0	 at 	-0.098239278			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, R, R, R	0	 at 	-0.098240377			PREZERO after 11 iterates
+C, r, R, R, L, L, R, L, R, R, R		 at 	-0.098241005	
+C, r, R, R, L, L, R, r, R, R, R		 at 	-0.098292658	
+C, r, R, R, L, L, R, r, R, R, R	0	 at 	-0.098296269			PREZERO after 11 iterates
+C, r, R, R, L, L, R, r, R, R, L	0	 at 	-0.09830459			PREZERO after 11 iterates
+C, r, R, R, L, L, L, r, R, R, L	0	 at 	-0.098316522			PREZERO after 11 iterates
+C, r, R, R, L, L, L, r, R, R, R	0	 at 	-0.098324529			PREZERO after 11 iterates
+C, r, R, R, L, L, L, r, R, R, R		 at 	-0.098327826	
+C, r, R, R, L, L, L, L, R, R, R		 at 	-0.098372257	
+C, r, R, R, L, L, L, L, R, R, R	0	 at 	-0.098372885			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, R, R, L	0	 at 	-0.098373513			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, R, R, L		 at 	-0.098373827	
+C, r, R, R, L, L, L, L, R, L, L		 at 	-0.09837681	
+C, r, R, R, L, L, L, L, R, L, L	0	 at 	-0.098376967			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, R, L, R	0	 at 	-0.098377281			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, R, L, R		 at 	-0.098377595	
+C, r, R, R, L, L, L, L, L, L, R		 at 	-0.098385131	
+C, r, R, R, L, L, L, L, L, L, R	0	 at 	-0.098385288			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, L, L, L	0	 at 	-0.098385602			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, L, L, L		 at 	-0.098385759	
+C, r, R, R, L, L, L, L, L, R, L		 at 	-0.0983878	
+C, r, R, R, L, L, L, L, L, R, L	0	 at 	-0.098387957			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, L, R, R	0	 at 	-0.098388428			PREZERO after 11 iterates
+C, r, R, R, L, L, L, L, L, R, R		 at 	-0.098388742	
+C, r, R, R, L, L, L, L, r, R, R		 at 	-0.098400831	
+C, r, R, R, L, L, L, R, r, R, R		 at 	-0.098405855	
+C, r, R, R, L, L, L, R, L, R, R		 at 	-0.098419671	
+C, r, R, R, L, L, L, R, L, R, R	0	 at 	-0.098419985			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, L, R, L	0	 at 	-0.098420613			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, L, R, L		 at 	-0.09842077	
+C, r, R, R, L, L, L, R, L, L, L		 at 	-0.098423439	
+C, r, R, R, L, L, L, R, L, L, L	0	 at 	-0.098423596			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, L, L, R	0	 at 	-0.09842391			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, L, L, R		 at 	-0.098424224	
+C, r, R, R, L, L, L, R, R, L, R		 at 	-0.098435214	
+C, r, R, R, L, L, L, R, R, L, R	0	 at 	-0.098435685			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, R, L, L	0	 at 	-0.098436313			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, R, L, L		 at 	-0.098436627	
+C, r, R, R, L, L, L, R, R, R, L		 at 	-0.098441494	
+C, r, R, R, L, L, L, R, R, R, L	0	 at 	-0.098441965			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, R, R, R	0	 at 	-0.098443378			PREZERO after 11 iterates
+C, r, R, R, L, L, L, R, R, R, R		 at 	-0.09844432	
+C, r, R, R, L, L, r, R, R, R, R		 at 	-0.098616549	
+C, r, R, R, L, L, r, R, R, R, R	0	 at 	-0.098621259			PREZERO after 11 iterates
+C, r, R, R, L, L, r, R, R, R, L	0	 at 	-0.098628638			PREZERO after 11 iterates
+C, r, R, R, L, L, r, R, R, R, L		 at 	-0.098631621	
+C, r, R, R, L, L, r, R, R, L, L		 at 	-0.09867668	
+C, r, R, R, L, L, r, R, R, L, L	0	 at 	-0.098683274			PREZERO after 11 iterates
+C, r, R, R, L, R, r, R, R, L, L	0	 at 	-0.098716244			PREZERO after 11 iterates
+C, r, R, R, L, R, r, R, R, L, L		 at 	-0.098722838	
+C, r, R, R, L, R, r, R, R, R, L		 at 	-0.098768996	
+C, r, R, R, L, R, r, R, R, R, L	0	 at 	-0.098772293			PREZERO after 11 iterates
+C, r, R, R, L, R, r, R, R, R, R	0	 at 	-0.098779829			PREZERO after 11 iterates
+C, r, R, R, L, R, r, R, R, R, R		 at 	-0.098784853	
+C, r, R, R, L, R, L, R, R, R, R		 at 	-0.098976393	
+C, r, R, R, L, R, L, R, R, R, R	0	 at 	-0.098977649			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, R, R, L	0	 at 	-0.098979219			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, R, R, L		 at 	-0.098979847	
+C, r, R, R, L, R, L, R, R, L, L		 at 	-0.098985656	
+C, r, R, R, L, R, L, R, R, L, L	0	 at 	-0.09898597			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, R, L, R	0	 at 	-0.098986755			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, R, L, R		 at 	-0.098987226	
+C, r, R, R, L, R, L, R, L, L, R		 at 	-0.099000414	
+C, r, R, R, L, R, L, R, L, L, R	0	 at 	-0.099000728			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, L, L, L	0	 at 	-0.099001199			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, L, L, L		 at 	-0.099001356	
+C, r, R, R, L, R, L, R, L, R, L		 at 	-0.099004339	
+C, r, R, R, L, R, L, R, L, R, L	0	 at 	-0.099004653			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, L, R, R	0	 at 	-0.099005281			PREZERO after 11 iterates
+C, r, R, R, L, R, L, R, L, R, R		 at 	-0.099005752	
+C, r, R, R, L, R, L, R, r, R, R		 at 	-0.099021923	
+C, r, R, R, L, R, L, L, r, R, R		 at 	-0.099029302	
+C, r, R, R, L, R, L, L, L, R, R		 at 	-0.099043589	
+C, r, R, R, L, R, L, L, L, R, R	0	 at 	-0.099043903			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, L, R, L	0	 at 	-0.099044531			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, L, R, L		 at 	-0.099044688	
+C, r, R, R, L, R, L, L, L, L, L		 at 	-0.0990472	
+C, r, R, R, L, R, L, L, L, L, L	0	 at 	-0.099047357			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, L, L, R	0	 at 	-0.099047671			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, L, L, R		 at 	-0.099047828	
+C, r, R, R, L, R, L, L, R, L, R		 at 	-0.099057248	
+C, r, R, R, L, R, L, L, R, L, R	0	 at 	-0.099057562			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, R, L, L	0	 at 	-0.099058033			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, R, L, L		 at 	-0.09905819	
+C, r, R, R, L, R, L, L, R, R, L		 at 	-0.099061801	
+C, r, R, R, L, R, L, L, R, R, L	0	 at 	-0.099062272			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, R, R, R	0	 at 	-0.099063214			PREZERO after 11 iterates
+C, r, R, R, L, R, L, L, R, R, R		 at 	-0.099063842	
+C, r, R, R, L, R, L, r, R, R, R		 at 	-0.099118635	
+C, r, R, R, L, R, L, r, R, R, R	0	 at 	-0.09912256			PREZERO after 11 iterates
+C, r, R, R, L, R, L, r, R, R, L	0	 at 	-0.09913041			PREZERO after 11 iterates
+C, r, R, R, L, R, L, r, R, R, L		 at 	-0.099135748	
+C, r, R, R, L, R, R, r, R, R, L		 at 	-0.099151762	
+C, r, R, R, L, R, R, r, R, R, L	0	 at 	-0.099157414			PREZERO after 11 iterates
+C, r, R, R, L, R, R, r, R, R, R	0	 at 	-0.099165892			PREZERO after 11 iterates
+C, r, R, R, L, R, R, r, R, R, R		 at 	-0.099170131	
+C, r, R, R, L, R, R, L, R, R, R		 at 	-0.099239839	
+C, r, R, R, L, R, R, L, R, R, R	0	 at 	-0.099240781			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, R, R, L	0	 at 	-0.099242194			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, R, R, L		 at 	-0.099242822	
+C, r, R, R, L, R, R, L, R, L, L		 at 	-0.09924816	
+C, r, R, R, L, R, R, L, R, L, L	0	 at 	-0.099248474			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, R, L, R	0	 at 	-0.099249102			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, R, L, R		 at 	-0.099249573	
+C, r, R, R, L, R, R, L, L, L, R		 at 	-0.099264174	
+C, r, R, R, L, R, R, L, L, L, R	0	 at 	-0.099264488			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, L, L, L	0	 at 	-0.099265116			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, L, L, L		 at 	-0.09926543	
+C, r, R, R, L, R, R, L, L, R, L		 at 	-0.099269198	
+C, r, R, R, L, R, R, L, L, R, L	0	 at 	-0.099269669			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, L, R, R	0	 at 	-0.099270454			PREZERO after 11 iterates
+C, r, R, R, L, R, R, L, L, R, R		 at 	-0.099271082	
+C, r, R, R, L, R, R, L, r, R, R		 at 	-0.09929526	
+C, r, R, R, L, R, R, R, r, R, R		 at 	-0.099309704	
+C, r, R, R, L, R, R, R, L, R, R		 at 	-0.099341889	
+C, r, R, R, L, R, R, R, L, R, R	0	 at 	-0.099342831			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, L, R, L	0	 at 	-0.099344244			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, L, R, L		 at 	-0.099344715	
+C, r, R, R, L, R, R, R, L, L, L		 at 	-0.099351466	
+C, r, R, R, L, R, R, R, L, L, L	0	 at 	-0.099351937			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, L, L, R	0	 at 	-0.099353036			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, L, L, R		 at 	-0.099353664	
+C, r, R, R, L, R, R, R, R, L, R		 at 	-0.099385221	
+C, r, R, R, L, R, R, R, R, L, R	0	 at 	-0.09938632			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, R, L, L	0	 at 	-0.099388204			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, R, L, L		 at 	-0.099389146	
+C, r, R, R, L, R, R, R, R, R, L		 at 	-0.099404532	
+C, r, R, R, L, R, R, R, R, R, L	0	 at 	-0.099406416			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, R, R, R	0	 at 	-0.099410969			PREZERO after 11 iterates
+C, r, R, R, L, R, R, R, R, R, R		 at 	-0.099414109	
+C, r, R, R, r, R, R, R, R, R, R		 at 	-0.10171306	
+C, r, R, R, r, R, R, R, R, R, R	0	 at 	-0.101721852			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, R, R, L	0	 at 	-0.101734726			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, R, R, L		 at 	-0.101739279	
+C, r, R, R, r, R, R, R, R, L, L		 at 	-0.101783396	
+C, r, R, R, r, R, R, R, R, L, L	0	 at 	-0.101785908			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, R, L, R	0	 at 	-0.101791403			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, R, L, R		 at 	-0.101794543	
+C, r, R, R, r, R, R, R, L, L, R		 at 	-0.101890627	
+C, r, R, R, r, R, R, R, L, L, R	0	 at 	-0.101892511			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, L, L, L	0	 at 	-0.101895808			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, L, L, L		 at 	-0.101897221	
+C, r, R, R, r, R, R, R, L, R, L		 at 	-0.101918102	
+C, r, R, R, r, R, R, R, L, R, L	0	 at 	-0.101919829			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, L, R, R	0	 at 	-0.101924539			PREZERO after 11 iterates
+C, r, R, R, r, R, R, R, L, R, R		 at 	-0.101927365	
+C, r, R, R, r, R, R, R, r, R, R		 at 	-0.102026432	
+C, r, R, R, r, R, R, R, r, R, R	0	 at 	-0.102042132			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, r, R, R	0	 at 	-0.102088447			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, r, R, R		 at 	-0.102103205	
+C, r, R, R, r, R, R, L, L, R, R		 at 	-0.102186886	
+C, r, R, R, r, R, R, L, L, R, R	0	 at 	-0.102189084			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, L, R, L	0	 at 	-0.102192538			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, L, R, L		 at 	-0.102193951	
+C, r, R, R, r, R, R, L, L, L, L		 at 	-0.102209337	
+C, r, R, R, r, R, R, L, L, L, L	0	 at 	-0.102210279			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, L, L, R	0	 at 	-0.102212634			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, L, L, R		 at 	-0.102214047	
+C, r, R, R, r, R, R, L, R, L, R		 at 	-0.102276219	
+C, r, R, R, r, R, R, L, R, L, R	0	 at 	-0.102277946			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, R, L, L	0	 at 	-0.102281086			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, R, L, L		 at 	-0.102282499	
+C, r, R, R, r, R, R, L, R, R, L		 at 	-0.102306049	
+C, r, R, R, r, R, R, L, R, R, L	0	 at 	-0.102308404			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, R, R, R	0	 at 	-0.102314684			PREZERO after 11 iterates
+C, r, R, R, r, R, R, L, R, R, R		 at 	-0.102318923	
+C, r, R, R, r, R, R, r, R, R, R		 at 	-0.102690542	
+C, r, R, R, r, R, R, r, R, R, R	0	 at 	-0.102713778			PREZERO after 11 iterates
+C, r, R, R, r, R, R, r, R, R, L	0	 at 	-0.102757424			PREZERO after 11 iterates
+C, r, R, R, r, R, R, r, R, R, L		 at 	-0.102776892	
+C, r, R, L, r, R, R, r, R, R, L		 at 	-0.10373522	
+C, r, R, L, r, R, R, r, R, R, L	0	 at 	-0.103751234			PREZERO after 11 iterates
+C, r, R, L, r, R, R, r, R, R, R	0	 at 	-0.103788757			PREZERO after 11 iterates
+C, r, R, L, r, R, R, r, R, R, R		 at 	-0.103808382	
+C, r, R, L, r, R, R, L, R, R, R		 at 	-0.104130703	
+C, r, R, L, r, R, R, L, R, R, R	0	 at 	-0.104134157			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, R, R, L	0	 at 	-0.104139652			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, R, R, L		 at 	-0.104141693	
+C, r, R, L, r, R, R, L, R, L, L		 at 	-0.104161789	
+C, r, R, L, r, R, R, L, R, L, L	0	 at 	-0.104162888			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, R, L, R	0	 at 	-0.104165714			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, R, L, R		 at 	-0.104167127	
+C, r, R, L, r, R, R, L, R, r, R		 at 	-0.10419209	
+C, r, R, L, r, R, R, L, L, r, R		 at 	-0.104198998	
+C, r, R, L, r, R, R, L, L, L, R		 at 	-0.10422035	
+C, r, R, L, r, R, R, L, L, L, R	0	 at 	-0.104221292			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, L, L, L	0	 at 	-0.104223333			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, L, L, L		 at 	-0.104224118	
+C, r, R, L, r, R, R, L, L, R, L		 at 	-0.104236992	
+C, r, R, L, r, R, R, L, L, R, L	0	 at 	-0.104238091			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, L, R, R	0	 at 	-0.104241074			PREZERO after 11 iterates
+C, r, R, L, r, R, R, L, L, R, R		 at 	-0.104242801	
+C, r, R, L, r, R, R, L, r, R, R		 at 	-0.104308898	
+C, r, R, L, r, R, R, L, r, R, R	0	 at 	-0.104318004			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, r, R, R	0	 at 	-0.104376722			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, r, R, R		 at 	-0.104386456	
+C, r, R, L, r, R, R, R, L, R, R		 at 	-0.104463857	
+C, r, R, L, r, R, R, R, L, R, R	0	 at 	-0.104466055			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, L, R, L	0	 at 	-0.10446998			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, L, R, L		 at 	-0.104471236	
+C, r, R, L, r, R, R, R, L, L, L		 at 	-0.104488192	
+C, r, R, L, r, R, R, R, L, L, L	0	 at 	-0.104489291			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, L, L, R	0	 at 	-0.10449196			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, L, L, R		 at 	-0.104493373	
+C, r, R, L, r, R, R, R, L, r, R		 at 	-0.104522732	
+C, r, R, L, r, R, R, R, R, r, R		 at 	-0.104534507	
+C, r, R, L, r, R, R, R, R, L, R		 at 	-0.104572815	
+C, r, R, L, r, R, R, R, R, L, R	0	 at 	-0.10457517			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, R, L, L	0	 at 	-0.104579723			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, R, L, L		 at 	-0.104581607	
+C, r, R, L, r, R, R, R, R, R, L		 at 	-0.10461756	
+C, r, R, L, r, R, R, R, R, R, L	0	 at 	-0.104621171			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, R, R, R	0	 at 	-0.10463169			PREZERO after 11 iterates
+C, r, R, L, r, R, R, R, R, R, R		 at 	-0.104638598	
+C, r, R, L, L, R, R, R, R, R, R		 at 	-0.1062849	
+C, r, R, L, L, R, R, R, R, R, R	0	 at 	-0.106286784			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, R, R, L	0	 at 	-0.106289767			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, R, R, L		 at 	-0.106290709	
+C, r, R, L, L, R, R, R, R, L, L		 at 	-0.106300129	
+C, r, R, L, L, R, R, R, R, L, L	0	 at 	-0.1063006			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, R, L, R	0	 at 	-0.106301856			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, R, L, R		 at 	-0.106302327	
+C, r, R, L, L, R, R, R, R, r, R		 at 	-0.106311276	
+C, r, R, L, L, R, R, R, L, r, R		 at 	-0.106315515	
+C, r, R, L, L, R, R, R, L, L, R		 at 	-0.106321795	
+C, r, R, L, L, R, R, R, L, L, R	0	 at 	-0.106322109			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, L, L, L	0	 at 	-0.106322737			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, L, L, L		 at 	-0.106322894	
+C, r, R, L, L, R, R, R, L, R, L		 at 	-0.106326819	
+C, r, R, L, L, R, R, R, L, R, L	0	 at 	-0.106327133			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, L, R, R	0	 at 	-0.106327918			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, L, R, R		 at 	-0.106328389	
+C, r, R, L, L, R, R, R, r, R, R		 at 	-0.106344246	
+C, r, R, L, L, R, R, R, r, R, R	0	 at 	-0.106345973			PREZERO after 11 iterates
+C, r, R, L, L, R, R, R, r, R, L	0	 at 	-0.10635084			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, r, R, L	0	 at 	-0.106355393			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, r, R, R	0	 at 	-0.106359789			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, r, R, R		 at 	-0.106361202	
+C, r, R, L, L, R, R, L, L, R, R		 at 	-0.106372035	
+C, r, R, L, L, R, R, L, L, R, R	0	 at 	-0.106372349			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, L, R, L	0	 at 	-0.10637282			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, L, R, L		 at 	-0.106373134	
+C, r, R, L, L, R, R, L, L, L, L		 at 	-0.106375175	
+C, r, R, L, L, R, R, L, L, L, L	0	 at 	-0.106375332			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, L, L, R	0	 at 	-0.106375646			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, L, L, R		 at 	-0.106375803	
+C, r, R, L, L, R, R, L, L, r, R		 at 	-0.106378786	
+C, r, R, L, L, R, R, L, R, r, R		 at 	-0.10638067	
+C, r, R, L, L, R, R, L, R, L, R		 at 	-0.106384124	
+C, r, R, L, L, R, R, L, R, L, R	0	 at 	-0.106384281			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, R, L, L	0	 at 	-0.106384752			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, R, L, L		 at 	-0.106384909	
+C, r, R, L, L, R, R, L, R, R, L		 at 	-0.106387892	
+C, r, R, L, L, R, R, L, R, R, L	0	 at 	-0.106388049			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, R, R, R	0	 at 	-0.106388834			PREZERO after 11 iterates
+C, r, R, L, L, R, R, L, R, R, R		 at 	-0.106389462	
+C, r, R, L, L, R, R, r, R, R, R		 at 	-0.106424316	
+C, r, R, L, L, R, R, r, R, R, R	0	 at 	-0.106425572			PREZERO after 11 iterates
+C, r, R, L, L, R, R, r, R, R, L	0	 at 	-0.106428084			PREZERO after 11 iterates
+C, r, R, L, L, R, R, r, R, R, L		 at 	-0.106429026	
+C, r, R, L, L, R, L, r, R, R, L		 at 	-0.106467805	
+C, r, R, L, L, R, L, r, R, R, L	0	 at 	-0.10646859			PREZERO after 11 iterates
+C, r, R, L, L, R, L, r, R, R, R	0	 at 	-0.106470631			PREZERO after 11 iterates
+C, r, R, L, L, R, L, r, R, R, R		 at 	-0.10647173	
+C, r, R, L, L, R, L, L, R, R, R		 at 	-0.106497007	
+C, r, R, L, L, R, L, L, R, R, R	0	 at 	-0.106497321			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, R, R, L	0	 at 	-0.106497792			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, R, R, L		 at 	-0.106497949	
+C, r, R, L, L, R, L, L, R, L, L		 at 	-0.106499833	
+C, r, R, L, L, R, L, L, R, L, L	0	 at 	-0.10649999			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, R, L, R	0	 at 	-0.106500147			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, R, L, R		 at 	-0.106500304	
+C, r, R, L, L, R, L, L, R, r, R		 at 	-0.106502345	
+C, r, R, L, L, R, L, L, L, r, R		 at 	-0.106503601	
+C, r, R, L, L, R, L, L, L, L, R		 at 	-0.106505328	
+C, r, R, L, L, R, L, L, L, L, R	0	 at 	-0.106505485			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, L, L, L		 at 	-0.106505642	
+C, r, R, L, L, R, L, L, L, R, L		 at 	-0.106506741	
+C, r, R, L, L, R, L, L, L, R, L	0	 at 	-0.106506898			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, L, R, R	0	 at 	-0.106507212			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, L, R, R		 at 	-0.106507369	
+C, r, R, L, L, R, L, L, r, R, R		 at 	-0.106513335	
+C, r, R, L, L, R, L, L, r, R, R	0	 at 	-0.106513963			PREZERO after 11 iterates
+C, r, R, L, L, R, L, L, r, R, L	0	 at 	-0.106516161			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, r, R, L	0	 at 	-0.106518673			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, r, R, R	0	 at 	-0.106520871			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, r, R, R		 at 	-0.106521656	
+C, r, R, L, L, R, L, R, L, R, R		 at 	-0.106528564	
+C, r, R, L, L, R, L, R, L, R, R	0	 at 	-0.106528878			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, L, R, L	0	 at 	-0.106529192			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, L, R, L		 at 	-0.106529349	
+C, r, R, L, L, R, L, R, L, L, L		 at 	-0.106530762	
+C, r, R, L, L, R, L, R, L, L, L	0	 at 	-0.106530919			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, L, L, R		 at 	-0.106531233	
+C, r, R, L, L, R, L, R, L, r, R		 at 	-0.106533745	
+C, r, R, L, L, R, L, R, R, r, R		 at 	-0.106535315	
+C, r, R, L, L, R, L, R, R, L, R		 at 	-0.106538455	
+C, r, R, L, L, R, L, R, R, L, R	0	 at 	-0.106538769			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, R, L, L	0	 at 	-0.106539083			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, R, L, L		 at 	-0.10653924	
+C, r, R, L, L, R, L, R, R, R, L		 at 	-0.10654238	
+C, r, R, L, L, R, L, R, R, R, L	0	 at 	-0.106542694			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, R, R, R	0	 at 	-0.106543636			PREZERO after 11 iterates
+C, r, R, L, L, R, L, R, R, R, R		 at 	-0.106544107	
+C, r, R, L, L, R, r, R, R, R, R		 at 	-0.106635638	
+C, r, R, L, L, R, r, R, R, R, R	0	 at 	-0.106637208			PREZERO after 11 iterates
+C, r, R, L, L, R, r, R, R, R, L	0	 at 	-0.106639877			PREZERO after 11 iterates
+C, r, R, L, L, R, r, R, R, R, L		 at 	-0.106640662	
+C, r, R, L, L, R, r, R, R, L, L		 at 	-0.10665071	
+C, r, R, L, L, R, r, R, R, L, L	0	 at 	-0.106651181			PREZERO after 11 iterates
+C, r, R, L, L, R, r, R, R, L, R	0	 at 	-0.106652751			PREZERO after 11 iterates
+C, r, R, L, L, R, r, R, R, L, R		 at 	-0.106653379	
+C, r, R, L, L, R, r, R, R, r, R		 at 	-0.106667038	
+C, r, R, L, L, R, r, R, L, r, R		 at 	-0.106676615	
+C, r, R, L, L, R, r, R, L, L, R		 at 	-0.106700636	
+C, r, R, L, L, R, r, R, L, L, R	0	 at 	-0.106703776			PREZERO after 11 iterates
+C, r, R, L, L, L, r, R, L, L, R	0	 at 	-0.106719162			PREZERO after 11 iterates
+C, r, R, L, L, L, r, R, L, L, R		 at 	-0.106722145	
+C, r, R, L, L, L, r, R, L, r, R		 at 	-0.106745224	
+C, r, R, L, L, L, r, R, R, r, R		 at 	-0.10675433	
+C, r, R, L, L, L, r, R, R, L, R		 at 	-0.106766733	
+C, r, R, L, L, L, r, R, R, L, R	0	 at 	-0.106767361			PREZERO after 11 iterates
+C, r, R, L, L, L, r, R, R, L, L	0	 at 	-0.106768774			PREZERO after 11 iterates
+C, r, R, L, L, L, r, R, R, L, L		 at 	-0.106769245	
+C, r, R, L, L, L, r, R, R, R, L		 at 	-0.106778194	
+C, r, R, L, L, L, r, R, R, R, L	0	 at 	-0.106778979			PREZERO after 11 iterates
+C, r, R, L, L, L, r, R, R, R, R	0	 at 	-0.106781177			PREZERO after 11 iterates
+C, r, R, L, L, L, r, R, R, R, R		 at 	-0.10678259	
+C, r, R, L, L, L, L, R, R, R, R		 at 	-0.106857322	
+C, r, R, L, L, L, L, R, R, R, R	0	 at 	-0.106857636			PREZERO after 11 iterates
+C, r, R, L, L, L, L, R, R, R, L	0	 at 	-0.106858421			PREZERO after 11 iterates
+C, r, R, L, L, L, L, R, R, R, L		 at 	-0.106858578	
+C, r, R, L, L, L, L, R, R, L, L		 at 	-0.106860933	
+C, r, R, L, L, L, L, R, R, L, L	0	 at 	-0.10686109			PREZERO after 11 iterates
+C, r, R, L, L, L, L, R, R, L, R	0	 at 	-0.106861404			PREZERO after 11 iterates
+C, r, R, L, L, L, L, R, R, L, R		 at 	-0.106861561	
+C, r, R, L, L, L, L, R, R, r, R		 at 	-0.106863916	
+C, r, R, L, L, L, L, R, L, r, R		 at 	-0.106865172	
+C, r, R, L, L, L, L, R, L, L, R		 at 	-0.106866899	
+C, r, R, L, L, L, L, R, L, L, L		 at 	-0.106867213	
+C, r, R, L, L, L, L, R, L, R, L		 at 	-0.106868312	
+C, r, R, L, L, L, L, R, L, R, L	0	 at 	-0.106868469			PREZERO after 11 iterates
+C, r, R, L, L, L, L, R, L, R, L	0	 at 	-0.106868626			PREZERO after 11 iterates
+C, r, R, L, L, L, L, R, L, R, R		 at 	-0.106868783	
+C, r, R, L, L, L, L, R, r, R, R		 at 	-0.106873807	
+C, r, R, L, L, L, L, R, r, R, R	0	 at 	-0.106874435			PREZERO after 11 iterates
+C, r, R, L, L, L, L, R, r, R, L	0	 at 	-0.106876005			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, r, R, L	0	 at 	-0.106878046			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, r, R, R	0	 at 	-0.106879616			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, r, R, R		 at 	-0.106880087	
+C, r, R, L, L, L, L, L, L, R, R		 at 	-0.106884169	
+C, r, R, L, L, L, L, L, L, R, R	0	 at 	-0.106884326			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, L, R, R	0	 at 	-0.106884483			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, L, R, L		 at 	-0.10688464	
+C, r, R, L, L, L, L, L, L, L, L		 at 	-0.106885425	
+C, r, R, L, L, L, L, L, L, L, L	0	 at 	-0.106885582			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, L, L, R		 at 	-0.106885739	
+C, r, R, L, L, L, L, L, L, r, R		 at 	-0.106886838	
+C, r, R, L, L, L, L, L, R, r, R		 at 	-0.10688778	
+C, r, R, L, L, L, L, L, R, L, R		 at 	-0.106889193	
+C, r, R, L, L, L, L, L, R, L, R	0	 at 	-0.10688935			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, R, L, L		 at 	-0.106889507	
+C, r, R, L, L, L, L, L, R, R, L		 at 	-0.106890763	
+C, r, R, L, L, L, L, L, R, R, L	0	 at 	-0.10689092			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, R, R, R	0	 at 	-0.106891234			PREZERO after 11 iterates
+C, r, R, L, L, L, L, L, R, R, R		 at 	-0.106891391	
+C, r, R, L, L, L, L, r, R, R, R		 at 	-0.106908504	
+C, r, R, L, L, L, L, r, R, R, R	0	 at 	-0.106909289			PREZERO after 11 iterates
+C, r, R, L, L, L, L, r, R, R, L	0	 at 	-0.106910545			PREZERO after 11 iterates
+C, r, R, L, L, L, L, r, R, R, L		 at 	-0.106911016	
+C, r, R, L, L, L, L, r, R, L, L		 at 	-0.106921535	
+C, r, R, L, L, L, R, r, R, L, L		 at 	-0.106925774	
+C, r, R, L, L, L, R, r, R, R, L		 at 	-0.106936764	
+C, r, R, L, L, L, R, r, R, R, L	0	 at 	-0.106937235			PREZERO after 11 iterates
+C, r, R, L, L, L, R, r, R, R, R	0	 at 	-0.106938648			PREZERO after 11 iterates
+C, r, R, L, L, L, R, r, R, R, R		 at 	-0.10693959	
+C, r, R, L, L, L, R, L, R, R, R		 at 	-0.10696	
+C, r, R, L, L, L, R, L, R, R, R	0	 at 	-0.106960314			PREZERO after 11 iterates
+C, r, R, L, L, L, R, L, R, R, L	0	 at 	-0.106960785			PREZERO after 11 iterates
+C, r, R, L, L, L, R, L, R, R, L		 at 	-0.106960942	
+C, r, R, L, L, L, R, L, R, L, L		 at 	-0.106962669	
+C, r, R, L, L, L, R, L, R, L, R		 at 	-0.106962983	
+C, r, R, L, L, L, R, L, R, r, R		 at 	-0.106965024	
+C, r, R, L, L, L, R, L, L, r, R		 at 	-0.106966123	
+C, r, R, L, L, L, R, L, L, L, R		 at 	-0.106967693	
+C, r, R, L, L, L, R, L, L, L, R	0	 at 	-0.10696785			PREZERO after 11 iterates
+C, r, R, L, L, L, R, L, L, L, R		 at 	-0.106968007	
+C, r, R, L, L, L, R, L, L, R, L		 at 	-0.106969263	
+C, r, R, L, L, L, R, L, L, R, R	0	 at 	-0.106969577			PREZERO after 11 iterates
+C, r, R, L, L, L, R, L, L, R, R		 at 	-0.106969734	
+C, r, R, L, L, L, R, L, r, R, R		 at 	-0.1069757	
+C, r, R, L, L, L, R, L, r, R, R	0	 at 	-0.106976328			PREZERO after 11 iterates
+C, r, R, L, L, L, R, L, r, R, L	0	 at 	-0.106978526			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, r, R, L	0	 at 	-0.106981823			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, r, R, R	0	 at 	-0.106984178			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, r, R, R		 at 	-0.106984963	
+C, r, R, L, L, L, R, R, L, R, R		 at 	-0.106993127	
+C, r, R, L, L, L, R, R, L, R, R	0	 at 	-0.106993284			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, L, R, L	0	 at 	-0.106993755			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, L, R, L		 at 	-0.106993912	
+C, r, R, L, L, L, R, R, L, L, L		 at 	-0.106995796	
+C, r, R, L, L, L, R, R, L, L, L	0	 at 	-0.106995953			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, L, L, R	0	 at 	-0.106996267			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, L, L, R		 at 	-0.106996424	
+C, r, R, L, L, L, R, R, L, r, R		 at 	-0.106999407	
+C, r, R, L, L, L, R, R, R, r, R		 at 	-0.107001762	
+C, r, R, L, L, L, R, R, R, L, R		 at 	-0.107006001	
+C, r, R, L, L, L, R, R, R, L, R	0	 at 	-0.107006315			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, R, L, L	0	 at 	-0.107006786			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, R, L, L		 at 	-0.1070071	
+C, r, R, L, L, L, R, R, R, R, L		 at 	-0.107011496	
+C, r, R, L, L, L, R, R, R, R, L	0	 at 	-0.107011967			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, R, R, R	0	 at 	-0.10701338			PREZERO after 11 iterates
+C, r, R, L, L, L, R, R, R, R, R		 at 	-0.107014165	
+C, r, R, L, L, r, R, R, R, R, R		 at 	-0.107336172	
+C, r, R, L, L, r, R, R, R, R, R	0	 at 	-0.107338684			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, R, R, L	0	 at 	-0.107342766			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, R, R, L		 at 	-0.107344022	
+C, r, R, L, L, r, R, R, R, L, L		 at 	-0.107357995	
+C, r, R, L, L, r, R, R, R, L, L	0	 at 	-0.10735878			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, R, L, R	0	 at 	-0.107360507			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, R, L, R		 at 	-0.107361449	
+C, r, R, L, L, r, R, R, R, r, R		 at 	-0.107375736	
+C, r, R, L, L, r, R, R, L, r, R		 at 	-0.107384685	
+C, r, R, L, L, r, R, R, L, L, R		 at 	-0.107395989	
+C, r, R, L, L, r, R, R, L, L, R	0	 at 	-0.107396617			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, L, L, L	0	 at 	-0.107397716			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, L, L, L		 at 	-0.107398187	
+C, r, R, L, L, r, R, R, L, R, L		 at 	-0.107406037	
+C, r, R, L, L, r, R, R, L, R, L	0	 at 	-0.107406665			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, L, R, R	0	 at 	-0.107408392			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, L, R, R		 at 	-0.107409491	
+C, r, R, L, L, r, R, R, r, R, R		 at 	-0.107446857	
+C, r, R, L, L, r, R, R, r, R, R	0	 at 	-0.107451096			PREZERO after 11 iterates
+C, r, R, L, L, r, R, R, r, R, L	0	 at 	-0.107462871			PREZERO after 11 iterates
+C, r, R, L, L, r, R, L, r, R, L	0	 at 	-0.10748752			PREZERO after 11 iterates
+C, r, R, L, L, r, R, L, r, R, R	0	 at 	-0.107500865			PREZERO after 11 iterates
+C, r, R, L, L, r, R, L, r, R, R		 at 	-0.107505889	
+C, r, R, L, L, r, R, L, L, R, R		 at 	-0.107560525	
+C, r, R, L, L, r, R, L, L, R, R	0	 at 	-0.107562409			PREZERO after 11 iterates
+C, r, R, L, L, r, R, L, L, R, L	0	 at 	-0.107565863			PREZERO after 11 iterates
+C, r, R, L, L, r, R, L, L, R, L		 at 	-0.107567119	
+C, r, R, L, L, r, R, L, L, L, L		 at 	-0.10758329	
+C, r, R, L, L, r, R, L, L, L, L	0	 at 	-0.107584389			PREZERO after 11 iterates
+C, r, R, L, L, r, R, L, L, L, R	0	 at 	-0.107587215			PREZERO after 11 iterates
+C, r, R, L, L, r, R, L, L, L, R		 at 	-0.107588628	
+C, r, R, L, L, r, R, L, L, r, R		 at 	-0.107623953	
+C, r, R, L, R, r, R, L, L, r, R		 at 	-0.107704494	
+C, r, R, L, R, r, R, L, L, L, R		 at 	-0.107740133	
+C, r, R, L, R, r, R, L, L, L, R	0	 at 	-0.107741703			PREZERO after 11 iterates
+C, r, R, L, R, r, R, L, L, L, L	0	 at 	-0.107744529			PREZERO after 11 iterates
+C, r, R, L, R, r, R, L, L, L, L		 at 	-0.107745628	
+C, r, R, L, R, r, R, L, L, R, L		 at 	-0.10776227	
+C, r, R, L, R, r, R, L, L, R, L	0	 at 	-0.107763369			PREZERO after 11 iterates
+C, r, R, L, R, r, R, L, L, R, R	0	 at 	-0.107766823			PREZERO after 11 iterates
+C, r, R, L, R, r, R, L, L, R, R		 at 	-0.107768864	
+C, r, R, L, R, r, R, L, r, R, R		 at 	-0.107824913	
+C, r, R, L, R, r, R, L, r, R, R	0	 at 	-0.107830094			PREZERO after 11 iterates
+C, r, R, L, R, r, R, L, r, R, L	0	 at 	-0.107843439			PREZERO after 11 iterates
+C, r, R, L, R, r, R, L, r, R, L		 at 	-0.107853487	
+C, r, R, L, R, r, R, R, r, R, L		 at 	-0.107862279	
+C, r, R, L, R, r, R, R, r, R, L	0	 at 	-0.107871856			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, r, R, R	0	 at 	-0.107883788			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, r, R, R		 at 	-0.107888027	
+C, r, R, L, R, r, R, R, L, R, R		 at 	-0.107927434	
+C, r, R, L, R, r, R, R, L, R, R	0	 at 	-0.107928533			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, L, R, L	0	 at 	-0.107930574			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, L, R, L		 at 	-0.107931202	
+C, r, R, L, R, r, R, R, L, L, L		 at 	-0.107939523	
+C, r, R, L, R, r, R, R, L, L, L	0	 at 	-0.107939994			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, L, L, R	0	 at 	-0.10794125			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, L, L, R		 at 	-0.107941878	
+C, r, R, L, R, r, R, R, L, r, R		 at 	-0.10795381	
+C, r, R, L, R, r, R, R, R, r, R		 at 	-0.107964015	
+C, r, R, L, R, r, R, R, R, L, R		 at 	-0.107979244	
+C, r, R, L, R, r, R, R, R, L, R	0	 at 	-0.107980186			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, R, L, L	0	 at 	-0.10798207			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, R, L, L		 at 	-0.107982855	
+C, r, R, L, R, r, R, R, R, R, L		 at 	-0.107998241	
+C, r, R, L, R, r, R, R, R, R, L	0	 at 	-0.107999654			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, R, R, R	0	 at 	-0.10800405			PREZERO after 11 iterates
+C, r, R, L, R, r, R, R, R, R, R		 at 	-0.108006876	
+C, r, R, L, R, L, R, R, R, R, R		 at 	-0.108378024	
+C, r, R, L, R, L, R, R, R, R, R	0	 at 	-0.108379123			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, R, R, L	0	 at 	-0.10838085			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, R, R, L		 at 	-0.108381321	
+C, r, R, L, R, L, R, R, R, L, L		 at 	-0.108386816	
+C, r, R, L, R, L, R, R, R, L, L	0	 at 	-0.108386973			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, R, L, R	0	 at 	-0.108387601			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, R, L, R		 at 	-0.108388072	
+C, r, R, L, R, L, R, R, R, r, R		 at 	-0.108392939	
+C, r, R, L, R, L, R, R, L, r, R		 at 	-0.108396236	
+C, r, R, L, R, L, R, R, L, L, R		 at 	-0.10839969	
+C, r, R, L, R, L, R, R, L, L, R	0	 at 	-0.108399847			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, L, L, L		 at 	-0.108400318	
+C, r, R, L, R, L, R, R, L, R, L		 at 	-0.108402673	
+C, r, R, L, R, L, R, R, L, R, L	0	 at 	-0.10840283			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, L, R, R	0	 at 	-0.108403458			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, L, R, R		 at 	-0.108403615	
+C, r, R, L, R, L, R, R, r, R, R		 at 	-0.108413349	
+C, r, R, L, R, L, R, R, r, R, R	0	 at 	-0.108414134			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, r, R, L	0	 at 	-0.108416489			PREZERO after 11 iterates
+C, r, R, L, R, L, R, R, r, R, L		 at 	-0.108418059	
+C, r, R, L, R, L, R, L, r, R, L		 at 	-0.108421199	
+C, r, R, L, R, L, R, L, r, R, L	0	 at 	-0.108422612			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, r, R, R	0	 at 	-0.108424653			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, r, R, R		 at 	-0.108425438	
+C, r, R, L, R, L, R, L, L, R, R		 at 	-0.108432346	
+C, r, R, L, R, L, R, L, L, R, R	0	 at 	-0.108432503			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, L, R, L		 at 	-0.108432974	
+C, r, R, L, R, L, R, L, L, L, L		 at 	-0.108434387	
+C, r, R, L, R, L, R, L, L, L, L	0	 at 	-0.108434544			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, L, L, R	0	 at 	-0.108434701			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, L, L, R		 at 	-0.108434858	
+C, r, R, L, R, L, R, L, L, r, R		 at 	-0.108436742	
+C, r, R, L, R, L, R, L, R, r, R		 at 	-0.108438312	
+C, r, R, L, R, L, R, L, R, L, R		 at 	-0.10844051	
+C, r, R, L, R, L, R, L, R, L, R	0	 at 	-0.108440667			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, R, L, L	0	 at 	-0.108440981			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, R, L, L		 at 	-0.108441138	
+C, r, R, L, R, L, R, L, R, R, L		 at 	-0.108443179	
+C, r, R, L, R, L, R, L, R, R, L	0	 at 	-0.108443336			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, R, R, R	0	 at 	-0.108443807			PREZERO after 11 iterates
+C, r, R, L, R, L, R, L, R, R, R		 at 	-0.108444121	
+C, r, R, L, R, L, R, r, R, R, R		 at 	-0.10846877	
+C, r, R, L, R, L, R, r, R, R, R	0	 at 	-0.108469712			PREZERO after 11 iterates
+C, r, R, L, R, L, R, r, R, R, L	0	 at 	-0.108471439			PREZERO after 11 iterates
+C, r, R, L, R, L, R, r, R, R, L		 at 	-0.108472067	
+C, r, R, L, R, L, R, r, R, L, L		 at 	-0.108482272	
+C, r, R, L, R, L, R, r, R, L, L	0	 at 	-0.108483214			PREZERO after 11 iterates
+C, r, R, L, R, L, R, r, R, L, R	0	 at 	-0.108486982			PREZERO after 11 iterates
+C, r, R, L, R, L, L, r, R, L, R	0	 at 	-0.108492791			PREZERO after 11 iterates
+C, r, R, L, R, L, L, r, R, L, L	0	 at 	-0.108496559			PREZERO after 11 iterates
+C, r, R, L, R, L, L, r, R, L, L		 at 	-0.108497501	
+C, r, R, L, R, L, L, r, R, R, L		 at 	-0.108506921	
+C, r, R, L, R, L, L, r, R, R, L	0	 at 	-0.108507392			PREZERO after 11 iterates
+C, r, R, L, R, L, L, r, R, R, R	0	 at 	-0.108508962			PREZERO after 11 iterates
+C, r, R, L, R, L, L, r, R, R, R		 at 	-0.108509904	
+C, r, R, L, R, L, L, L, R, R, R		 at 	-0.108530471	
+C, r, R, L, R, L, L, L, R, R, R	0	 at 	-0.108530785			PREZERO after 11 iterates
+C, r, R, L, R, L, L, L, R, R, L	0	 at 	-0.108531256			PREZERO after 11 iterates
+C, r, R, L, R, L, L, L, R, R, L		 at 	-0.108531413	
+C, r, R, L, R, L, L, L, R, L, L		 at 	-0.108532983	
+C, r, R, L, R, L, L, L, R, L, R		 at 	-0.108533297	
+C, r, R, L, R, L, L, L, R, r, R		 at 	-0.108535024	
+C, r, R, L, R, L, L, L, L, r, R		 at 	-0.10853628	
+C, r, R, L, R, L, L, L, L, L, R		 at 	-0.108537693	
+C, r, R, L, R, L, L, L, L, L, R	0	 at 	-0.10853785			PREZERO after 11 iterates
+C, r, R, L, R, L, L, L, L, L, L		 at 	-0.108538007	
+C, r, R, L, R, L, L, L, L, R, L		 at 	-0.108538949	
+C, r, R, L, R, L, L, L, L, R, L	0	 at 	-0.108539106			PREZERO after 11 iterates
+C, r, R, L, R, L, L, L, L, R, R		 at 	-0.10853942	
+C, r, R, L, R, L, L, L, r, R, R		 at 	-0.108544444	
+C, r, R, L, R, L, L, L, r, R, R	0	 at 	-0.108545072			PREZERO after 11 iterates
+C, r, R, L, R, L, L, L, r, R, L	0	 at 	-0.108546485			PREZERO after 11 iterates
+C, r, R, L, R, L, L, L, r, R, L		 at 	-0.10854727	
+C, r, R, L, R, L, L, R, r, R, L		 at 	-0.108549782	
+C, r, R, L, R, L, L, R, r, R, L	0	 at 	-0.108550724			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, r, R, R	0	 at 	-0.108552137			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, r, R, R		 at 	-0.108552765	
+C, r, R, L, R, L, L, R, L, R, R		 at 	-0.108558888	
+C, r, R, L, R, L, L, R, L, R, R	0	 at 	-0.108559045			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, L, R, L	0	 at 	-0.108559359			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, L, R, L		 at 	-0.108559516	
+C, r, R, L, R, L, L, R, L, L, L		 at 	-0.108560929	
+C, r, R, L, R, L, L, R, L, L, L	0	 at 	-0.108561086			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, L, L, R	0	 at 	-0.108561243			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, L, L, R		 at 	-0.1085614	
+C, r, R, L, R, L, L, R, L, r, R		 at 	-0.108563441	
+C, r, R, L, R, L, L, R, R, r, R		 at 	-0.108565325	
+C, r, R, L, R, L, L, R, R, L, R		 at 	-0.108568151	
+C, r, R, L, R, L, L, R, R, L, R	0	 at 	-0.108568308			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, R, L, L	0	 at 	-0.108568622			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, R, L, L		 at 	-0.108568779	
+C, r, R, L, R, L, L, R, R, R, L		 at 	-0.108571762	
+C, r, R, L, R, L, L, R, R, R, L	0	 at 	-0.108572076			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, R, R, R	0	 at 	-0.108572861			PREZERO after 11 iterates
+C, r, R, L, R, L, L, R, R, R, R		 at 	-0.108573489	
+C, r, R, L, R, L, r, R, R, R, R		 at 	-0.108667218	
+C, r, R, L, R, L, r, R, R, R, R	0	 at 	-0.108668945			PREZERO after 11 iterates
+C, r, R, L, R, L, r, R, R, R, L	0	 at 	-0.108671614			PREZERO after 11 iterates
+C, r, R, L, R, L, r, R, R, R, L		 at 	-0.108672556	
+C, r, R, L, R, L, r, R, R, L, L		 at 	-0.108683232	
+C, r, R, L, R, L, r, R, R, L, L	0	 at 	-0.10868386			PREZERO after 11 iterates
+C, r, R, L, R, L, r, R, R, L, R	0	 at 	-0.108685273			PREZERO after 11 iterates
+C, r, R, L, R, L, r, R, R, L, R		 at 	-0.108686058	
+C, r, R, L, R, L, r, R, R, r, R		 at 	-0.108699089	
+C, r, R, L, R, L, r, R, L, r, R		 at 	-0.108710864	
+C, r, R, L, R, L, r, R, L, L, R		 at 	-0.108727349	
+C, r, R, L, R, L, r, R, L, L, R	0	 at 	-0.108728448			PREZERO after 11 iterates
+C, r, R, L, R, L, r, R, L, L, L	0	 at 	-0.108730803			PREZERO after 11 iterates
+C, r, R, L, R, L, r, R, L, L, L		 at 	-0.108731745	
+C, r, R, L, R, L, r, R, L, R, L		 at 	-0.108754981	
+C, r, R, L, R, L, r, R, L, R, L	0	 at 	-0.108758592			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, L, R, L	0	 at 	-0.108782299			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, L, R, L		 at 	-0.10878591	
+C, r, R, L, R, R, r, R, L, L, L		 at 	-0.108810402	
+C, r, R, L, R, R, r, R, L, L, L	0	 at 	-0.108811344			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, L, L, R	0	 at 	-0.108814013			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, L, L, R		 at 	-0.108815112	
+C, r, R, L, R, R, r, R, L, r, R		 at 	-0.108833324	
+C, r, R, L, R, R, r, R, R, r, R		 at 	-0.108846826	
+C, r, R, L, R, R, r, R, R, L, R		 at 	-0.108861898	
+C, r, R, L, R, R, r, R, R, L, R	0	 at 	-0.10886284			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, R, L, L	0	 at 	-0.108864567			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, R, L, L		 at 	-0.108865352	
+C, r, R, L, R, R, r, R, R, R, L		 at 	-0.108878069	
+C, r, R, L, R, R, r, R, R, R, L	0	 at 	-0.108879168			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, R, R, R	0	 at 	-0.108882622			PREZERO after 11 iterates
+C, r, R, L, R, R, r, R, R, R, R		 at 	-0.108884663	
+C, r, R, L, R, R, L, R, R, R, R		 at 	-0.109013717	
+C, r, R, L, R, R, L, R, R, R, R	0	 at 	-0.109014502			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, R, R, L	0	 at 	-0.109015915			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, R, R, L		 at 	-0.109016229	
+C, r, R, L, R, R, L, R, R, L, L		 at 	-0.109020782	
+C, r, R, L, R, R, L, R, R, L, L	0	 at 	-0.109021096			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, R, L, R	0	 at 	-0.109021567			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, R, L, R		 at 	-0.109021881	
+C, r, R, L, R, R, L, R, R, r, R		 at 	-0.10902612	
+C, r, R, L, R, R, L, R, L, r, R		 at 	-0.109029417	
+C, r, R, L, R, R, L, R, L, L, R		 at 	-0.109032557	
+C, r, R, L, R, R, L, R, L, L, R	0	 at 	-0.109032714			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, L, L, L	0	 at 	-0.109033028			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, L, L, L		 at 	-0.109033185	
+C, r, R, L, R, R, L, R, L, R, L		 at 	-0.109035383	
+C, r, R, L, R, R, L, R, L, R, L	0	 at 	-0.10903554			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, L, R, R	0	 at 	-0.109036168			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, L, R, R		 at 	-0.109036482	
+C, r, R, L, R, R, L, R, r, R, R		 at 	-0.109046059	
+C, r, R, L, R, R, L, R, r, R, R	0	 at 	-0.109047001			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, r, R, L	0	 at 	-0.109049513			PREZERO after 11 iterates
+C, r, R, L, R, R, L, R, r, R, L		 at 	-0.109050769	
+C, r, R, L, R, R, L, L, r, R, L		 at 	-0.109055793	
+C, r, R, L, R, R, L, L, r, R, L	0	 at 	-0.109056892			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, r, R, R	0	 at 	-0.109059247			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, r, R, R		 at 	-0.109060032	
+C, r, R, L, R, R, L, L, L, R, R		 at 	-0.109068353	
+C, r, R, L, R, R, L, L, L, R, R	0	 at 	-0.10906851			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, L, R, L	0	 at 	-0.109068981			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, L, R, L		 at 	-0.109069138	
+C, r, R, L, R, R, L, L, L, L, L		 at 	-0.109070865	
+C, r, R, L, R, R, L, L, L, L, R	0	 at 	-0.109071179			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, L, L, R		 at 	-0.109071336	
+C, r, R, L, R, R, L, L, L, r, R		 at 	-0.109073691	
+C, r, R, L, R, R, L, L, R, r, R		 at 	-0.109075889	
+C, r, R, L, R, R, L, L, R, L, R		 at 	-0.109078715	
+C, r, R, L, R, R, L, L, R, L, R	0	 at 	-0.109078872			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, R, L, L	0	 at 	-0.109079186			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, R, L, L		 at 	-0.109079343	
+C, r, R, L, R, R, L, L, R, R, L		 at 	-0.109082169	
+C, r, R, L, R, R, L, L, R, R, L	0	 at 	-0.109082326			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, R, R, R	0	 at 	-0.109083111			PREZERO after 11 iterates
+C, r, R, L, R, R, L, L, R, R, R		 at 	-0.109083582	
+C, r, R, L, R, R, L, r, R, R, R		 at 	-0.109120006	
+C, r, R, L, R, R, L, r, R, R, R	0	 at 	-0.109121419			PREZERO after 11 iterates
+C, r, R, L, R, R, L, r, R, R, L	0	 at 	-0.109124245			PREZERO after 11 iterates
+C, r, R, L, R, R, L, r, R, R, L		 at 	-0.109125187	
+C, r, R, L, R, R, L, r, R, L, L		 at 	-0.109141672	
+C, r, R, L, R, R, L, r, R, L, L	0	 at 	-0.109143085			PREZERO after 11 iterates
+C, r, R, L, R, R, L, r, R, L, R	0	 at 	-0.109147952			PREZERO after 11 iterates
+C, r, R, L, R, R, L, r, R, L, R		 at 	-0.10915172	
+C, r, R, L, R, R, R, r, R, L, R		 at 	-0.10916585	
+C, r, R, L, R, R, R, r, R, L, R	0	 at 	-0.109169775			PREZERO after 11 iterates
+C, r, R, L, R, R, R, r, R, L, L	0	 at 	-0.109175113			PREZERO after 11 iterates
+C, r, R, L, R, R, R, r, R, L, L		 at 	-0.109176683	
+C, r, R, L, R, R, R, r, R, R, L		 at 	-0.109195994	
+C, r, R, L, R, R, R, r, R, R, L	0	 at 	-0.10919725			PREZERO after 11 iterates
+C, r, R, L, R, R, R, r, R, R, R	0	 at 	-0.109200704			PREZERO after 11 iterates
+C, r, R, L, R, R, R, r, R, R, R		 at 	-0.109202588	
+C, r, R, L, R, R, R, L, R, R, R		 at 	-0.109256596	
+C, r, R, L, R, R, R, L, R, R, R	0	 at 	-0.109257224			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, R, R, L	0	 at 	-0.109258637			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, R, R, L		 at 	-0.109258951	
+C, r, R, L, R, R, R, L, R, L, L		 at 	-0.109263818	
+C, r, R, L, R, R, R, L, R, L, L	0	 at 	-0.109263975			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, R, L, R	0	 at 	-0.109264603			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, R, L, R		 at 	-0.109264917	
+C, r, R, L, R, R, R, L, R, r, R		 at 	-0.109269941	
+C, r, R, L, R, R, R, L, L, r, R		 at 	-0.10927418	
+C, r, R, L, R, R, R, L, L, L, R		 at 	-0.109278576	
+C, r, R, L, R, R, R, L, L, L, R	0	 at 	-0.109278733			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, L, L, L	0	 at 	-0.109279204			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, L, L, L		 at 	-0.109279518	
+C, r, R, L, R, R, R, L, L, R, L		 at 	-0.109282815	
+C, r, R, L, R, R, R, L, L, R, L	0	 at 	-0.109282972			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, L, R, R	0	 at 	-0.109283757			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, L, R, R		 at 	-0.109284228	
+C, r, R, L, R, R, R, L, r, R, R		 at 	-0.109301027	
+C, r, R, L, R, R, R, L, r, R, R	0	 at 	-0.109302911			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, r, R, L	0	 at 	-0.109307621			PREZERO after 11 iterates
+C, r, R, L, R, R, R, L, r, R, L		 at 	-0.109310133	
+C, r, R, L, R, R, R, R, r, R, L		 at 	-0.109322536	
+C, r, R, L, R, R, R, R, r, R, L	0	 at 	-0.109325362			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, r, R, R	0	 at 	-0.109331014			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, r, R, R		 at 	-0.109333369	
+C, r, R, L, R, R, R, R, L, R, R		 at 	-0.109358803	
+C, r, R, L, R, R, R, R, L, R, R	0	 at 	-0.109359588			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, L, R, L	0	 at 	-0.109361001			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, L, R, L		 at 	-0.109361472	
+C, r, R, L, R, R, R, R, L, L, L		 at 	-0.109367909	
+C, r, R, L, R, R, R, R, L, L, L	0	 at 	-0.109368223			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, L, L, R	0	 at 	-0.109369322			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, L, L, R		 at 	-0.109369793	
+C, r, R, L, R, R, R, R, L, r, R		 at 	-0.109379213	
+C, r, R, L, R, R, R, R, R, r, R		 at 	-0.109389575	
+C, r, R, L, R, R, R, R, R, L, R		 at 	-0.109403862	
+C, r, R, L, R, R, R, R, R, L, R	0	 at 	-0.109404804			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, R, L, L	0	 at 	-0.109406845			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, R, L, L		 at 	-0.109407473	
+C, r, R, L, R, R, R, R, R, R, L		 at 	-0.109424115	
+C, r, R, L, R, R, R, R, R, R, L	0	 at 	-0.109425685			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, R, R, R	0	 at 	-0.109431023			PREZERO after 11 iterates
+C, r, R, L, R, R, R, R, R, R, R		 at 	-0.109434163	
+C, r, R, r, R, R, R, R, R, R, R		 at 	-0.114542472	
+C, r, R, r, R, R, R, R, R, R, R	0	 at 	-0.114548438			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, R, R, L	0	 at 	-0.1145588			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, R, R, L		 at 	-0.114561626	
+C, r, R, r, R, R, R, R, R, L, L		 at 	-0.114593654	
+C, r, R, r, R, R, R, R, R, L, L	0	 at 	-0.11459491			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, R, L, R	0	 at 	-0.114598835			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, R, L, R		 at 	-0.114600562	
+C, r, R, r, R, R, R, R, R, r, R		 at 	-0.114625054	
+C, r, R, r, R, R, R, R, R, r, R	0	 at 	-0.114631805			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, L, r, R	0	 at 	-0.114646406			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, L, r, R		 at 	-0.114651744	
+C, r, R, r, R, R, R, R, L, L, R		 at 	-0.114667444	
+C, r, R, r, R, R, R, R, L, L, R	0	 at 	-0.114668386			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, L, L, L	0	 at 	-0.11467027			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, L, L, L		 at 	-0.114670898	
+C, r, R, r, R, R, R, R, L, R, L		 at 	-0.114682987	
+C, r, R, r, R, R, R, R, L, R, L	0	 at 	-0.114683772			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, L, R, R	0	 at 	-0.114686598			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, L, R, R		 at 	-0.114688011	
+C, r, R, r, R, R, R, R, r, R, R		 at 	-0.114733855	
+C, r, R, r, R, R, R, R, r, R, R	0	 at 	-0.114737309			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, r, R, L	0	 at 	-0.11474563			PREZERO after 11 iterates
+C, r, R, r, R, R, R, R, r, R, L		 at 	-0.114748613	
+C, r, R, r, R, R, R, L, r, R, L		 at 	-0.114798696	
+C, r, R, r, R, R, R, L, r, R, L	0	 at 	-0.114801051			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, r, R, R	0	 at 	-0.114807645			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, r, R, R		 at 	-0.114810157	
+C, r, R, r, R, R, R, L, L, R, R		 at 	-0.114839516	
+C, r, R, r, R, R, R, L, L, R, R	0	 at 	-0.114840301			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, L, R, L	0	 at 	-0.114841871			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, L, R, L		 at 	-0.114842342	
+C, r, R, r, R, R, R, L, L, L, L		 at 	-0.114848465	
+C, r, R, r, R, R, R, L, L, L, L	0	 at 	-0.114848779			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, L, L, R	0	 at 	-0.114849721			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, L, L, R		 at 	-0.114850192	
+C, r, R, r, R, R, R, L, L, r, R		 at 	-0.114857414	
+C, r, R, r, R, R, R, L, L, r, R	0	 at 	-0.114859769			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, R, r, R	0	 at 	-0.114865892			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, R, r, R		 at 	-0.114868404	
+C, r, R, r, R, R, R, L, R, L, R		 at 	-0.114877039	
+C, r, R, r, R, R, R, L, R, L, R	0	 at 	-0.11487751			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, R, L, L	0	 at 	-0.114878766			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, R, L, L		 at 	-0.114879237	
+C, r, R, r, R, R, R, L, R, R, L		 at 	-0.114888343	
+C, r, R, r, R, R, R, L, R, R, L	0	 at 	-0.114889128			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, R, R, R	0	 at 	-0.114891797			PREZERO after 11 iterates
+C, r, R, r, R, R, R, L, R, R, R		 at 	-0.11489321	
+C, r, R, r, R, R, R, r, R, R, R		 at 	-0.114995103	
+C, r, R, r, R, R, R, r, R, R, R	0	 at 	-0.114998243			PREZERO after 11 iterates
+C, r, R, r, R, R, R, r, R, R, L	0	 at 	-0.115004366			PREZERO after 11 iterates
+C, r, R, r, R, R, R, r, R, R, L		 at 	-0.115006093	
+C, r, R, r, R, R, R, r, R, L, L		 at 	-0.115033882	
+C, r, R, r, R, R, R, r, R, L, L	0	 at 	-0.115035295			PREZERO after 11 iterates
+C, r, R, r, R, R, R, r, R, L, R	0	 at 	-0.115040162			PREZERO after 11 iterates
+C, r, R, r, R, R, R, r, R, L, R		 at 	-0.115042517	
+C, r, R, r, R, R, L, r, R, L, R		 at 	-0.115162779	
+C, r, R, r, R, R, L, r, R, L, R	0	 at 	-0.115164663			PREZERO after 11 iterates
+C, r, R, r, R, R, L, r, R, L, L	0	 at 	-0.115168745			PREZERO after 11 iterates
+C, r, R, r, R, R, L, r, R, L, L		 at 	-0.115170001	
+C, r, R, r, R, R, L, r, R, R, L		 at 	-0.115192452	
+C, r, R, r, R, R, L, r, R, R, L	0	 at 	-0.115193865			PREZERO after 11 iterates
+C, r, R, r, R, R, L, r, R, R, R	0	 at 	-0.115198575			PREZERO after 11 iterates
+C, r, R, r, R, R, L, r, R, R, R		 at 	-0.11520093	
+C, r, R, r, R, R, L, L, R, R, R		 at 	-0.11527001	
+C, r, R, r, R, R, L, L, R, R, R	0	 at 	-0.115270952			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, R, R, L	0	 at 	-0.115272522			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, R, R, L		 at 	-0.115272836	
+C, r, R, r, R, R, L, L, R, L, L		 at 	-0.115278331	
+C, r, R, r, R, R, L, L, R, L, L	0	 at 	-0.115278645			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, R, L, R	0	 at 	-0.115279273			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, R, L, R		 at 	-0.115279587	
+C, r, R, r, R, R, L, L, R, r, R		 at 	-0.115284454	
+C, r, R, r, R, R, L, L, R, r, R	0	 at 	-0.115285867			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, L, r, R	0	 at 	-0.115289635			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, L, r, R		 at 	-0.115290891	
+C, r, R, r, R, R, L, L, L, L, R		 at 	-0.115294816	
+C, r, R, r, R, R, L, L, L, L, R	0	 at 	-0.115294973			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, L, L, L	0	 at 	-0.115295444			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, L, L, L		 at 	-0.115295601	
+C, r, R, r, R, R, L, L, L, R, L		 at 	-0.115299055	
+C, r, R, r, R, R, L, L, L, R, L	0	 at 	-0.115299212			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, L, R, R	0	 at 	-0.115299997			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, L, R, R		 at 	-0.115300468	
+C, r, R, r, R, R, L, L, r, R, R		 at 	-0.11531554	
+C, r, R, r, R, R, L, L, r, R, R	0	 at 	-0.115316796			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, r, R, L	0	 at 	-0.115319936			PREZERO after 11 iterates
+C, r, R, r, R, R, L, L, r, R, L		 at 	-0.115321035	
+C, r, R, r, R, R, L, R, r, R, L		 at 	-0.115345213	
+C, r, R, r, R, R, L, R, r, R, L	0	 at 	-0.115346469			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, r, R, R	0	 at 	-0.115349923			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, r, R, R		 at 	-0.115351336	
+C, r, R, r, R, R, L, R, L, R, R		 at 	-0.115369705	
+C, r, R, r, R, R, L, R, L, R, R	0	 at 	-0.115370333			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, L, R, L	0	 at 	-0.115371432			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, L, R, L		 at 	-0.115371746	
+C, r, R, r, R, R, L, R, L, L, L		 at 	-0.115376142	
+C, r, R, r, R, R, L, R, L, L, L	0	 at 	-0.115376456			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, L, L, R	0	 at 	-0.115377084			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, L, L, R		 at 	-0.115377398	
+C, r, R, r, R, R, L, R, L, r, R		 at 	-0.11538305	
+C, r, R, r, R, R, L, R, L, r, R	0	 at 	-0.115384777			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, R, r, R	0	 at 	-0.115390429			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, R, r, R		 at 	-0.11539247	
+C, r, R, r, R, R, L, R, R, L, R		 at 	-0.11540032	
+C, r, R, r, R, R, L, R, R, L, R	0	 at 	-0.115400948			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, R, L, L	0	 at 	-0.115402204			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, R, L, L		 at 	-0.115402518	
+C, r, R, r, R, R, L, R, R, R, L		 at 	-0.115412252	
+C, r, R, r, R, R, L, R, R, R, L	0	 at 	-0.115413037			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, R, R, R	0	 at 	-0.11541602			PREZERO after 11 iterates
+C, r, R, r, R, R, L, R, R, R, R		 at 	-0.115417747	
+C, r, R, r, R, R, r, R, R, R, R		 at 	-0.115689671	
+C, r, R, r, R, R, r, R, R, R, R	0	 at 	-0.115693282			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, R, R, L	0	 at 	-0.115700033			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, R, R, L		 at 	-0.115701917	
+C, r, R, r, R, R, r, R, R, L, L		 at 	-0.115725781	
+C, r, R, r, R, R, r, R, R, L, L	0	 at 	-0.115726723			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, R, L, R	0	 at 	-0.11573002			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, R, L, R		 at 	-0.115731433	
+C, r, R, r, R, R, r, R, R, r, R		 at 	-0.115753413	
+C, r, R, r, R, R, r, R, R, r, R	0	 at 	-0.115759536			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, L, r, R	0	 at 	-0.115778219			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, L, r, R		 at 	-0.115784028	
+C, r, R, r, R, R, r, R, L, L, R		 at 	-0.11580381	
+C, r, R, r, R, R, r, R, L, L, R	0	 at 	-0.115805066			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, L, L, L	0	 at 	-0.115807735			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, L, L, L		 at 	-0.115808677	
+C, r, R, r, R, R, r, R, L, R, L		 at 	-0.115827203	
+C, r, R, r, R, R, r, R, L, R, L	0	 at 	-0.115828459			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, L, R, R	0	 at 	-0.115833169			PREZERO after 11 iterates
+C, r, R, r, R, R, r, R, L, R, R		 at 	-0.115835681	
+C, r, R, r, R, R, r, R, r, R, R		 at 	-0.115957827	
+C, r, R, r, R, R, r, R, r, R, R	0	 at 	-0.115977766			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, r, R, R	0	 at 	-0.116092376			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, r, R, R		 at 	-0.11611153	
+C, r, R, r, R, L, r, R, L, R, R		 at 	-0.116226297	
+C, r, R, r, R, L, r, R, L, R, R	0	 at 	-0.116228495			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, L, R, L	0	 at 	-0.116232891			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, L, R, L		 at 	-0.11623399	
+C, r, R, r, R, L, r, R, L, L, L		 at 	-0.116250789	
+C, r, R, r, R, L, r, R, L, L, L	0	 at 	-0.116251574			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, L, L, R	0	 at 	-0.116254086			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, L, L, R		 at 	-0.116255185	
+C, r, R, r, R, L, r, R, L, r, R		 at 	-0.116272769	
+C, r, R, r, R, L, r, R, L, r, R	0	 at 	-0.116277793			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, R, r, R	0	 at 	-0.116295377			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, R, r, R		 at 	-0.116300715	
+C, r, R, r, R, L, r, R, R, L, R		 at 	-0.116319869	
+C, r, R, r, R, L, r, R, R, L, R	0	 at 	-0.116321125			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, R, L, L	0	 at 	-0.116323951			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, R, L, L		 at 	-0.116324893	
+C, r, R, r, R, L, r, R, R, R, L		 at 	-0.116345617	
+C, r, R, r, R, L, r, R, R, R, L	0	 at 	-0.116347187			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, R, R, R	0	 at 	-0.116353153			PREZERO after 11 iterates
+C, r, R, r, R, L, r, R, R, R, R		 at 	-0.116356293	
+C, r, R, r, R, L, L, R, R, R, R		 at 	-0.116578919	
+C, r, R, r, R, L, L, R, R, R, R	0	 at 	-0.116580175			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, R, R, L	0	 at 	-0.11658253			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, R, R, L		 at 	-0.116583001	
+C, r, R, r, R, L, L, R, R, L, L		 at 	-0.116590537	
+C, r, R, r, R, L, L, R, R, L, L	0	 at 	-0.116590851			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, R, L, R	0	 at 	-0.116591793			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, R, L, R		 at 	-0.116592107	
+C, r, R, r, R, L, L, R, R, r, R		 at 	-0.116598073	
+C, r, R, r, R, L, L, R, R, r, R	0	 at 	-0.116599486			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, L, r, R	0	 at 	-0.116604353			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, L, r, R		 at 	-0.116605609	
+C, r, R, r, R, L, L, R, L, L, R		 at 	-0.116609534	
+C, r, R, r, R, L, L, R, L, L, R	0	 at 	-0.116609848			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, L, L, L	0	 at 	-0.116610319			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, L, L, L		 at 	-0.116610476	
+C, r, R, r, R, L, L, R, L, R, L		 at 	-0.11661393	
+C, r, R, r, R, L, L, R, L, R, L	0	 at 	-0.116614087			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, L, R, R	0	 at 	-0.116614872			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, L, R, R		 at 	-0.116615343	
+C, r, R, r, R, L, L, R, r, R, R		 at 	-0.116628845	
+C, r, R, r, R, L, L, R, r, R, R	0	 at 	-0.116629944			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, r, R, L	0	 at 	-0.116632299			PREZERO after 11 iterates
+C, r, R, r, R, L, L, R, r, R, L		 at 	-0.116633241	
+C, r, R, r, R, L, L, L, r, R, L		 at 	-0.116652395	
+C, r, R, r, R, L, L, L, r, R, L	0	 at 	-0.11665318			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, r, R, R	0	 at 	-0.116655378			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, r, R, R		 at 	-0.11665632	
+C, r, R, r, R, L, L, L, L, R, R		 at 	-0.116666996	
+C, r, R, r, R, L, L, L, L, R, R	0	 at 	-0.11666731			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, L, R, L	0	 at 	-0.116667938			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, L, R, L		 at 	-0.116668095	
+C, r, R, r, R, L, L, L, L, L, L		 at 	-0.11667045	
+C, r, R, r, R, L, L, L, L, L, L	0	 at 	-0.116670607			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, L, L, R	0	 at 	-0.116670921			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, L, L, R		 at 	-0.116671078	
+C, r, R, r, R, L, L, L, L, r, R		 at 	-0.116673747	
+C, r, R, r, R, L, L, L, L, r, R	0	 at 	-0.116674532			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, R, r, R	0	 at 	-0.116677672			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, R, r, R		 at 	-0.116678614	
+C, r, R, r, R, L, L, L, R, L, R		 at 	-0.116681911	
+C, r, R, r, R, L, L, L, R, L, R	0	 at 	-0.116682225			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, R, L, L	0	 at 	-0.116682696			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, R, L, L		 at 	-0.116682853	
+C, r, R, r, R, L, L, L, R, R, L		 at 	-0.116686778	
+C, r, R, r, R, L, L, L, R, R, L	0	 at 	-0.116687092			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, R, R, R	0	 at 	-0.116688191			PREZERO after 11 iterates
+C, r, R, r, R, L, L, L, R, R, R		 at 	-0.116688819	
+C, r, R, r, R, L, L, r, R, R, R		 at 	-0.116736704	
+C, r, R, r, R, L, L, r, R, R, R	0	 at 	-0.116738274			PREZERO after 11 iterates
+C, r, R, r, R, L, L, r, R, R, L	0	 at 	-0.116741414			PREZERO after 11 iterates
+C, r, R, r, R, L, L, r, R, R, L		 at 	-0.116742199	
+C, r, R, r, R, L, L, r, R, L, L		 at 	-0.116756486	
+C, r, R, r, R, L, L, r, R, L, L	0	 at 	-0.116757271			PREZERO after 11 iterates
+C, r, R, r, R, L, L, r, R, L, R	0	 at 	-0.116759783			PREZERO after 11 iterates
+C, r, R, r, R, L, L, r, R, L, R		 at 	-0.116760882	
+C, r, R, r, R, L, L, r, R, r, R		 at 	-0.11678977	
+C, r, R, r, R, L, R, r, R, r, R		 at 	-0.116820385	
+C, r, R, r, R, L, R, r, R, L, R		 at 	-0.116851471	
+C, r, R, r, R, L, R, r, R, L, R	0	 at 	-0.116852727			PREZERO after 11 iterates
+C, r, R, r, R, L, R, r, R, L, L	0	 at 	-0.116855553			PREZERO after 11 iterates
+C, r, R, r, R, L, R, r, R, L, L		 at 	-0.116856338	
+C, r, R, r, R, L, R, r, R, R, L		 at 	-0.116872823	
+C, r, R, r, R, L, R, r, R, R, L	0	 at 	-0.116873922			PREZERO after 11 iterates
+C, r, R, r, R, L, R, r, R, R, R	0	 at 	-0.116877533			PREZERO after 11 iterates
+C, r, R, r, R, L, R, r, R, R, R		 at 	-0.116879417	
+C, r, R, r, R, L, R, L, R, R, R		 at 	-0.116940804	
+C, r, R, r, R, L, R, L, R, R, R	0	 at 	-0.116941589			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, R, R, L	0	 at 	-0.116943159			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, R, R, L		 at 	-0.11694363	
+C, r, R, r, R, L, R, L, R, L, L		 at 	-0.116948968	
+C, r, R, r, R, L, R, L, R, L, L	0	 at 	-0.116949125			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, R, L, R	0	 at 	-0.11694991			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, R, L, R		 at 	-0.116950224	
+C, r, R, r, R, L, R, L, R, r, R		 at 	-0.116955091	
+C, r, R, r, R, L, R, L, R, r, R	0	 at 	-0.116956347			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, L, r, R	0	 at 	-0.1169609			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, L, r, R		 at 	-0.116961999	
+C, r, R, r, R, L, R, L, L, L, R		 at 	-0.116965924	
+C, r, R, r, R, L, R, L, L, L, R	0	 at 	-0.116966081			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, L, L, L	0	 at 	-0.116966709			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, L, L, L		 at 	-0.116966866	
+C, r, R, r, R, L, R, L, L, R, L		 at 	-0.11697032	
+C, r, R, r, R, L, R, L, L, R, L	0	 at 	-0.116970634			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, L, R, R	0	 at 	-0.116971419			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, L, R, R		 at 	-0.11697189	
+C, r, R, r, R, L, R, L, r, R, R		 at 	-0.116988061	
+C, r, R, r, R, L, R, L, r, R, R	0	 at 	-0.116989317			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, r, R, L	0	 at 	-0.116992771			PREZERO after 11 iterates
+C, r, R, r, R, L, R, L, r, R, L		 at 	-0.11699387	
+C, r, R, r, R, L, R, R, r, R, L		 at 	-0.117025898	
+C, r, R, r, R, L, R, R, r, R, L	0	 at 	-0.117027311			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, r, R, R	0	 at 	-0.117031393			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, r, R, R		 at 	-0.11703312	
+C, r, R, r, R, L, R, R, L, R, R		 at 	-0.117057141	
+C, r, R, r, R, L, R, R, L, R, R	0	 at 	-0.117057769			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, L, R, L	0	 at 	-0.117059339			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, L, R, L		 at 	-0.117059653	
+C, r, R, r, R, L, R, R, L, L, L		 at 	-0.11706609	
+C, r, R, r, R, L, R, R, L, L, L	0	 at 	-0.117066404			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, L, L, R	0	 at 	-0.117067346			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, L, L, R		 at 	-0.117067817	
+C, r, R, r, R, L, R, R, L, r, R		 at 	-0.117075353	
+C, r, R, r, R, L, R, R, L, r, R	0	 at 	-0.117077708			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, R, r, R	0	 at 	-0.117087599			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, R, r, R		 at 	-0.117090425	
+C, r, R, r, R, L, R, R, R, L, R		 at 	-0.117102357	
+C, r, R, r, R, L, R, R, R, L, R	0	 at 	-0.117103299			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, R, L, L	0	 at 	-0.117105183			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, R, L, L		 at 	-0.117105811	
+C, r, R, r, R, L, R, R, R, R, L		 at 	-0.117121825	
+C, r, R, r, R, L, R, R, R, R, L	0	 at 	-0.117123081			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, R, R, R	0	 at 	-0.117128262			PREZERO after 11 iterates
+C, r, R, r, R, L, R, R, R, R, R		 at 	-0.117131088	
+C, r, R, r, R, r, R, R, R, R, R		 at 	-0.118299482	
+C, r, R, r, R, r, R, R, R, R, R	0	 at 	-0.118307018			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, R, R, L	0	 at 	-0.118320991			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, R, R, L		 at 	-0.118324602	
+C, r, R, r, R, r, R, R, R, L, L		 at 	-0.118369661	
+C, r, R, r, R, r, R, R, R, L, L	0	 at 	-0.118371388			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, R, L, R	0	 at 	-0.11837704			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, R, L, R		 at 	-0.118379395	
+C, r, R, r, R, r, R, R, R, r, R		 at 	-0.118414406	
+C, r, R, r, R, r, R, R, R, r, R	0	 at 	-0.118422256			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, L, r, R	0	 at 	-0.118456953			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, L, r, R		 at 	-0.118463547	
+C, r, R, r, R, r, R, R, L, L, R		 at 	-0.118487568	
+C, r, R, r, R, r, R, R, L, L, R	0	 at 	-0.118488981			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, L, L, L	0	 at 	-0.118492278			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, L, L, L		 at 	-0.11849322	
+C, r, R, r, R, r, R, R, L, R, L		 at 	-0.118514258	
+C, r, R, r, R, r, R, R, L, R, L	0	 at 	-0.118515671			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, L, R, R	0	 at 	-0.118520695			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, L, R, R		 at 	-0.11852305	
+C, r, R, r, R, r, R, R, r, R, R		 at 	-0.118607359	
+C, r, R, r, R, r, R, R, r, R, R	0	 at 	-0.118613639			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, r, R, L	0	 at 	-0.118628711			PREZERO after 11 iterates
+C, r, R, r, R, r, R, R, r, R, L		 at 	-0.118633578	
+C, r, R, r, R, r, R, L, r, R, L		 at 	-0.118778646	
+C, r, R, r, R, r, R, L, r, R, L	0	 at 	-0.118783199			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, r, R, R	0	 at 	-0.118797329			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, r, R, R		 at 	-0.118802981	
+C, r, R, r, R, r, R, L, L, R, R		 at 	-0.118878184	
+C, r, R, r, R, r, R, L, L, R, R	0	 at 	-0.118880225			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, L, R, L	0	 at 	-0.118884464			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, L, R, L		 at 	-0.11888572	
+C, r, R, r, R, r, R, L, L, L, L		 at 	-0.118903304	
+C, r, R, r, R, r, R, L, L, L, L	0	 at 	-0.118904089			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, L, L, R	0	 at 	-0.118906758			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, L, L, R		 at 	-0.118908014	
+C, r, R, r, R, r, R, L, L, r, R		 at 	-0.118927482	
+C, r, R, r, R, r, R, L, L, r, R	0	 at 	-0.118932506			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, R, r, R	0	 at 	-0.118960609			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, R, r, R		 at 	-0.118966575	
+C, r, R, r, R, r, R, L, R, L, R		 at 	-0.118992166	
+C, r, R, r, R, r, R, L, R, L, R	0	 at 	-0.118993893			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, R, L, L	0	 at 	-0.118997818			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, R, L, L		 at 	-0.118999074	
+C, r, R, r, R, r, R, L, R, R, L		 at 	-0.119030003	
+C, r, R, r, R, r, R, L, R, R, L	0	 at 	-0.119032358			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, R, R, R	0	 at 	-0.119041464			PREZERO after 11 iterates
+C, r, R, r, R, r, R, L, R, R, R		 at 	-0.119046174	
+C, r, R, r, R, r, R, r, R, R, R		 at 	-0.119491583	
+C, r, R, r, R, r, R, r, R, R, R	0	 at 	-0.119508068			PREZERO after 11 iterates
+C, r, R, r, R, r, R, r, R, R, L	0	 at 	-0.119542451			PREZERO after 11 iterates
+C, r, R, r, R, r, R, r, R, R, L		 at 	-0.119551871	
+C, r, R, r, R, r, R, r, R, L, L		 at 	-0.119715308	
+C, r, R, r, R, r, R, r, R, L, L	0	 at 	-0.119723629			PREZERO after 11 iterates
+C, r, R, r, R, r, R, r, R, L, R	0	 at 	-0.119752988			PREZERO after 11 iterates
+C, r, R, r, R, r, R, r, R, L, R		 at 	-0.119766019	
+C, r, R, r, R, r, R, r, R, r, R		 at 	-0.120059609	
+C, r, R, r, R, r, R, r, R, r, R	0	 at 	-0.120172963			PREZERO after 11 iterates
+C, r, L, r, R, r, R, r, R, r, R	0	 at 	-0.125539066			PREZERO after 11 iterates
+C, r, L, r, R, r, R, r, R, r, R		 at 	-0.125559005	
+C, r, L, r, R, r, R, r, R, L, R		 at 	-0.125640959	
+C, r, L, r, R, r, R, r, R, L, R	0	 at 	-0.125645355			PREZERO after 11 iterates
+C, r, L, r, R, r, R, r, R, L, L	0	 at 	-0.125656031			PREZERO after 11 iterates
+C, r, L, r, R, r, R, r, R, L, L		 at 	-0.125658857	
+C, r, L, r, R, r, R, r, R, L, r		 at 	-0.125682721	
+C, r, L, r, R, r, R, r, R, R, r		 at 	-0.12569795	
+C, r, L, r, R, r, R, r, R, R, L		 at 	-0.125725896	
+C, r, L, r, R, r, R, r, R, R, L	0	 at 	-0.125729664			PREZERO after 11 iterates
+C, r, L, r, R, r, R, r, R, R, R	0	 at 	-0.125745207			PREZERO after 11 iterates
+C, r, L, r, R, r, R, r, R, R, R		 at 	-0.125752272	
+C, r, L, r, R, r, R, L, R, R, R		 at 	-0.125981963	
+C, r, L, r, R, r, R, L, R, R, R	0	 at 	-0.125984475			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, R, R, L	0	 at 	-0.125989656			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, R, R, L		 at 	-0.125990912	
+C, r, L, r, R, r, R, L, R, R, r		 at 	-0.125998762	
+C, r, L, r, R, r, R, L, R, L, r		 at 	-0.126002844	
+C, r, L, r, R, r, R, L, R, L, L		 at 	-0.126008339	
+C, r, L, r, R, r, R, L, R, L, L	0	 at 	-0.126008967			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, R, L, R	0	 at 	-0.126011165			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, R, L, R		 at 	-0.12601195	
+C, r, L, r, R, r, R, L, R, r, R		 at 	-0.126024981	
+C, r, L, r, R, r, R, L, R, r, R	0	 at 	-0.126027336			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, L, r, R	0	 at 	-0.126049316			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, L, r, R		 at 	-0.126051357	
+C, r, L, r, R, r, R, L, L, L, R		 at 	-0.126060934	
+C, r, L, r, R, r, R, L, L, L, R	0	 at 	-0.126061562			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, L, L, L	0	 at 	-0.126062975			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, L, L, L		 at 	-0.126063446	
+C, r, L, r, R, r, R, L, L, L, r		 at 	-0.126066743	
+C, r, L, r, R, r, R, L, L, R, r		 at 	-0.126069098	
+C, r, L, r, R, r, R, L, L, R, L		 at 	-0.12607318	
+C, r, L, r, R, r, R, L, L, R, L	0	 at 	-0.126073808			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, L, R, R	0	 at 	-0.126076163			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, L, R, R		 at 	-0.126077262	
+C, r, L, r, R, r, R, L, r, R, R		 at 	-0.126117454	
+C, r, L, r, R, r, R, L, r, R, R	0	 at 	-0.126120123			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, r, R, L	0	 at 	-0.126126874			PREZERO after 11 iterates
+C, r, L, r, R, r, R, L, r, R, L		 at 	-0.126128758	
+C, r, L, r, R, r, R, L, r, R, r		 at 	-0.126146813	
+C, r, L, r, R, r, R, L, r, L, r		 at 	-0.126167223	
+C, r, L, r, R, r, R, R, r, L, r		 at 	-0.126202705	
+C, r, L, r, R, r, R, R, r, R, r		 at 	-0.126224371	
+C, r, L, r, R, r, R, R, r, R, L		 at 	-0.126243996	
+C, r, L, r, R, r, R, R, r, R, L	0	 at 	-0.126246194			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, r, R, R	0	 at 	-0.126253887			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, r, R, R		 at 	-0.12625687	
+C, r, L, r, R, r, R, R, L, R, R		 at 	-0.126305226	
+C, r, L, r, R, r, R, R, L, R, R	0	 at 	-0.126306639			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, L, R, L	0	 at 	-0.126309779			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, L, R, L		 at 	-0.126310407	
+C, r, L, r, R, r, R, R, L, R, r		 at 	-0.126315745	
+C, r, L, r, R, r, R, R, L, L, r		 at 	-0.126318885	
+C, r, L, r, R, r, R, R, L, L, L		 at 	-0.126323281	
+C, r, L, r, R, r, R, R, L, L, L	0	 at 	-0.126323752			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, L, L, R	0	 at 	-0.126325636			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, L, L, R		 at 	-0.126326421	
+C, r, L, r, R, r, R, R, L, r, R		 at 	-0.126339452	
+C, r, L, r, R, r, R, R, L, r, R	0	 at 	-0.126342121			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, R, r, R	0	 at 	-0.126373835			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, R, r, R		 at 	-0.126377446	
+C, r, L, r, R, r, R, R, R, L, R		 at 	-0.126397542	
+C, r, L, r, R, r, R, R, R, L, R	0	 at 	-0.126398798			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, R, L, L	0	 at 	-0.126402409			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, R, L, L		 at 	-0.126403351	
+C, r, L, r, R, r, R, R, R, L, r		 at 	-0.126412143	
+C, r, L, r, R, r, R, R, R, R, r		 at 	-0.126419208	
+C, r, L, r, R, r, R, R, R, R, L		 at 	-0.126432867	
+C, r, L, r, R, r, R, R, R, R, L	0	 at 	-0.126434908			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, R, R, R	0	 at 	-0.126444485			PREZERO after 11 iterates
+C, r, L, r, R, r, R, R, R, R, R		 at 	-0.126449038	
+C, r, L, r, R, L, R, R, R, R, R		 at 	-0.127259158	
+C, r, L, r, R, L, R, R, R, R, R	0	 at 	-0.127260885			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, R, R, L	0	 at 	-0.127264496			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, R, R, L		 at 	-0.127265281	
+C, r, L, r, R, L, R, R, R, R, r		 at 	-0.127270305	
+C, r, L, r, R, L, R, R, R, L, r		 at 	-0.127273131	
+C, r, L, r, R, L, R, R, R, L, L		 at 	-0.127276271	
+C, r, L, r, R, L, R, R, R, L, L	0	 at 	-0.127276585			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, R, L, R	0	 at 	-0.127277841			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, R, L, R		 at 	-0.127278312	
+C, r, L, r, R, L, R, R, R, r, R		 at 	-0.12728522	
+C, r, L, r, R, L, R, R, R, r, R	0	 at 	-0.127286476			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, L, r, R	0	 at 	-0.127297466			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, L, r, R		 at 	-0.127298251	
+C, r, L, r, R, L, R, R, L, L, R		 at 	-0.127302333	
+C, r, L, r, R, L, R, R, L, L, R	0	 at 	-0.127302647			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, L, L, L	0	 at 	-0.127303275			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, L, L, L		 at 	-0.127303432	
+C, r, L, r, R, L, R, R, L, L, r		 at 	-0.127304688	
+C, r, L, r, R, L, R, R, L, R, r		 at 	-0.127305787	
+C, r, L, r, R, L, R, R, L, R, L		 at 	-0.127307357	
+C, r, L, r, R, L, R, R, L, R, L	0	 at 	-0.127307514			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, L, R, R	0	 at 	-0.127308613			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, L, R, R		 at 	-0.127308927	
+C, r, L, r, R, L, R, R, r, R, R		 at 	-0.127323214	
+C, r, L, r, R, L, R, R, r, R, R	0	 at 	-0.127323999			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, r, R, L	0	 at 	-0.127326197			PREZERO after 11 iterates
+C, r, L, r, R, L, R, R, r, R, L		 at 	-0.127326668	
+C, r, L, r, R, L, R, R, r, R, r		 at 	-0.127331692	
+C, r, L, r, R, L, R, R, r, L, r		 at 	-0.127337344	
+C, r, L, r, R, L, R, L, r, L, r		 at 	-0.127348648	
+C, r, L, r, R, L, R, L, r, R, r		 at 	-0.127353515	
+C, r, L, r, R, L, R, L, r, R, L		 at 	-0.127357283	
+C, r, L, r, R, L, R, L, r, R, L	0	 at 	-0.127357754			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, r, R, R	0	 at 	-0.127359324			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, r, R, R		 at 	-0.127359952	
+C, r, L, r, R, L, R, L, L, R, R		 at 	-0.127368744	
+C, r, L, r, R, L, R, L, L, R, R	0	 at 	-0.127369058			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, L, R, L	0	 at 	-0.127369529			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, L, R, L		 at 	-0.127369686	
+C, r, L, r, R, L, R, L, L, R, r		 at 	-0.127370471	
+C, r, L, r, R, L, R, L, L, L, r		 at 	-0.127371099	
+C, r, L, r, R, L, R, L, L, L, L		 at 	-0.127371727	
+C, r, L, r, R, L, R, L, L, L, R	0	 at 	-0.127372041			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, L, L, R		 at 	-0.127372198	
+C, r, L, r, R, L, R, L, L, r, R		 at 	-0.127374239	
+C, r, L, r, R, L, R, L, L, r, R	0	 at 	-0.127374553			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, R, r, R	0	 at 	-0.127379263			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, R, r, R		 at 	-0.127379734	
+C, r, L, r, R, L, R, L, R, L, R		 at 	-0.127382246	
+C, r, L, r, R, L, R, L, R, L, R	0	 at 	-0.127382403			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, R, L, L	0	 at 	-0.127382874			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, R, L, L		 at 	-0.127383031	
+C, r, L, r, R, L, R, L, R, L, r		 at 	-0.127383973	
+C, r, L, r, R, L, R, L, R, R, r		 at 	-0.127384915	
+C, r, L, r, R, L, R, L, R, R, L		 at 	-0.127386328	
+C, r, L, r, R, L, R, L, R, R, L	0	 at 	-0.127386642			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, R, R, R	0	 at 	-0.127387584			PREZERO after 11 iterates
+C, r, L, r, R, L, R, L, R, R, R		 at 	-0.127388055	
+C, r, L, r, R, L, R, r, R, R, R		 at 	-0.127424636	
+C, r, L, r, R, L, R, r, R, R, R	0	 at 	-0.127425578			PREZERO after 11 iterates
+C, r, L, r, R, L, R, r, R, R, L	0	 at 	-0.127427619			PREZERO after 11 iterates
+C, r, L, r, R, L, R, r, R, R, L		 at 	-0.12742809	
+C, r, L, r, R, L, R, r, R, R, r		 at 	-0.127431387	
+C, r, L, r, R, L, R, r, R, L, r		 at 	-0.127433428	
+C, r, L, r, R, L, R, r, R, L, L		 at 	-0.127436097	
+C, r, L, r, R, L, R, r, R, L, L	0	 at 	-0.127436411			PREZERO after 11 iterates
+C, r, L, r, R, L, R, r, R, L, R	0	 at 	-0.12743751			PREZERO after 11 iterates
+C, r, L, r, R, L, R, r, R, L, R		 at 	-0.127437981	
+C, r, L, r, R, L, R, r, R, r, R		 at 	-0.127445988	
+C, r, L, r, R, L, R, r, R, r, R	0	 at 	-0.127447715			PREZERO after 11 iterates
+C, r, L, r, R, L, R, r, L, r, R	0	 at 	-0.127478644			PREZERO after 11 iterates
+C, r, L, r, R, L, L, r, L, r, R	0	 at 	-0.127493559			PREZERO after 11 iterates
+C, r, L, r, R, L, L, r, R, r, R	0	 at 	-0.127521819			PREZERO after 11 iterates
+C, r, L, r, R, L, L, r, R, r, R		 at 	-0.127523232	
+C, r, L, r, R, L, L, r, R, L, R		 at 	-0.127529983	
+C, r, L, r, R, L, L, r, R, L, R	0	 at 	-0.127530297			PREZERO after 11 iterates
+C, r, L, r, R, L, L, r, R, L, L	0	 at 	-0.127531239			PREZERO after 11 iterates
+C, r, L, r, R, L, L, r, R, L, L		 at 	-0.127531553	
+C, r, L, r, R, L, L, r, R, L, r		 at 	-0.127533594	
+C, r, L, r, R, L, L, r, R, R, r		 at 	-0.127535321	
+C, r, L, r, R, L, L, r, R, R, L		 at 	-0.12753799	
+C, r, L, r, R, L, L, r, R, R, L	0	 at 	-0.127538304			PREZERO after 11 iterates
+C, r, L, r, R, L, L, r, R, R, R	0	 at 	-0.127539874			PREZERO after 11 iterates
+C, r, L, r, R, L, L, r, R, R, R		 at 	-0.127540659	
+C, r, L, r, R, L, L, L, R, R, R		 at 	-0.127567349	
+C, r, L, r, R, L, L, L, R, R, R	0	 at 	-0.12756782			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, R, R, L	0	 at 	-0.127568448			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, R, R, L		 at 	-0.127568605	
+C, r, L, r, R, L, L, L, R, R, r		 at 	-0.127569547	
+C, r, L, r, R, L, L, L, R, L, r		 at 	-0.127570175	
+C, r, L, r, R, L, L, L, R, L, L		 at 	-0.127570803	
+C, r, L, r, R, L, L, L, R, L, L	0	 at 	-0.12757096			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, R, L, R		 at 	-0.127571274	
+C, r, L, r, R, L, L, L, R, r, R		 at 	-0.127573001	
+C, r, L, r, R, L, L, L, R, r, R	0	 at 	-0.127573315			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, L, r, R	0	 at 	-0.127576455			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, L, r, R		 at 	-0.127576612	
+C, r, L, r, R, L, L, L, L, L, R		 at 	-0.127577868	
+C, r, L, r, R, L, L, L, L, L, R	0	 at 	-0.127578025			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, L, L, L		 at 	-0.127578182	
+C, r, L, r, R, L, L, L, L, L, r		 at 	-0.127578653	
+C, r, L, r, R, L, L, L, L, R, r		 at 	-0.127578967	
+C, r, L, r, R, L, L, L, L, R, L		 at 	-0.127579595	
+C, r, L, r, R, L, L, L, L, R, R	0	 at 	-0.127579909			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, L, R, R		 at 	-0.127580066	
+C, r, L, r, R, L, L, L, r, R, R		 at 	-0.127585561	
+C, r, L, r, R, L, L, L, r, R, R	0	 at 	-0.127585875			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, r, R, L	0	 at 	-0.127586817			PREZERO after 11 iterates
+C, r, L, r, R, L, L, L, r, R, L		 at 	-0.127587131	
+C, r, L, r, R, L, L, L, r, R, r		 at 	-0.127589486	
+C, r, L, r, R, L, L, L, r, L, r		 at 	-0.127592312	
+C, r, L, r, R, L, L, R, r, L, r		 at 	-0.127598906	
+C, r, L, r, R, L, L, R, r, R, r		 at 	-0.127602046	
+C, r, L, r, R, L, L, R, r, R, L		 at 	-0.127604715	
+C, r, L, r, R, L, L, R, r, R, L	0	 at 	-0.127605029			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, r, R, R	0	 at 	-0.127606128			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, r, R, R		 at 	-0.127606599	
+C, r, L, r, R, L, L, R, L, R, R		 at 	-0.127613821	
+C, r, L, r, R, L, L, R, L, R, R	0	 at 	-0.127613978			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, L, R, L	0	 at 	-0.127614449			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, L, R, L		 at 	-0.127614606	
+C, r, L, r, R, L, L, R, L, R, r		 at 	-0.127615391	
+C, r, L, r, R, L, L, R, L, L, r		 at 	-0.127615862	
+C, r, L, r, R, L, L, R, L, L, L		 at 	-0.12761649	
+C, r, L, r, R, L, L, R, L, L, L	0	 at 	-0.127616647			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, L, L, R	0	 at 	-0.127616961			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, L, L, R		 at 	-0.127617118	
+C, r, L, r, R, L, L, R, L, r, R		 at 	-0.127619002	
+C, r, L, r, R, L, L, R, L, r, R	0	 at 	-0.127619473			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, R, r, R	0	 at 	-0.127624497			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, R, r, R		 at 	-0.127625125	
+C, r, L, r, R, L, L, R, R, L, R		 at 	-0.127628108	
+C, r, L, r, R, L, L, R, R, L, R	0	 at 	-0.127628422			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, R, L, L	0	 at 	-0.127628893			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, R, L, L		 at 	-0.12762905	
+C, r, L, r, R, L, L, R, R, L, r		 at 	-0.127630306	
+C, r, L, r, R, L, L, R, R, R, r		 at 	-0.127631562	
+C, r, L, r, R, L, L, R, R, R, L		 at 	-0.127633603	
+C, r, L, r, R, L, L, R, R, R, L	0	 at 	-0.127633917			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, R, R, R	0	 at 	-0.127635487			PREZERO after 11 iterates
+C, r, L, r, R, L, L, R, R, R, R		 at 	-0.127636115	
+C, r, L, r, R, L, r, R, R, R, R		 at 	-0.127768623	
+C, r, L, r, R, L, r, R, R, R, R	0	 at 	-0.127770193			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, R, R, L	0	 at 	-0.127773333			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, R, R, L		 at 	-0.127774118	
+C, r, L, r, R, L, r, R, R, R, r		 at 	-0.127778671	
+C, r, L, r, R, L, r, R, R, L, r		 at 	-0.127781497	
+C, r, L, r, R, L, r, R, R, L, L		 at 	-0.12778448	
+C, r, L, r, R, L, r, R, R, L, L	0	 at 	-0.127784951			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, R, L, R	0	 at 	-0.127786207			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, R, L, R		 at 	-0.127786678	
+C, r, L, r, R, L, r, R, R, r, R		 at 	-0.127794371	
+C, r, L, r, R, L, r, R, R, r, R	0	 at 	-0.127795784			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, L, r, R	0	 at 	-0.127809914			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, L, r, R		 at 	-0.12781117	
+C, r, L, r, R, L, r, R, L, L, R		 at 	-0.127816979	
+C, r, L, r, R, L, r, R, L, L, R	0	 at 	-0.127817293			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, L, L, L	0	 at 	-0.127818235			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, L, L, L		 at 	-0.127818392	
+C, r, L, r, R, L, r, R, L, L, r		 at 	-0.127820433	
+C, r, L, r, R, L, r, R, L, R, r		 at 	-0.12782216	
+C, r, L, r, R, L, r, R, L, R, L		 at 	-0.127824672	
+C, r, L, r, R, L, r, R, L, R, L	0	 at 	-0.127824986			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, L, R, R	0	 at 	-0.127826556			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, L, R, R		 at 	-0.127827341	
+C, r, L, r, R, L, r, R, r, R, R		 at 	-0.127854345	
+C, r, L, r, R, L, r, R, r, R, R	0	 at 	-0.127856072			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, r, R, L	0	 at 	-0.127860939			PREZERO after 11 iterates
+C, r, L, r, R, L, r, R, r, R, L		 at 	-0.127862195	
+C, r, L, r, R, L, r, R, r, R, r		 at 	-0.127874441	
+C, r, L, r, R, L, r, R, r, L, r		 at 	-0.127890612	
+C, r, L, r, R, L, r, L, r, L, r		 at 	-0.127939125	
+C, r, L, r, R, L, r, L, r, R, r		 at 	-0.127968955	
+C, r, L, r, R, L, r, L, r, R, L		 at 	-0.128008833	
+C, r, L, r, R, L, r, L, r, R, L	0	 at 	-0.128016369			PREZERO after 11 iterates
+C, r, L, r, R, R, r, L, r, R, L	0	 at 	-0.128077285			PREZERO after 11 iterates
+C, r, L, r, R, R, r, L, r, R, L		 at 	-0.128084821	
+C, r, L, r, R, R, r, L, r, R, r		 at 	-0.128125641	
+C, r, L, r, R, R, r, L, r, L, r		 at 	-0.128157041	
+C, r, L, r, R, R, r, R, r, L, r		 at 	-0.128210892	
+C, r, L, r, R, R, r, R, r, R, r		 at 	-0.128228633	
+C, r, L, r, R, R, r, R, r, R, L		 at 	-0.128241821	
+C, r, L, r, R, R, r, R, r, R, L	0	 at 	-0.128243234			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, r, R, R	0	 at 	-0.128248572			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, r, R, R		 at 	-0.128250613	
+C, r, L, r, R, R, r, R, L, R, R		 at 	-0.128280914	
+C, r, L, r, R, R, r, R, L, R, R	0	 at 	-0.128281699			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, L, R, L	0	 at 	-0.128283426			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, L, R, L		 at 	-0.12828374	
+C, r, L, r, R, R, r, R, L, R, r		 at 	-0.128286723	
+C, r, L, r, R, R, r, R, L, L, r		 at 	-0.128288764	
+C, r, L, r, R, R, r, R, L, L, L		 at 	-0.128290962	
+C, r, L, r, R, R, r, R, L, L, L	0	 at 	-0.128291119			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, L, L, R	0	 at 	-0.128292218			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, L, L, R		 at 	-0.128292689	
+C, r, L, r, R, R, r, R, L, r, R		 at 	-0.128299283	
+C, r, L, r, R, R, r, R, L, r, R	0	 at 	-0.128300539			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, R, r, R	0	 at 	-0.128317181			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, R, r, R		 at 	-0.128318751	
+C, r, L, r, R, R, r, R, R, L, R		 at 	-0.128327543	
+C, r, L, r, R, R, r, R, R, L, R	0	 at 	-0.128328171			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, R, L, L	0	 at 	-0.128329741			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, R, L, L		 at 	-0.128330212	
+C, r, L, r, R, R, r, R, R, L, r		 at 	-0.128333666	
+C, r, L, r, R, R, r, R, R, R, r		 at 	-0.12833712	
+C, r, L, r, R, R, r, R, R, R, L		 at 	-0.128342458	
+C, r, L, r, R, R, r, R, R, R, L	0	 at 	-0.128343243			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, R, R, R	0	 at 	-0.128347011			PREZERO after 11 iterates
+C, r, L, r, R, R, r, R, R, R, R		 at 	-0.128348738	

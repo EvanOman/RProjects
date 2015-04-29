@@ -1,0 +1,29 @@
+\documentclass[11pt]{article}
+\usepackage[margin=.5in]{geometry}
+\usepackage{amsmath, hyperref, sectsty}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\sectionfont{\fontsize{12}{15}\selectfont}
+
+\begin{document}
+\begin{center}
+{\LARGE Central Limit Theorem and the Exponential Distribution \\Statistical Interference Course Project
+}\\
+Evan Oman
+\end{center}
+
+\section{Overview}
+The Central Limit Theorem states: ``that, given certain conditions, the arithmetic mean of a sufficiently large number of iterates of independent random variables, each with a well-defined expected value and well-defined variance, will be approximately normally distributed, regardless of the underlying distribution''\footnote{\url{http://en.wikipedia.org/wiki/Central\_limit\_theorem}}. The goal of this project is to experimentally verify this special property using the exponential distribution with parameter $\lambda = 0.2$.
+
+\section{Simulations}
+%Include English explanations of the simulations you ran, with the accompanying R code. Your explanations should make clear what the R code accomplishes.
+In order to test the Central Limit Theorem, we will need to generate a sufficiently large number of random variables $x \sim E(.2)$\footnote{i.e. $x$ is exponentially distributed with $\lambda = .2$}(we will use 400), take the mean of these random values, and then consider a large number of these means(we will use 10,000). The Central Limit Theorem says that these means should start to follow the Normal(or Gaussian) Distribution. In order to see this, we use the following code which creates 10,000 variables which are each the mean of 400 random $x$s such that $x \sim E(.2)$.
+
+\section{Sample Mean versus Theoretical Mean}
+Include figures with titles. In the figures, highlight the means you are comparing. Include text that explains the figures and what is shown on them, and provides appropriate numbers.
+
+\section{Sample Variance versus Theoretical Variance} Include figures (output from R) with titles. Highlight the variances you are comparing. Include text that explains your understanding of the differences of the variances.
+
+\section{Distribution} Via figures and text, explain how one can tell the distribution is approximately normal.
+
+\end{document}

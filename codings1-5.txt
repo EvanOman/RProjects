@@ -1,0 +1,143 @@
+-0.06324806 C, L  ->  C, r  at  -0.06324806 									PREZERO after 1 iterates
+-0.09240924 C, r, R  ->  C, r, F  at  -0.09240924 								PREFIXED after 2 iterates
+-0.09240924 C, r, R, R  ->  C, r, F, F  at  -0.09240924 						PREFIXED after 3 iterates
+-0.09240924 C, r, R, R, R  ->  C, r, F, F, F  at  -0.09240924 					PREFIXED after 4 iterates
+-0.09240924 C, r, R, R, R, R  ->  C, r, F, F, F, F  at  -0.09240924 			PREFIXED after 5 iterates
+-0.09332298 C, r, F, F, F, F, F  ->  C, r, F, F, F, F, L  at  -0.09332298 		Period 6 orbit
+-0.09397296 C, r, F, F, F, F, L  ->  C, r, F, F, F, F, r  at  -0.09397296		PREZERO after 6 iterates
+-0.09442512 C, r, F, F, F, F  ->  C, r, F, F, F, L  at  -0.09442512 			Period 5 orbit
+-0.0948082 C, r, F, F, F, L, r  ->  C, r, F, F, F, L, L  at  -0.0948082 		PREZERO after 6 iterates
+-0.09517558 C, r, F, F, F, L, L  ->  C, r, F, F, F, L, F  at  -0.09517558 		Period 6 orbit
+-0.09548644 C, r, F, F, F, L, F  ->  C, r, F, F, F, L, R  at  -0.09548644 		PREFIXED after 6 iterates
+-0.09587266 C, r, F, F, F, L  ->  C, r, F, F, F, r  at  -0.09587266 			PREZERO after 5 iterates
+-0.09656346 C, r, F, F, F, r, R  ->  C, r, F, F, F, r, F  at  -0.09656346 		PREFIXED after 6 iterates
+-0.0969434  C, r, F, F, F  ->  C, r, F, F, L  at  -0.0969434 					Period 4 orbit
+-0.09733276 C, r, F, F, L, r, F  ->  C, r, F, F, L, r, R  at  -0.09733276 		PREFIXED after 6 iterates
+-0.09787284 C, r, F, F, L, r  ->  C, r, F, F, L, L  at  -0.09787284 			PREZERO after 5 iterates
+-0.09812718 C, r, F, F, L, L, R  ->  C, r, F, F, L, L, F  at  -0.09812718 		PREFIXED after 6 iterates
+-0.09831244 C, r, F, F, L, L, F  ->  C, r, F, F, L, L, L  at  -0.09831244 		Period 6 orbit
+-0.09850398 C, r, F, F, L, L, L  ->  C, r, F, F, L, L, r  at  -0.09850398 		PREZERO after 6 iterates
+-0.0987018  C, r, F, F, L, L  ->  C, r, F, F, L, F  at  -0.0987018 				Period 5 orbit
+-0.09891218 C, r, F, F, L, F, r  ->  C, r, F, F, L, F, L  at  -0.09891218 		PREZERO after 6 iterates
+-0.09914454 C, r, F, F, L, F, L  ->  C, r, F, F, L, F, F  at  -0.09914454 		Period 6 orbit
+-0.09942086 C, r, F, F, L, F  ->  C, r, F, F, L, R  at  -0.09942086 			PREFIXED after 5 iterates
+-0.09942086 C, r, F, F, L, F, F  ->  C, r, F, F, L, R, R  at  -0.09942086 		PREFIXED after 6 iterates
+-0.10030006 C, r, F, F, L  ->  C, r, F, F, r  at  -0.10030006 					PREZERO after 4 iterates
+-0.1017005  C, r, F, F, r, R  ->  C, r, F, F, r, F  at  -0.1017005 				PREFIXED after 5 iterates
+-0.1017005 C, r, F, F, r, R, R  ->  C, r, F, F, r, F, F  at  -0.1017005 		PREFIXED after 6 iterates
+-0.1031449  C, r, F, F  ->  C, r, F, L  at  -0.1031449 							Period 3 orbit
+-0.1031449 C, r, F, F, r, F, F  ->  C, r, F, L, r, F, L  at  -0.1031449 		Period 6 orbit
+-0.10336156 C, r, F, L, r, F, L  ->  C, r, F, L, r, F, F  at  -0.10336156 		Period 6 orbit
+-0.1046521  C, r, F, L, r, F  ->  C, r, F, L, r, R  at  -0.1046521 				PREFIXED after 5 iterates
+-0.1046521 C, r, F, L, r, F, F  ->  C, r, F, L, r, R, R  at  -0.1046521 		PREFIXED after 6 iterates
+-0.105704  C, r, F, L, r  ->  C, r, F, L, L  at  -0.105704 						PREZERO after 4 iterates
+-0.1062849  C, r, F, L, L, R  ->  C, r, F, L, L, F  at  -0.1062849 				PREFIXED after 5 iterates
+-0.1062849 C, r, F, L, L, R, R  ->  C, r, F, L, L, F, F  at  -0.1062849 		PREFIXED after 6 iterates
+-0.10645132 C, r, F, L, L, F, F  ->  C, r, F, L, L, F, L  at  -0.10645132 		Period 6 orbit
+-0.10658006 C, r, F, L, L, F, L  ->  C, r, F, L, L, F, r  at  -0.10658006 		PREZERO after 6 iterates
+-0.10671194 C, r, F, L, L, F  ->  C, r, F, L, L, L  at  -0.10671194 			Period 5 orbit
+-0.10683126 C, r, F, L, L, L, r  ->  C, r, F, L, L, L, L  at  -0.10683126 		PREZERO after 6 iterates
+-0.10692546 C, r, F, L, L, L, L  ->  C, r, F, L, L, L, F  at  -0.10692546 		Period 6 orbit
+-0.10701652 C, r, F, L, L, L, F  ->  C, r, F, L, L, L, R  at  -0.10701652 		PREFIXED after 6 iterates
+-0.10713584 C, r, F, L, L, L  ->  C, r, F, L, L, r  at  -0.10713584 			PREZERO after 5 iterates
+-0.10733366 C, r, F, L, L, r, R  ->  C, r, F, L, L, r, F  at  -0.10733366 		PREFIXED after 6 iterates
+-0.10766022 C, r, F, L, L  ->  C, r, F, L, F  at  -0.10766022 					Period 4 orbit
+-0.1080119 C, r, F, L, F, r, F  ->  C, r, F, L, F, r, R  at  -0.1080119 		PREFIXED after 6 iterates
+-0.10823484 C, r, F, L, F, r  ->  C, r, F, L, F, L  at  -0.10823484 			PREZERO after 5 iterates
+-0.10837928 C, r, F, L, F, L, R  ->  C, r, F, L, F, L, F  at  -0.10837928 		PREFIXED after 6 iterates
+-0.10849232 C, r, F, L, F, L, F  ->  C, r, F, L, F, L, L  at  -0.10849232 		Period 6 orbit
+-0.1086085 C, r, F, L, F, L, L  ->  C, r, F, L, F, L, r  at  -0.1086085 		PREZERO after 6 iterates
+-0.10877178 C, r, F, L, F, L  ->  C, r, F, L, F, F  at  -0.10877178 			Period 5 orbit
+-0.10896332 C, r, F, L, F, F, r  ->  C, r, F, L, F, F, L  at  -0.10896332 		PREZERO after 6 iterates
+-0.10916114 C, r, F, L, F, F, L  ->  C, r, F, L, F, F, F  at  -0.10916114 		Period 6 orbit
+-0.1094406  C, r, F, L, F  ->  C, r, F, L, R  at  -0.1094406 					PREFIXED after 4 iterates
+-0.1094406  C, r, F, L, F, F  ->  C, r, F, L, R, R  at  -0.1094406 				PREFIXED after 5 iterates
+-0.1094406 C, r, F, L, F, F, F  ->  C, r, F, L, R, R, R  at  -0.1094406 		PREFIXED after 6 iterates
+-0.11157266 C, r, F, L  ->  C, r, F, r  at  -0.11157266 						PREZERO after 3 iterates
+-0.11453368 C, r, F, r, R  ->  C, r, F, r, F  at  -0.11453368 					PREFIXED after 4 iterates
+-0.11453368 C, r, F, r, R, R  ->  C, r, F, r, F, F  at  -0.11453368 			PREFIXED after 5 iterates
+-0.11453368 C, r, F, r, R, R, R  ->  C, r, F, r, F, F, F  at  -0.11453368 		PREFIXED after 6 iterates
+-0.11510516 C, r, F, r, F, F, F  ->  C, r, F, r, F, F, L  at  -0.11510516 		Period 6 orbit
+-0.11552906 C, r, F, r, F, F, L  ->  C, r, F, r, F, F, r  at  -0.11552906 		PREZERO after 6 iterates
+-0.1160346  C, r, F, r, F, F  ->  C, r, F, r, F, L  at  -0.1160346 				Period 5 orbit
+-0.11649304 C, r, F, r, F, L, r  ->  C, r, F, r, F, L, L  at  -0.11649304 		PREZERO after 6 iterates
+-0.11680704 C, r, F, r, F, L, L  ->  C, r, F, r, F, L, F  at  -0.11680704 		Period 6 orbit
+-0.11713674 C, r, F, r, F, L, F  ->  C, r, F, r, F, L, R  at  -0.11713674 		PREFIXED after 6 iterates
+-0.11757948 C, r, F, r, F, L  ->  C, r, F, r, F, r  at  -0.11757948 			PREZERO after 5 iterates
+-0.11828912 C, r, F, r, F, r, R  ->  C, r, F, r, F, r, F  at  -0.11828912 		PREFIXED after 6 iterates
+-0.1213883  C, r, F  ->  C, r, L  at  					-0.1213883				Period 2 orbit
+
+TO SADDLE
+
+
+-0.1213883  C, r, F, r, F  ->  C, r, L, r, L  at  -0.1213883 			Period 4 orbit
+-0.12354234 C, r, L, r, L  ->  C, r, L, r, F  at  -0.12354234 			Period 4 orbit
+-0.12694924 C, r, L, r, F, r  ->  C, r, L, r, F, L  at  -0.12694924 	PREZERO after 5 iterates
+-0.12804824 C, r, L, r, F, L  ->  C, r, L, r, F, F  at  -0.12804824 	Period 5 orbit
+-0.12912526 C, r, L, r, F  ->  C, r, L, r, R  at  -0.12912526 			PREFIXED after 4 iterates
+-0.12912526 C, r, L, r, F, F  ->  C, r, L, r, R, R  at  -0.12912526 	PREFIXED after 5 iterates
+-0.13117568 C, r, L, r  ->  C, r, L, L  at  -0.13117568 				PREZERO after 3 iterates
+-0.13254472 C, r, L, L, R  ->  C, r, L, L, F  at  -0.13254472 			PREFIXED after 4 iterates
+-0.13254472 C, r, L, L, R, R  ->  C, r, L, L, F, F  at  -0.13254472 	PREFIXED after 5 iterates
+-0.13293408 C, r, L, L, F, F  ->  C, r, L, L, F, L  at  -0.13293408 	Period 5 orbit
+-0.13319784 C, r, L, L, F, L  ->  C, r, L, L, F, r  at  -0.13319784 	PREZERO after 5 iterates
+-0.13358406 C, r, L, L, F  ->  C, r, L, L, L  at  -0.13358406 			Period 4 orbit
+-0.13391376 C, r, L, L, L, r  ->  C, r, L, L, L, L  at  -0.13391376 	PREZERO after 5 iterates
+-0.13407704 C, r, L, L, L, L  ->  C, r, L, L, L, F  at  -0.13407704 	Period 5 orbit
+-0.13425916 C, r, L, L, L, F  ->  C, r, L, L, L, R  at  -0.13425916 	PREFIXED after 5 iterates
+-0.13449152 C, r, L, L, L  ->  C, r, L, L, r  at  -0.13449152 			PREZERO after 4 iterates
+-0.13480866 C, r, L, L, r, R  ->  C, r, L, L, r, F  at  -0.13480866 	PREFIXED after 5 iterates
+-0.13533932 C, r, L, L, r, F  ->  C, r, L, L, r, L  at  -0.13533932 	Period 5 orbit
+-0.13624992 C, r, L, L  ->  C, r, L, F  at  -0.13624992 				Period 3 orbit
+-0.13728612 C, r, L, F, r, L  ->  C, r, L, F, r, F  at  -0.13728612 	Period 5 orbit
+-0.13790784 C, r, L, F, r, F  ->  C, r, L, F, r, R  at  -0.13790784 	PREFIXED after 5 iterates
+-0.13830662 C, r, L, F, r  ->  C, r, L, F, L  at  -0.13830662 			PREZERO after 4 iterates
+-0.1386112  C, r, L, F, L, R  ->  C, r, L, F, L, F  at  -0.1386112 		PREFIXED after 5 iterates
+-0.13885926 C, r, L, F, L, F  ->  C, r, L, F, L, L  at  -0.13885926 	Period 5 orbit
+-0.13908534 C, r, L, F, L, L  ->  C, r, L, F, L, r  at  -0.13908534 	PREZERO after 5 iterates
+-0.13958774 C, r, L, F, L  ->  C, r, L, F, F  at  -0.13958774 			Period 4 orbit
+-0.14024714 C, r, L, F, F, r  ->  C, r, L, F, F, L  at  -0.14024714 	PREZERO after 5 iterates
+-0.1406993  C, r, L, F, F, L  ->  C, r, L, F, F, F  at  -0.1406993 		Period 5 orbit
+-0.14146546 C, r, L, F  ->  C, r, L, R  at  -0.14146546 				PREFIXED after 3 iterates
+-0.14146546 C, r, L, F, F  ->  C, r, L, R, R  at  -0.14146546 			PREFIXED after 4 iterates
+-0.14146546 C, r, L, F, F, F  ->  C, r, L, R, R, R  at  -0.14146546 	PREFIXED after 5 iterates
+-0.14761358 C, r, L  ->  C, r, r  at  -0.14761358 						PREZERO after 2 iterates
+-0.15501456 C, r, r, R  ->  C, r, r, F  at  -0.15501456 				PREFIXED after 3 iterates
+-0.15501456 C, r, r, R, R  ->  C, r, r, F, F  at  -0.15501456 			PREFIXED after 4 iterates
+-0.15501456 C, r, r, R, R, R  ->  C, r, r, F, F, F  at  -0.15501456 	PREFIXED after 5 iterates
+-0.15609472 C, r, r, F, F, F  ->  C, r, r, F, F, L  at  -0.15609472 	Period 5 orbit
+-0.15670702 C, r, r, F, F, L  ->  C, r, r, F, F, r  at  -0.15670702 	PREZERO after 5 iterates
+-0.15777776 C, r, r, F, F  ->  C, r, r, F, L  at  -0.15777776 			Period 4 orbit
+-0.1585816  C, r, r, F, L, r  ->  C, r, r, F, L, L  at  -0.1585816 		PREZERO after 5 iterates
+-0.15886734 C, r, r, F, L, L  ->  C, r, r, F, L, F  at  -0.15886734 	Period 5 orbit
+-0.15920646 C, r, r, F, L, F  ->  C, r, r, F, L, R  at  -0.15920646 	PREFIXED after 5 iterates
+-0.15962408 C, r, r, F, L  ->  C, r, r, F, r  at  -0.15962408 			PREZERO after 4 iterates
+-0.16014218 C, r, r, F, r, R  ->  C, r, r, F, r, F  at  -0.16014218 	PREFIXED after 5 iterates
+-0.16080472 C, r, r, F, r, F  ->  C, r, r, F, r, L  at  -0.16080472 	Period 5 orbit
+-0.16174358 C, r, r, F, r, L  ->  C, r, r, F, r, r  at  -0.16174358 	PREZERO after 5 iterates
+-0.16364328 C, r, r, F  ->  C, r, r, L  at  -0.16364328 				Period 3 orbit
+-0.1656623  C, r, r, L, r, r  ->  C, r, r, L, r, L  at  -0.1656623 		PREZERO after 5 iterates
+-0.1664316  C, r, r, L, r, L  ->  C, r, r, L, r, F  at  -0.1664316 		Period 5 orbit
+-0.16695912 C, r, r, L, r, F  ->  C, r, r, L, r, R  at  -0.16695912 	PREFIXED after 5 iterates
+-0.16736732 C, r, r, L, r  ->  C, r, r, L, L  at  -0.16736732 			PREZERO after 4 iterates
+-0.16768446 C, r, r, L, L, R  ->  C, r, r, L, L, F  at  -0.16768446 	PREFIXED after 5 iterates
+-0.16793566 C, r, r, L, L, F  ->  C, r, r, L, L, L  at  -0.16793566 	Period 5 orbit
+-0.16813348 C, r, r, L, L, L  ->  C, r, r, L, L, r  at  -0.16813348 	PREZERO after 5 iterates
+-0.1687238  C, r, r, L, L  ->  C, r, r, L, F  at  -0.1687238 			Period 4 orbit
+-0.16948682 C, r, r, L, F, r  ->  C, r, r, L, F, L  at  -0.16948682 	PREZERO after 5 iterates
+-0.16985106 C, r, r, L, F, L  ->  C, r, r, L, F, F  at  -0.16985106 	Period 5 orbit
+-0.17047906 C, r, r, L, F  ->  C, r, r, L, R  at  -0.17047906 			PREFIXED after 4 iterates
+-0.17047906 C, r, r, L, F, F  ->  C, r, r, L, R, R  at  -0.17047906 	PREFIXED after 5 iterates
+-0.17278068 C, r, r, L  ->  C, r, r, r  at  -0.17278068 				PREZERO after 3 iterates
+-0.17577624 C, r, r, r, R  ->  C, r, r, r, F  at  -0.17577624 			PREFIXED after 4 iterates
+-0.17577624 C, r, r, r, R, R  ->  C, r, r, r, F, F  at  -0.17577624 	PREFIXED after 5 iterates
+-0.17691606 C, r, r, r, F, F  ->  C, r, r, r, F, L  at  -0.17691606 	Period 5 orbit
+-0.17764454 C, r, r, r, F, L  ->  C, r, r, r, F, r  at  -0.17764454 	PREZERO after 5 iterates
+-0.1795411  C, r, r, r, F  ->  C, r, r, r, L  at  -0.1795411 			Period 4 orbit
+-0.18132462 C, r, r, r, L, r  ->  C, r, r, r, L, L  at  -0.18132462 	PREZERO after 5 iterates
+-0.18191494 C, r, r, r, L, L  ->  C, r, r, r, L, F  at  -0.18191494 	Period 5 orbit
+-0.18273762 C, r, r, r, L, F  ->  C, r, r, r, L, R  at  -0.18273762 	PREFIXED after 5 iterates
+-0.18386488 C, r, r, r, L  ->  C, r, r, r, r  at  -0.18386488 			PREZERO after 4 iterates
+-0.18539406 C, r, r, r, r, R  ->  C, r, r, r, r, F  at  -0.18539406 	PREFIXED after 5 iterates
+-0.18739424 C, r, r, r, r, F  ->  C, r, r, r, r, L  at  -0.18739424 	Period 5 orbit
+-0.1898089  C, r, r, r, r, L  ->  C, r, r, r, r, r  at  -0.1898089 		PREZERO after 5 iterates

@@ -1,0 +1,2864 @@
+C, r, R, R, R, R, R, R, R,P	 at 	-0.09240767	PREFIXED after 9 iterates
+C, r, F, F, F, F, F, F, F,C	 at 	-0.09249559	Period 9 orbit
+C, r, F, F, F, F, F, F, F,0	 at 	-0.09255839	PREZERO after 9 iterates
+C, r, F, F, F, F, F, F, L,0	 at 	-0.09263532	PREZERO after 9 iterates
+C, r, F, F, F, F, F, F, L,C	 at 	-0.09266986	Period 9 orbit
+C, r, F, F, F, F, F, F, L,P	 at 	-0.09269969	PREFIXED after 9 iterates
+C, r, F, F, F, F, F, F, r,P	 at 	-0.09281587	PREFIXED after 9 iterates
+C, r, F, F, F, F, F, L, r,P	 at 	-0.09283628	PREFIXED after 9 iterates
+C, r, F, F, F, F, F, L, L,P	 at 	-0.09292734	PREFIXED after 9 iterates
+C, r, F, F, F, F, F, L, L,C	 at 	-0.09294461	Period 9 orbit
+C, r, F, F, F, F, F, L, L,0	 at 	-0.09296188	PREZERO after 9 iterates
+C, r, F, F, F, F, F, L, F,0	 at 	-0.09299642	PREZERO after 9 iterates
+C, r, F, F, F, F, F, L, F,C	 at 	-0.0930184	Period 9 orbit
+C, r, F, F, F, F, F, L, F,P	 at 	-0.09304352	PREFIXED after 9 iterates
+C, r, F, F, F, F, F, r, R,P	 at 	-0.09328844	PREFIXED after 9 iterates
+C, r, F, F, F, F, L, r, F,P	 at 	-0.09335595	PREFIXED after 9 iterates
+C, r, F, F, F, F, L, L, R,P	 at 	-0.09354278	PREFIXED after 9 iterates
+C, r, F, F, F, F, L, L, F,C	 at 	-0.09355848	Period 9 orbit
+C, r, F, F, F, F, L, L, F,0	 at 	-0.09357104	PREZERO after 9 iterates
+C, r, F, F, F, F, L, L, L,0	 at 	-0.09358988	PREZERO after 9 iterates
+C, r, F, F, F, F, L, L, L,C	 at 	-0.0935993	Period 9 orbit
+C, r, F, F, F, F, L, L, L,P	 at 	-0.09360872	PREFIXED after 9 iterates
+C, r, F, F, F, F, L, L, r,P	 at 	-0.09364954	PREFIXED after 9 iterates
+C, r, F, F, F, F, L, F, r,P	 at 	-0.09366524	PREFIXED after 9 iterates
+C, r, F, F, F, F, L, F, L,P	 at 	-0.0937092	PREFIXED after 9 iterates
+C, r, F, F, F, F, L, F, L,C	 at 	-0.09372019	Period 9 orbit
+C, r, F, F, F, F, L, F, L,0	 at 	-0.09373118	PREZERO after 9 iterates
+C, r, F, F, F, F, L, F, F,0	 at 	-0.0937563	PREZERO after 9 iterates
+C, r, F, F, F, F, L, F, F,C	 at 	-0.09377514	Period 9 orbit
+C, r, F, F, F, F, L, F, F,P	 at 	-0.09379712	PREFIXED after 9 iterates
+C, r, F, F, F, F, r, R, R,P	 at 	-0.09431208	PREFIXED after 9 iterates
+C, r, F, F, F, L, r, F, F,P	 at 	-0.09453502	PREFIXED after 9 iterates
+C, r, F, F, F, L, L, R, R,P	 at 	-0.09492124	PREFIXED after 9 iterates
+C, r, F, F, F, L, L, F, F,C	 at 	-0.09493537	Period 9 orbit
+C, r, F, F, F, L, L, F, F,0	 at 	-0.09494636	PREZERO after 9 iterates
+C, r, F, F, F, L, L, F, L,0	 at 	-0.09496206	PREZERO after 9 iterates
+C, r, F, F, F, L, L, F, L,C	 at 	-0.09496834	Period 9 orbit
+C, r, F, F, F, L, L, F, L,P	 at 	-0.09497462	PREFIXED after 9 iterates
+C, r, F, F, F, L, L, F, r,P	 at 	-0.09499817	PREFIXED after 9 iterates
+C, r, F, F, F, L, L, L, r,P	 at 	-0.09501073	PREFIXED after 9 iterates
+C, r, F, F, F, L, L, L, L,P	 at 	-0.09503114	PREFIXED after 9 iterates
+C, r, F, F, F, L, L, L, L,C	 at 	-0.09503585	Period 9 orbit
+C, r, F, F, F, L, L, L, L,0	 at 	-0.09504056	PREZERO after 9 iterates
+C, r, F, F, F, L, L, L, F,0	 at 	-0.09505155	PREZERO after 9 iterates
+C, r, F, F, F, L, L, L, F,C	 at 	-0.09505783	Period 9 orbit
+C, r, F, F, F, L, L, L, F,P	 at 	-0.09506568	PREFIXED after 9 iterates
+C, r, F, F, F, L, L, r, R,P	 at 	-0.09514889	PREFIXED after 9 iterates
+C, r, F, F, F, L, F, r, F,P	 at 	-0.0952007	PREFIXED after 9 iterates
+C, r, F, F, F, L, F, L, R,P	 at 	-0.09529176	PREFIXED after 9 iterates
+C, r, F, F, F, L, F, L, F,C	 at 	-0.09529961	Period 9 orbit
+C, r, F, F, F, L, F, L, F,0	 at 	-0.09530746	PREZERO after 9 iterates
+C, r, F, F, F, L, F, L, L,0	 at 	-0.09532002	PREZERO after 9 iterates
+C, r, F, F, F, L, F, L, L,C	 at 	-0.0953263	Period 9 orbit
+C, r, F, F, F, L, F, L, L,P	 at 	-0.09533258	PREFIXED after 9 iterates
+C, r, F, F, F, L, F, L, r,P	 at 	-0.0953577	PREFIXED after 9 iterates
+C, r, F, F, F, L, F, F, r,P	 at 	-0.09537497	PREFIXED after 9 iterates
+C, r, F, F, F, L, F, F, L,P	 at 	-0.09540794	PREFIXED after 9 iterates
+C, r, F, F, F, L, F, F, L,C	 at 	-0.09541579	Period 9 orbit
+C, r, F, F, F, L, F, F, L,0	 at 	-0.09542521	PREZERO after 9 iterates
+C, r, F, F, F, L, F, F, F,0	 at 	-0.09544719	PREZERO after 9 iterates
+C, r, F, F, F, L, F, F, F,C	 at 	-0.09546446	Period 9 orbit
+C, r, F, F, F, L, F, F, F,P	 at 	-0.09548644	PREFIXED after 9 iterates
+C, r, F, F, F, r, R, R, R,P	 at 	-0.09656189	PREFIXED after 9 iterates
+C, r, F, F, F, r, F, F, F,C	 at 	-0.09666394	Period 9 orbit
+C, r, F, F, F, r, F, F, F,0	 at 	-0.09676599	PREZERO after 9 iterates
+C, r, F, F, L, r, F, F, F,0	 at 	-0.09714907	PREZERO after 9 iterates
+C, r, F, F, L, r, F, F, F,C	 at 	-0.09724327	Period 9 orbit
+C, r, F, F, L, r, F, F, F,P	 at 	-0.09733276	PREFIXED after 9 iterates
+C, r, F, F, L, L, R, R, R,P	 at 	-0.09812561	PREFIXED after 9 iterates
+C, r, F, F, L, L, F, F, F,C	 at 	-0.09813974	Period 9 orbit
+C, r, F, F, L, L, F, F, F,0	 at 	-0.09814916	PREZERO after 9 iterates
+C, r, F, F, L, L, F, F, L,0	 at 	-0.09816329	PREZERO after 9 iterates
+C, r, F, F, L, L, F, F, L,C	 at 	-0.09816957	Period 9 orbit
+C, r, F, F, L, L, F, F, L,P	 at 	-0.09817428	PREFIXED after 9 iterates
+C, r, F, F, L, L, F, F, r,P	 at 	-0.09819155	PREFIXED after 9 iterates
+C, r, F, F, L, L, F, L, r,P	 at 	-0.09820568	PREFIXED after 9 iterates
+C, r, F, F, L, L, F, L, L,P	 at 	-0.09821981	PREFIXED after 9 iterates
+C, r, F, F, L, L, F, L, L,C	 at 	-0.09822295	Period 9 orbit
+C, r, F, F, L, L, F, L, L,0	 at 	-0.09822609	PREZERO after 9 iterates
+C, r, F, F, L, L, F, L, F,0	 at 	-0.09823394	PREZERO after 9 iterates
+C, r, F, F, L, L, F, L, F,C	 at 	-0.09823708	Period 9 orbit
+C, r, F, F, L, L, F, L, F,P	 at 	-0.09824336	PREFIXED after 9 iterates
+C, r, F, F, L, L, F, r, R,P	 at 	-0.09828889	PREFIXED after 9 iterates
+C, r, F, F, L, L, L, r, F,P	 at 	-0.09833285	PREFIXED after 9 iterates
+C, r, F, F, L, L, L, L, R,P	 at 	-0.0983721	PREFIXED after 9 iterates
+C, r, F, F, L, L, L, L, F,C	 at 	-0.09837681	Period 9 orbit
+C, r, F, F, L, L, L, L, F,0	 at 	-0.09837995	PREZERO after 9 iterates
+C, r, F, F, L, L, L, L, L,0	 at 	-0.09838466	PREZERO after 9 iterates
+C, r, F, F, L, L, L, L, L,C	 at 	-0.0983878	Period 9 orbit
+C, r, F, F, L, L, L, L, L,P	 at 	-0.09838937	PREFIXED after 9 iterates
+C, r, F, F, L, L, L, L, r,P	 at 	-0.09839879	PREFIXED after 9 iterates
+C, r, F, F, L, L, L, F, r,P	 at 	-0.09840978	PREFIXED after 9 iterates
+C, r, F, F, L, L, L, F, L,P	 at 	-0.0984192	PREFIXED after 9 iterates
+C, r, F, F, L, L, L, F, L,C	 at 	-0.09842234	Period 9 orbit
+C, r, F, F, L, L, L, F, L,0	 at 	-0.09842548	PREZERO after 9 iterates
+C, r, F, F, L, L, L, F, F,0	 at 	-0.0984349	PREZERO after 9 iterates
+C, r, F, F, L, L, L, F, F,C	 at 	-0.09843961	Period 9 orbit
+C, r, F, F, L, L, L, F, F,P	 at 	-0.09844589	PREFIXED after 9 iterates
+C, r, F, F, L, L, r, R, R,P	 at 	-0.09861074	PREFIXED after 9 iterates
+C, r, F, F, L, L, r, F, F,C	 at 	-0.09865156	Period 9 orbit
+C, r, F, F, L, F, r, F, F,C	 at 	-0.0987489	Period 9 orbit
+C, r, F, F, L, F, r, F, F,P	 at 	-0.09879286	PREFIXED after 9 iterates
+C, r, F, F, L, F, L, R, R,P	 at 	-0.09897498	PREFIXED after 9 iterates
+C, r, F, F, L, F, L, F, F,C	 at 	-0.0989844	Period 9 orbit
+C, r, F, F, L, F, L, F, F,0	 at 	-0.09899068	PREZERO after 9 iterates
+C, r, F, F, L, F, L, F, L,0	 at 	-0.0990001	PREZERO after 9 iterates
+C, r, F, F, L, F, L, F, L,C	 at 	-0.09900324	Period 9 orbit
+C, r, F, F, L, F, L, F, L,P	 at 	-0.09900638	PREFIXED after 9 iterates
+C, r, F, F, L, F, L, F, r,P	 at 	-0.09902051	PREFIXED after 9 iterates
+C, r, F, F, L, F, L, L, r,P	 at 	-0.09903307	PREFIXED after 9 iterates
+C, r, F, F, L, F, L, L, L,P	 at 	-0.09904406	PREFIXED after 9 iterates
+C, r, F, F, L, F, L, L, L,C	 at 	-0.0990472	Period 9 orbit
+C, r, F, F, L, F, L, L, L,0	 at 	-0.09905034	PREZERO after 9 iterates
+C, r, F, F, L, F, L, L, F,0	 at 	-0.09905662	PREZERO after 9 iterates
+C, r, F, F, L, F, L, L, F,C	 at 	-0.09906133	Period 9 orbit
+C, r, F, F, L, F, L, L, F,P	 at 	-0.09906604	PREFIXED after 9 iterates
+C, r, F, F, L, F, L, r, R,P	 at 	-0.09911471	PREFIXED after 9 iterates
+C, r, F, F, L, F, F, r, F,P	 at 	-0.09917594	PREFIXED after 9 iterates
+C, r, F, F, L, F, F, L, R,P	 at 	-0.09923874	PREFIXED after 9 iterates
+C, r, F, F, L, F, F, L, F,C	 at 	-0.09924659	Period 9 orbit
+C, r, F, F, L, F, F, L, F,0	 at 	-0.09925287	PREZERO after 9 iterates
+C, r, F, F, L, F, F, L, L,0	 at 	-0.09926229	PREZERO after 9 iterates
+C, r, F, F, L, F, F, L, L,C	 at 	-0.09926857	Period 9 orbit
+C, r, F, F, L, F, F, L, L,P	 at 	-0.09927328	PREFIXED after 9 iterates
+C, r, F, F, L, F, F, L, r,P	 at 	-0.09929212	PREFIXED after 9 iterates
+C, r, F, F, L, F, F, F, r,P	 at 	-0.09931567	PREFIXED after 9 iterates
+C, r, F, F, L, F, F, F, L,P	 at 	-0.09934079	PREFIXED after 9 iterates
+C, r, F, F, L, F, F, F, L,C	 at 	-0.09934864	Period 9 orbit
+C, r, F, F, L, F, F, F, L,0	 at 	-0.09935806	PREZERO after 9 iterates
+C, r, F, F, L, F, F, F, F,0	 at 	-0.09938004	PREZERO after 9 iterates
+C, r, F, F, L, F, F, F, F,C	 at 	-0.09939574	Period 9 orbit
+C, r, F, F, L, F, F, F, F,P	 at 	-0.09941929	PREFIXED after 9 iterates
+C, r, F, F, r, R, R, R, R,P	 at 	-0.1017005	PREFIXED after 9 iterates
+C, r, F, F, r, F, F, F, F,C	 at 	-0.10176487	Period 9 orbit
+C, r, F, F, r, F, F, F, F,0	 at 	-0.1018104	PREZERO after 9 iterates
+C, r, F, F, r, F, F, F, L,0	 at 	-0.10188105	PREZERO after 9 iterates
+C, r, F, F, r, F, F, F, L,C	 at 	-0.10190774	Period 9 orbit
+C, r, F, F, r, F, F, F, L,P	 at 	-0.10193129	PREFIXED after 9 iterates
+C, r, F, F, r, F, F, F, r,P	 at 	-0.10201293	PREFIXED after 9 iterates
+C, r, F, F, r, F, F, L, r,P	 at 	-0.10211655	PREFIXED after 9 iterates
+C, r, F, F, r, F, F, L, L,P	 at 	-0.10218406	PREFIXED after 9 iterates
+C, r, F, F, r, F, F, L, L,C	 at 	-0.1022029	Period 9 orbit
+C, r, F, F, r, F, F, L, L,0	 at 	-0.10222174	PREZERO after 9 iterates
+C, r, F, F, r, F, F, L, F,0	 at 	-0.10226727	PREZERO after 9 iterates
+C, r, F, F, r, F, F, L, F,C	 at 	-0.10229396	Period 9 orbit
+C, r, F, F, r, F, F, L, F,P	 at 	-0.10232536	PREFIXED after 9 iterates
+C, r, F, F, r, F, F, r, R,P	 at 	-0.10266291	PREFIXED after 9 iterates
+C, r, F, F, r, F, F, r, F,C	 at 	-0.10314333	Period 9 orbit
+C, r, F, L, r, F, F, r, F,C	 at 	-0.10352327	Period 9 orbit
+C, r, F, L, r, F, F, r, F,P	 at 	-0.10383413	PREFIXED after 9 iterates
+C, r, F, L, r, F, F, L, R,P	 at 	-0.10412615	PREFIXED after 9 iterates
+C, r, F, L, r, F, F, L, F,C	 at 	-0.10415441	Period 9 orbit
+C, r, F, L, r, F, F, L, F,0	 at 	-0.10417482	PREZERO after 9 iterates
+C, r, F, L, r, F, F, L, L,0	 at 	-0.10421564	PREZERO after 9 iterates
+C, r, F, L, r, F, F, L, L,C	 at 	-0.10423134	Period 9 orbit
+C, r, F, L, r, F, F, L, L,P	 at 	-0.10424547	PREFIXED after 9 iterates
+C, r, F, L, r, F, F, L, r,P	 at 	-0.10430042	PREFIXED after 9 iterates
+C, r, F, L, r, F, F, F, r,P	 at 	-0.10439776	PREFIXED after 9 iterates
+C, r, F, L, r, F, F, F, L,P	 at 	-0.10446213	PREFIXED after 9 iterates
+C, r, F, L, r, F, F, F, L,C	 at 	-0.10448097	Period 9 orbit
+C, r, F, L, r, F, F, F, L,0	 at 	-0.10450295	PREZERO after 9 iterates
+C, r, F, L, r, F, F, F, F,0	 at 	-0.10456104	PREZERO after 9 iterates
+C, r, F, L, r, F, F, F, F,C	 at 	-0.10459715	Period 9 orbit
+C, r, F, L, r, F, F, F, F,P	 at 	-0.10465053	PREFIXED after 9 iterates
+C, r, F, L, L, R, R, R, R,P	 at 	-0.10628333	PREFIXED after 9 iterates
+C, r, F, L, L, F, F, F, F,C	 at 	-0.10629746	Period 9 orbit
+C, r, F, L, L, F, F, F, F,0	 at 	-0.10630688	PREZERO after 9 iterates
+C, r, F, L, L, F, F, F, L,0	 at 	-0.10632101	PREZERO after 9 iterates
+C, r, F, L, L, F, F, F, L,C	 at 	-0.10632572	Period 9 orbit
+C, r, F, L, L, F, F, F, L,P	 at 	-0.10633043	PREFIXED after 9 iterates
+C, r, F, L, L, F, F, F, r,P	 at 	-0.10634299	PREFIXED after 9 iterates
+C, r, F, L, L, F, F, L, r,P	 at 	-0.1063634	PREFIXED after 9 iterates
+C, r, F, L, L, F, F, L, L,P	 at 	-0.10637282	PREFIXED after 9 iterates
+C, r, F, L, L, F, F, L, L,C	 at 	-0.10637439	Period 9 orbit
+C, r, F, L, L, F, F, L, L,0	 at 	-0.10637753	PREZERO after 9 iterates
+C, r, F, L, L, F, F, L, F,0	 at 	-0.10638381	PREZERO after 9 iterates
+C, r, F, L, L, F, F, L, F,C	 at 	-0.10638695	Period 9 orbit
+C, r, F, L, L, F, F, L, F,P	 at 	-0.10639009	PREFIXED after 9 iterates
+C, r, F, L, L, F, F, r, R,P	 at 	-0.10642306	PREFIXED after 9 iterates
+C, r, F, L, L, F, F, r, F,C	 at 	-0.10643719	Period 9 orbit
+C, r, F, L, L, F, L, r, F,C	 at 	-0.10646231	Period 9 orbit
+C, r, F, L, L, F, L, r, F,P	 at 	-0.1064733	PREFIXED after 9 iterates
+C, r, F, L, L, F, L, L, R,P	 at 	-0.10649685	PREFIXED after 9 iterates
+C, r, F, L, L, F, L, L, F,C	 at 	-0.10649999	Period 9 orbit
+C, r, F, L, L, F, L, L, F,0	 at 	-0.10650156	PREZERO after 9 iterates
+C, r, F, L, L, F, L, L, L,0	 at 	-0.1065047	PREZERO after 9 iterates
+C, r, F, L, L, F, L, L, L,C	 at 	-0.10650627	Period 9 orbit
+C, r, F, L, L, F, L, L, L,P	 at 	-0.10650784	PREFIXED after 9 iterates
+C, r, F, L, L, F, L, L, r,P	 at 	-0.10651255	PREFIXED after 9 iterates
+C, r, F, L, L, F, L, F, r,P	 at 	-0.10652354	PREFIXED after 9 iterates
+C, r, F, L, L, F, L, F, L,P	 at 	-0.10652825	PREFIXED after 9 iterates
+C, r, F, L, L, F, L, F, L,C	 at 	-0.10653139	Period 9 orbit
+C, r, F, L, L, F, L, F, L,0	 at 	-0.10653296	PREZERO after 9 iterates
+C, r, F, L, L, F, L, F, F,0	 at 	-0.10653767	PREZERO after 9 iterates
+C, r, F, L, L, F, L, F, F,C	 at 	-0.10654081	Period 9 orbit
+C, r, F, L, L, F, L, F, F,P	 at 	-0.10654552	PREFIXED after 9 iterates
+C, r, F, L, L, F, r, R, R,P	 at 	-0.10663344	PREFIXED after 9 iterates
+C, r, F, L, L, F, r, F, F,C	 at 	-0.10664757	Period 9 orbit
+C, r, F, L, L, F, r, F, F,0	 at 	-0.10665856	PREZERO after 9 iterates
+C, r, F, L, L, F, r, F, L,0	 at 	-0.10669153	PREZERO after 9 iterates
+C, r, F, L, L, L, r, F, L,0	 at 	-0.10673235	PREZERO after 9 iterates
+C, r, F, L, L, L, r, F, F,0	 at 	-0.10676375	PREZERO after 9 iterates
+C, r, F, L, L, L, r, F, F,C	 at 	-0.10677474	Period 9 orbit
+C, r, F, L, L, L, r, F, F,P	 at 	-0.10678573	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, R, R,P	 at 	-0.10685795	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, F, F,C	 at 	-0.10686109	Period 9 orbit
+C, r, F, L, L, L, L, F, F,0	 at 	-0.10686266	PREZERO after 9 iterates
+C, r, F, L, L, L, L, F, L,0	 at 	-0.10686737	PREZERO after 9 iterates
+C, r, F, L, L, L, L, F, L,C	 at 	-0.10686894	Period 9 orbit
+C, r, F, L, L, L, L, F, L,P	 at 	-0.10687051	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, F, r,P	 at 	-0.10687365	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, L, r,P	 at 	-0.1068815	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, L, L,P	 at 	-0.10688464	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, L, L,	 at 	-0.10688621	
+C, r, F, L, L, L, L, L, F,0	 at 	-0.10688935	PREZERO after 9 iterates
+C, r, F, L, L, L, L, L, F,C	 at 	-0.10689092	Period 9 orbit
+C, r, F, L, L, L, L, L, F,P	 at 	-0.10689249	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, r, R,P	 at 	-0.10690819	PREFIXED after 9 iterates
+C, r, F, L, L, L, L, r, F,C	 at 	-0.10691604	Period 9 orbit
+C, r, F, L, L, L, F, r, F,C	 at 	-0.10693331	Period 9 orbit
+C, r, F, L, L, L, F, r, F,P	 at 	-0.10694116	PREFIXED after 9 iterates
+C, r, F, L, L, L, F, L, R,P	 at 	-0.10696	PREFIXED after 9 iterates
+C, r, F, L, L, L, F, L, F,C	 at 	-0.10696314	Period 9 orbit
+C, r, F, L, L, L, F, L, F,0	 at 	-0.10696471	PREZERO after 9 iterates
+C, r, F, L, L, L, F, L, L,0	 at 	-0.10696785	PREZERO after 9 iterates
+C, r, F, L, L, L, F, L, L,C	 at 	-0.10696942	Period 9 orbit
+C, r, F, L, L, L, F, L, L,P	 at 	-0.10697099	PREFIXED after 9 iterates
+C, r, F, L, L, L, F, L, r,P	 at 	-0.1069757	PREFIXED after 9 iterates
+C, r, F, L, L, L, F, F, r,P	 at 	-0.10698669	PREFIXED after 9 iterates
+C, r, F, L, L, L, F, F, L,P	 at 	-0.10699297	PREFIXED after 9 iterates
+C, r, F, L, L, L, F, F, L,C	 at 	-0.10699611	Period 9 orbit
+C, r, F, L, L, L, F, F, L,0	 at 	-0.10699768	PREZERO after 9 iterates
+C, r, F, L, L, L, F, F, F,0	 at 	-0.10700553	PREZERO after 9 iterates
+C, r, F, L, L, L, F, F, F,C	 at 	-0.10701024	Period 9 orbit
+C, r, F, L, L, L, F, F, F,P	 at 	-0.10701652	PREFIXED after 9 iterates
+C, r, F, L, L, r, R, R, R,P	 at 	-0.10733366	PREFIXED after 9 iterates
+C, r, F, L, L, r, F, F, F,C	 at 	-0.1073525	Period 9 orbit
+C, r, F, L, L, r, F, F, F,0	 at 	-0.10736663	PREZERO after 9 iterates
+C, r, F, L, L, r, F, F, L,0	 at 	-0.10739332	PREZERO after 9 iterates
+C, r, F, L, L, r, F, F, L,C	 at 	-0.10740274	Period 9 orbit
+C, r, F, L, L, r, F, F, L,P	 at 	-0.10741216	PREFIXED after 9 iterates
+C, r, F, L, L, r, F, F, r,P	 at 	-0.10744356	PREFIXED after 9 iterates
+C, r, F, L, L, r, F, L, r,P	 at 	-0.10751264	PREFIXED after 9 iterates
+C, r, F, L, L, r, F, L, L,P	 at 	-0.10755817	PREFIXED after 9 iterates
+C, r, F, L, L, r, F, L, L,C	 at 	-0.10757544	Period 9 orbit
+C, r, F, L, L, r, F, L, L,0	 at 	-0.10759899	PREZERO after 9 iterates
+C, r, F, L, F, r, F, L, L,0	 at 	-0.10773244	PREZERO after 9 iterates
+C, r, F, L, F, r, F, L, L,C	 at 	-0.10775442	Period 9 orbit
+C, r, F, L, F, r, F, L, L,P	 at 	-0.10777169	PREFIXED after 9 iterates
+C, r, F, L, F, r, F, L, r,P	 at 	-0.10781879	PREFIXED after 9 iterates
+C, r, F, L, F, r, F, F, r,P	 at 	-0.10789415	PREFIXED after 9 iterates
+C, r, F, L, F, r, F, F, L,P	 at 	-0.10792712	PREFIXED after 9 iterates
+C, r, F, L, F, r, F, F, L,C	 at 	-0.10793654	Period 9 orbit
+C, r, F, L, F, r, F, F, L,0	 at 	-0.10794596	PREZERO after 9 iterates
+C, r, F, L, F, r, F, F, F,0	 at 	-0.10797422	PREZERO after 9 iterates
+C, r, F, L, F, r, F, F, F,C	 at 	-0.10798992	Period 9 orbit
+C, r, F, L, F, r, F, F, F,P	 at 	-0.1080119	PREFIXED after 9 iterates
+C, r, F, L, F, L, R, R, R,P	 at 	-0.10837771	PREFIXED after 9 iterates
+C, r, F, L, F, L, F, F, F,C	 at 	-0.10838556	Period 9 orbit
+C, r, F, L, F, L, F, F, F,0	 at 	-0.10839027	PREZERO after 9 iterates
+C, r, F, L, F, L, F, F, L,0	 at 	-0.10839969	PREZERO after 9 iterates
+C, r, F, L, F, L, F, F, L,C	 at 	-0.10840283	Period 9 orbit
+C, r, F, L, F, L, F, F, L,P	 at 	-0.1084044	PREFIXED after 9 iterates
+C, r, F, L, F, L, F, F, r,P	 at 	-0.10841225	PREFIXED after 9 iterates
+C, r, F, L, F, L, F, L, r,P	 at 	-0.10842638	PREFIXED after 9 iterates
+C, r, F, L, F, L, F, L, L,P	 at 	-0.10843266	PREFIXED after 9 iterates
+C, r, F, L, F, L, F, L, L,C	 at 	-0.10843423	Period 9 orbit
+C, r, F, L, F, L, F, L, L,0	 at 	-0.1084358	PREZERO after 9 iterates
+C, r, F, L, F, L, F, L, F,0	 at 	-0.10844051	PREZERO after 9 iterates
+C, r, F, L, F, L, F, L, F,C	 at 	-0.10844208	Period 9 orbit
+C, r, F, L, F, L, F, L, F,P	 at 	-0.10844522	PREFIXED after 9 iterates
+C, r, F, L, F, L, F, r, R,P	 at 	-0.10846877	PREFIXED after 9 iterates
+C, r, F, L, F, L, F, r, F,C	 at 	-0.10847662	Period 9 orbit
+C, r, F, L, F, L, L, r, F,C	 at 	-0.10850331	Period 9 orbit
+C, r, F, L, F, L, L, r, F,P	 at 	-0.10851116	PREFIXED after 9 iterates
+C, r, F, L, F, L, L, L, R,P	 at 	-0.10853157	PREFIXED after 9 iterates
+C, r, F, L, F, L, L, L, F,C	 at 	-0.10853314	Period 9 orbit
+C, r, F, L, F, L, L, L, F,0	 at 	-0.10853471	PREZERO after 9 iterates
+C, r, F, L, F, L, L, L, L,0	 at 	-0.10853785	PREZERO after 9 iterates
+C, r, F, L, F, L, L, L, L,C	 at 	-0.10853942	Period 9 orbit
+C, r, F, L, F, L, L, L, L,P	 at 	-0.10854099	PREFIXED after 9 iterates
+C, r, F, L, F, L, L, L, r,P	 at 	-0.10854413	PREFIXED after 9 iterates
+C, r, F, L, F, L, L, F, r,P	 at 	-0.10855355	PREFIXED after 9 iterates
+C, r, F, L, F, L, L, F, L,P	 at 	-0.10855983	PREFIXED after 9 iterates
+C, r, F, L, F, L, L, F, L,C	 at 	-0.1085614	Period 9 orbit
+C, r, F, L, F, L, L, F, L,0	 at 	-0.10856297	PREZERO after 9 iterates
+C, r, F, L, F, L, L, F, F,0	 at 	-0.10856768	PREZERO after 9 iterates
+C, r, F, L, F, L, L, F, F,C	 at 	-0.10857082	Period 9 orbit
+C, r, F, L, F, L, L, F, F,P	 at 	-0.10857553	PREFIXED after 9 iterates
+C, r, F, L, F, L, r, R, R,P	 at 	-0.10866502	PREFIXED after 9 iterates
+C, r, F, L, F, L, r, F, F,C	 at 	-0.10867915	Period 9 orbit
+C, r, F, L, F, L, r, F, F,0	 at 	-0.10869171	PREZERO after 9 iterates
+C, r, F, L, F, L, r, F, L,0	 at 	-0.10872154	PREZERO after 9 iterates
+C, r, F, L, F, L, r, F, L,C	 at 	-0.10874038	Period 9 orbit
+C, r, F, L, F, F, r, F, L,C	 at 	-0.10880161	Period 9 orbit
+C, r, F, L, F, F, r, F, L,0	 at 	-0.10882202	PREZERO after 9 iterates
+C, r, F, L, F, F, r, F, F,0	 at 	-0.10885813	PREZERO after 9 iterates
+C, r, F, L, F, F, r, F, F,C	 at 	-0.10887226	Period 9 orbit
+C, r, F, L, F, F, r, F, F,P	 at 	-0.10888796	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, R, R,P	 at 	-0.10901356	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, F, F,C	 at 	-0.10901984	Period 9 orbit
+C, r, F, L, F, F, L, F, F,0	 at 	-0.10902455	PREZERO after 9 iterates
+C, r, F, L, F, F, L, F, L,0	 at 	-0.1090324	PREZERO after 9 iterates
+C, r, F, L, F, F, L, F, L,C	 at 	-0.10903554	Period 9 orbit
+C, r, F, L, F, F, L, F, L,P	 at 	-0.10903711	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, F, r,P	 at 	-0.10904496	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, L, r,P	 at 	-0.10906223	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, L, L,P	 at 	-0.10906851	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, L, L,C	 at 	-0.10907008	Period 9 orbit
+C, r, F, L, F, F, L, L, L,0	 at 	-0.10907322	PREZERO after 9 iterates
+C, r, F, L, F, F, L, L, F,0	 at 	-0.10907793	PREZERO after 9 iterates
+C, r, F, L, F, F, L, L, F,C	 at 	-0.10908107	Period 9 orbit
+C, r, F, L, F, F, L, L, F,P	 at 	-0.10908421	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, r, R,P	 at 	-0.10911875	PREFIXED after 9 iterates
+C, r, F, L, F, F, L, r, F,C	 at 	-0.10913288	Period 9 orbit
+C, r, F, L, F, F, F, r, F,C	 at 	-0.10918783	Period 9 orbit
+C, r, F, L, F, F, F, r, F,P	 at 	-0.10920667	PREFIXED after 9 iterates
+C, r, F, L, F, F, F, L, R,P	 at 	-0.10925534	PREFIXED after 9 iterates
+C, r, F, L, F, F, F, L, F,C	 at 	-0.10926162	Period 9 orbit
+C, r, F, L, F, F, F, L, F,0	 at 	-0.1092679	PREZERO after 9 iterates
+C, r, F, L, F, F, F, L, L,0	 at 	-0.10927732	PREZERO after 9 iterates
+C, r, F, L, F, F, F, L, L,C	 at 	-0.10928203	Period 9 orbit
+C, r, F, L, F, F, F, L, L,P	 at 	-0.10928517	PREFIXED after 9 iterates
+C, r, F, L, F, F, F, L, r,P	 at 	-0.1092993	PREFIXED after 9 iterates
+C, r, F, L, F, F, F, F, r,P	 at 	-0.10933698	PREFIXED after 9 iterates
+C, r, F, L, F, F, F, F, L,P	 at 	-0.10935896	PREFIXED after 9 iterates
+C, r, F, L, F, F, F, F, L,C	 at 	-0.10936524	Period 9 orbit
+C, r, F, L, F, F, F, F, L,0	 at 	-0.10937309	PREZERO after 9 iterates
+C, r, F, L, F, F, F, F, F,0	 at 	-0.10939978	PREZERO after 9 iterates
+C, r, F, L, F, F, F, F, F,C	 at 	-0.10941548	Period 9 orbit
+C, r, F, L, F, F, F, F, F,P	 at 	-0.1094406	PREFIXED after 9 iterates
+C, r, F, r, R, R, R, R, R,P	 at 	-0.11453368	PREFIXED after 9 iterates
+C, r, F, r, F, F, F, F, F,C	 at 	-0.11458078	Period 9 orbit
+C, r, F, r, F, F, F, F, F,0	 at 	-0.11461061	PREZERO after 9 iterates
+C, r, F, r, F, F, F, F, L,0	 at 	-0.11466242	PREZERO after 9 iterates
+C, r, F, r, F, F, F, F, L,C	 at 	-0.11467655	Period 9 orbit
+C, r, F, r, F, F, F, F, L,P	 at 	-0.11469068	PREFIXED after 9 iterates
+C, r, F, r, F, F, F, F, r,P	 at 	-0.11472993	PREFIXED after 9 iterates
+C, r, F, r, F, F, F, L, r,P	 at 	-0.11481471	PREFIXED after 9 iterates
+C, r, F, r, F, F, F, L, L,P	 at 	-0.11483983	PREFIXED after 9 iterates
+C, r, F, r, F, F, F, L, L,C	 at 	-0.11484611	Period 9 orbit
+C, r, F, r, F, F, F, L, L,0	 at 	-0.11485396	PREZERO after 9 iterates
+C, r, F, r, F, F, F, L, F,0	 at 	-0.11487437	PREZERO after 9 iterates
+C, r, F, r, F, F, F, L, F,C	 at 	-0.11488379	Period 9 orbit
+C, r, F, r, F, F, F, L, F,P	 at 	-0.11489635	PREFIXED after 9 iterates
+C, r, F, r, F, F, F, r, R,P	 at 	-0.11499055	PREFIXED after 9 iterates
+C, r, F, r, F, F, F, r, F,C	 at 	-0.11502195	Period 9 orbit
+C, r, F, r, F, F, F, r, F,0	 at 	-0.11505806	PREZERO after 9 iterates
+C, r, F, r, F, F, L, r, F,0	 at 	-0.11515069	PREZERO after 9 iterates
+C, r, F, r, F, F, L, r, F,C	 at 	-0.11518209	Period 9 orbit
+C, r, F, r, F, F, L, r, F,P	 at 	-0.11520564	PREFIXED after 9 iterates
+C, r, F, r, F, F, L, L, R,P	 at 	-0.11527001	PREFIXED after 9 iterates
+C, r, F, r, F, F, L, L, F,C	 at 	-0.11527629	Period 9 orbit
+C, r, F, r, F, F, L, L, F,0	 at 	-0.11528257	PREZERO after 9 iterates
+C, r, F, r, F, F, L, L, L,0	 at 	-0.11529356	PREZERO after 9 iterates
+C, r, F, r, F, F, L, L, L,C	 at 	-0.11529827	Period 9 orbit
+C, r, F, r, F, F, L, L, L,P	 at 	-0.11530141	PREFIXED after 9 iterates
+C, r, F, r, F, F, L, L, r,P	 at 	-0.11531397	PREFIXED after 9 iterates
+C, r, F, r, F, F, L, F, r,P	 at 	-0.11535322	PREFIXED after 9 iterates
+C, r, F, r, F, F, L, F, L,P	 at 	-0.11536892	PREFIXED after 9 iterates
+C, r, F, r, F, F, L, F, L,C	 at 	-0.1153752	Period 9 orbit
+C, r, F, r, F, F, L, F, L,0	 at 	-0.11537991	PREZERO after 9 iterates
+C, r, F, r, F, F, L, F, F,0	 at 	-0.11539875	PREZERO after 9 iterates
+C, r, F, r, F, F, L, F, F,C	 at 	-0.1154066	Period 9 orbit
+C, r, F, r, F, F, L, F, F,P	 at 	-0.11542073	PREFIXED after 9 iterates
+C, r, F, r, F, F, r, R, R,P	 at 	-0.11568449	PREFIXED after 9 iterates
+C, r, F, r, F, F, r, F, F,C	 at 	-0.11571589	Period 9 orbit
+C, r, F, r, F, F, r, F, F,0	 at 	-0.11573944	PREZERO after 9 iterates
+C, r, F, r, F, F, r, F, L,0	 at 	-0.11579753	PREZERO after 9 iterates
+C, r, F, r, F, F, r, F, L,C	 at 	-0.11581794	Period 9 orbit
+C, r, F, r, F, F, r, F, L,P	 at 	-0.11583992	PREFIXED after 9 iterates
+C, r, F, r, F, F, r, F, r,P	 at 	-0.11593883	PREFIXED after 9 iterates
+C, r, F, r, F, L, r, F, r,P	 at 	-0.11613194	PREFIXED after 9 iterates
+C, r, F, r, F, L, r, F, L,P	 at 	-0.116223	PREFIXED after 9 iterates
+C, r, F, r, F, L, r, F, L,C	 at 	-0.11624341	Period 9 orbit
+C, r, F, r, F, L, r, F, L,0	 at 	-0.11626225	PREZERO after 9 iterates
+C, r, F, r, F, L, r, F, F,0	 at 	-0.11631406	PREZERO after 9 iterates
+C, r, F, r, F, L, r, F, F,C	 at 	-0.11633447	Period 9 orbit
+C, r, F, r, F, L, r, F, F,P	 at 	-0.11636273	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, R, R,P	 at 	-0.11657782	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, F, F,C	 at 	-0.11658881	Period 9 orbit
+C, r, F, r, F, L, L, F, F,0	 at 	-0.11659509	PREZERO after 9 iterates
+C, r, F, r, F, L, L, F, L,0	 at 	-0.11660922	PREZERO after 9 iterates
+C, r, F, r, F, L, L, F, L,C	 at 	-0.11661236	Period 9 orbit
+C, r, F, r, F, L, L, F, L,P	 at 	-0.11661707	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, F, r,P	 at 	-0.11662806	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, L, r,P	 at 	-0.11665789	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, L, L,P	 at 	-0.11666731	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, L, L,C	 at 	-0.11667045	Period 9 orbit
+C, r, F, r, F, L, L, L, L,0	 at 	-0.11667202	PREZERO after 9 iterates
+C, r, F, r, F, L, L, L, F,0	 at 	-0.11668144	PREZERO after 9 iterates
+C, r, F, r, F, L, L, L, F,C	 at 	-0.11668458	Period 9 orbit
+C, r, F, r, F, L, L, L, F,P	 at 	-0.11669086	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, r, R,P	 at 	-0.11673482	PREFIXED after 9 iterates
+C, r, F, r, F, L, L, r, F,C	 at 	-0.11675052	Period 9 orbit
+C, r, F, r, F, L, L, r, F,0	 at 	-0.11676936	PREZERO after 9 iterates
+C, r, F, r, F, L, F, r, F,0	 at 	-0.11684315	PREZERO after 9 iterates
+C, r, F, r, F, L, F, r, F,C	 at 	-0.11686513	Period 9 orbit
+C, r, F, r, F, L, F, r, F,P	 at 	-0.1168824	PREFIXED after 9 iterates
+C, r, F, r, F, L, F, L, R,P	 at 	-0.11694049	PREFIXED after 9 iterates
+C, r, F, r, F, L, F, L, F,C	 at 	-0.11694677	Period 9 orbit
+C, r, F, r, F, L, F, L, F,0	 at 	-0.11695305	PREZERO after 9 iterates
+C, r, F, r, F, L, F, L, L,0	 at 	-0.11696561	PREZERO after 9 iterates
+C, r, F, r, F, L, F, L, L,C	 at 	-0.11696875	Period 9 orbit
+C, r, F, r, F, L, F, L, L,P	 at 	-0.11697346	PREFIXED after 9 iterates
+C, r, F, r, F, L, F, L, r,P	 at 	-0.11698759	PREFIXED after 9 iterates
+C, r, F, r, F, L, F, F, r,P	 at 	-0.11703626	PREFIXED after 9 iterates
+C, r, F, r, F, L, F, F, L,P	 at 	-0.11705667	PREFIXED after 9 iterates
+C, r, F, r, F, L, F, F, L,C	 at 	-0.11706452	Period 9 orbit
+C, r, F, r, F, L, F, F, L,0	 at 	-0.1170708	PREZERO after 9 iterates
+C, r, F, r, F, L, F, F, F,0	 at 	-0.11709906	PREZERO after 9 iterates
+C, r, F, r, F, L, F, F, F,C	 at 	-0.11711319	Period 9 orbit
+C, r, F, r, F, L, F, F, F,P	 at 	-0.11713674	PREFIXED after 9 iterates
+C, r, F, r, F, r, R, R, R,P	 at 	-0.11828755	PREFIXED after 9 iterates
+C, r, F, r, F, r, F, F, F,C	 at 	-0.11835192	Period 9 orbit
+C, r, F, r, F, r, F, F, F,0	 at 	-0.11839431	PREZERO after 9 iterates
+C, r, F, r, F, r, F, F, L,0	 at 	-0.11848066	PREZERO after 9 iterates
+C, r, F, r, F, r, F, F, L,C	 at 	-0.11850421	Period 9 orbit
+C, r, F, r, F, r, F, F, L,P	 at 	-0.11852776	PREFIXED after 9 iterates
+C, r, F, r, F, r, F, F, r,P	 at 	-0.11859998	PREFIXED after 9 iterates
+C, r, F, r, F, r, F, L, r,P	 at 	-0.11881193	PREFIXED after 9 iterates
+C, r, F, r, F, r, F, L, L,P	 at 	-0.1188763	PREFIXED after 9 iterates
+C, r, F, r, F, r, F, L, L,C	 at 	-0.11889671	Period 9 orbit
+C, r, F, r, F, r, F, L, L,0	 at 	-0.11891555	PREZERO after 9 iterates
+C, r, F, r, F, r, F, L, F,0	 at 	-0.11898306	PREZERO after 9 iterates
+C, r, F, r, F, r, F, L, F,C	 at 	-0.11901289	Period 9 orbit
+C, r, F, r, F, r, F, L, F,P	 at 	-0.11905528	PREFIXED after 9 iterates
+C, r, F, r, F, r, F, r, R,P	 at 	-0.11946819	PREFIXED after 9 iterates
+C, r, F, r, F, r, F, r, F,C	 at 	-0.11963618	Period 9 orbit
+C, r, F, r, F, r, F, r, F,0	 at 	-0.11985284	PREZERO after 9 iterates
+C, r, L, r, F, r, F, r, F,0	 at 	-0.12561317	PREZERO after 9 iterates
+C, r, L, r, F, r, F, r, F,C	 at 	-0.12569167	Period 9 orbit
+C, r, L, r, F, r, F, r, F,P	 at 	-0.12576389	PREFIXED after 9 iterates
+C, r, L, r, F, r, F, L, R,P	 at 	-0.12597898	PREFIXED after 9 iterates
+C, r, L, r, F, r, F, L, F,C	 at 	-0.12600096	Period 9 orbit
+C, r, L, r, F, r, F, L, F,0	 at 	-0.12601823	PREZERO after 9 iterates
+C, r, L, r, F, r, F, L, L,0	 at 	-0.12605748	PREZERO after 9 iterates
+C, r, L, r, F, r, F, L, L,C	 at 	-0.12606847	Period 9 orbit
+C, r, L, r, F, r, F, L, L,P	 at 	-0.12607946	PREFIXED after 9 iterates
+C, r, L, r, F, r, F, L, r,P	 at 	-0.126114	PREFIXED after 9 iterates
+C, r, L, r, F, r, F, L, r,C	 at 	-0.12615639	Period 9 orbit
+C, r, L, r, F, r, F, F, r,C	 at 	-0.12621605	Period 9 orbit
+C, r, L, r, F, r, F, F, r,P	 at 	-0.12626158	PREFIXED after 9 iterates
+C, r, L, r, F, r, F, F, L,P	 at 	-0.12630397	PREFIXED after 9 iterates
+C, r, L, r, F, r, F, F, L,C	 at 	-0.1263181	Period 9 orbit
+C, r, L, r, F, r, F, F, L,0	 at 	-0.12633223	PREZERO after 9 iterates
+C, r, L, r, F, r, F, F, F,0	 at 	-0.12639032	PREZERO after 9 iterates
+C, r, L, r, F, r, F, F, F,C	 at 	-0.12641544	Period 9 orbit
+C, r, L, r, F, r, F, F, F,P	 at 	-0.12645783	PREFIXED after 9 iterates
+C, r, L, r, F, L, R, R, R,P	 at 	-0.12725696	PREFIXED after 9 iterates
+C, r, L, r, F, L, F, F, F,C	 at 	-0.12727266	Period 9 orbit
+C, r, L, r, F, L, F, F, F,0	 at 	-0.12728208	PREZERO after 9 iterates
+C, r, L, r, F, L, F, F, L,0	 at 	-0.12730092	PREZERO after 9 iterates
+C, r, L, r, F, L, F, F, L,C	 at 	-0.12730563	Period 9 orbit
+C, r, L, r, F, L, F, F, L,P	 at 	-0.12731034	PREFIXED after 9 iterates
+C, r, L, r, F, L, F, F, r,P	 at 	-0.1273229	PREFIXED after 9 iterates
+C, r, L, r, F, L, F, F, r,C	 at 	-0.12733546	Period 9 orbit
+C, r, L, r, F, L, F, L, r,C	 at 	-0.12735273	Period 9 orbit
+C, r, L, r, F, L, F, L, r,P	 at 	-0.12736215	PREFIXED after 9 iterates
+C, r, L, r, F, L, F, L, L,P	 at 	-0.12736843	PREFIXED after 9 iterates
+C, r, L, r, F, L, F, L, L,C	 at 	-0.12737157	Period 9 orbit
+C, r, L, r, F, L, F, L, L,0	 at 	-0.12737314	PREZERO after 9 iterates
+C, r, L, r, F, L, F, L, F,0	 at 	-0.12738256	PREZERO after 9 iterates
+C, r, L, r, F, L, F, L, F,C	 at 	-0.1273857	Period 9 orbit
+C, r, L, r, F, L, F, L, F,P	 at 	-0.12738884	PREFIXED after 9 iterates
+C, r, L, r, F, L, F, r, R,P	 at 	-0.12742338	PREFIXED after 9 iterates
+C, r, L, r, F, L, F, r, F,C	 at 	-0.1274328	Period 9 orbit
+C, r, L, r, F, L, F, r, F,0	 at 	-0.12744222	PREZERO after 9 iterates
+C, r, L, r, F, L, L, r, F,0	 at 	-0.12752857	PREZERO after 9 iterates
+C, r, L, r, F, L, L, r, F,C	 at 	-0.12753485	Period 9 orbit
+C, r, L, r, F, L, L, r, F,P	 at 	-0.1275427	PREFIXED after 9 iterates
+C, r, L, r, F, L, L, L, R,P	 at 	-0.12756782	PREFIXED after 9 iterates
+C, r, L, r, F, L, L, L, F,C	 at 	-0.12757096	Period 9 orbit
+C, r, L, r, F, L, L, L, F,0	 at 	-0.12757253	PREZERO after 9 iterates
+C, r, L, r, F, L, L, L, L,	 at 	-0.12757881	
+C, r, L, r, F, L, L, L, L,P	 at 	-0.12758038	PREFIXED after 9 iterates
+C, r, L, r, F, L, L, L, r,P	 at 	-0.12758509	PREFIXED after 9 iterates
+C, r, L, r, F, L, L, L, r,C	 at 	-0.12759137	Period 9 orbit
+C, r, L, r, F, L, L, F, r,C	 at 	-0.12760079	Period 9 orbit
+C, r, L, r, F, L, L, F, r,P	 at 	-0.12760864	PREFIXED after 9 iterates
+C, r, L, r, F, L, L, F, L,P	 at 	-0.12761492	PREFIXED after 9 iterates
+C, r, L, r, F, L, L, F, L,C	 at 	-0.12761649	Period 9 orbit
+C, r, L, r, F, L, L, F, L,0	 at 	-0.12761806	PREZERO after 9 iterates
+C, r, L, r, F, L, L, F, F,0	 at 	-0.12762748	PREZERO after 9 iterates
+C, r, L, r, F, L, L, F, F,C	 at 	-0.12763219	Period 9 orbit
+C, r, L, r, F, L, L, F, F,P	 at 	-0.12763847	PREFIXED after 9 iterates
+C, r, L, r, F, L, r, R, R,P	 at 	-0.12776721	PREFIXED after 9 iterates
+C, r, L, r, F, L, r, F, F,C	 at 	-0.12778134	Period 9 orbit
+C, r, L, r, F, L, r, F, F,0	 at 	-0.12779076	PREZERO after 9 iterates
+C, r, L, r, F, L, r, F, L,0	 at 	-0.12781588	PREZERO after 9 iterates
+C, r, L, r, F, L, r, F, L,C	 at 	-0.12782216	Period 9 orbit
+C, r, L, r, F, L, r, F, L,P	 at 	-0.12782844	PREFIXED after 9 iterates
+C, r, L, r, F, L, r, F, r,P	 at 	-0.12785199	PREFIXED after 9 iterates
+C, r, L, r, F, L, r, F, r,C	 at 	-0.12788182	Period 9 orbit
+C, r, L, r, F, L, r, L, r,C	 at 	-0.12795561	Period 9 orbit
+C, r, L, r, F, F, r, L, r,C	 at 	-0.12814087	Period 9 orbit
+C, r, L, r, F, F, r, F, r,C	 at 	-0.12822251	Period 9 orbit
+C, r, L, r, F, F, r, F, r,P	 at 	-0.12825391	PREFIXED after 9 iterates
+C, r, L, r, F, F, r, F, L,P	 at 	-0.1282806	PREFIXED after 9 iterates
+C, r, L, r, F, F, r, F, L,C	 at 	-0.12828845	Period 9 orbit
+C, r, L, r, F, F, r, F, L,0	 at 	-0.1282963	PREZERO after 9 iterates
+C, r, L, r, F, F, r, F, F,0	 at 	-0.12832456	PREZERO after 9 iterates
+C, r, L, r, F, F, r, F, F,C	 at 	-0.12833555	Period 9 orbit
+C, r, L, r, F, F, r, F, F,P	 at 	-0.12835282	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, R, R,P	 at 	-0.12851296	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, F, F,C	 at 	-0.12852081	Period 9 orbit
+C, r, L, r, F, F, L, F, F,0	 at 	-0.12852552	PREZERO after 9 iterates
+C, r, L, r, F, F, L, F, L,0	 at 	-0.12853808	PREZERO after 9 iterates
+C, r, L, r, F, F, L, F, L,C	 at 	-0.12854122	Period 9 orbit
+C, r, L, r, F, F, L, F, L,P	 at 	-0.12854436	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, F, r,P	 at 	-0.12855221	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, F, r,C	 at 	-0.12856006	Period 9 orbit
+C, r, L, r, F, F, L, L, r,C	 at 	-0.12857576	Period 9 orbit
+C, r, L, r, F, F, L, L, r,P	 at 	-0.12858204	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, L, L,P	 at 	-0.12858832	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, L, L,C	 at 	-0.12858989	Period 9 orbit
+C, r, L, r, F, F, L, L, L,0	 at 	-0.12859303	PREZERO after 9 iterates
+C, r, L, r, F, F, L, L, F,0	 at 	-0.12859931	PREZERO after 9 iterates
+C, r, L, r, F, F, L, L, F,C	 at 	-0.12860245	Period 9 orbit
+C, r, L, r, F, F, L, L, F,P	 at 	-0.12860716	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, r, R,P	 at 	-0.1286417	PREFIXED after 9 iterates
+C, r, L, r, F, F, L, r, F,C	 at 	-0.12865112	Period 9 orbit
+C, r, L, r, F, F, L, r, F,0	 at 	-0.12866054	PREZERO after 9 iterates
+C, r, L, r, F, F, F, r, F,0	 at 	-0.12879556	PREZERO after 9 iterates
+C, r, L, r, F, F, F, r, F,C	 at 	-0.12880812	Period 9 orbit
+C, r, L, r, F, F, F, r, F,P	 at 	-0.12882225	PREFIXED after 9 iterates
+C, r, L, r, F, F, F, L, R,P	 at 	-0.12887877	PREFIXED after 9 iterates
+C, r, L, r, F, F, F, L, F,C	 at 	-0.12888505	Period 9 orbit
+C, r, L, r, F, F, F, L, F,0	 at 	-0.12889133	PREZERO after 9 iterates
+C, r, L, r, F, F, F, L, L,0	 at 	-0.12890546	PREZERO after 9 iterates
+C, r, L, r, F, F, F, L, L,C	 at 	-0.1289086	Period 9 orbit
+C, r, L, r, F, F, F, L, L,P	 at 	-0.12891331	PREFIXED after 9 iterates
+C, r, L, r, F, F, F, L, r,P	 at 	-0.12892587	PREFIXED after 9 iterates
+C, r, L, r, F, F, F, L, r,C	 at 	-0.12894	Period 9 orbit
+C, r, L, r, F, F, F, F, r,C	 at 	-0.12897454	Period 9 orbit
+C, r, L, r, F, F, F, F, r,P	 at 	-0.12899652	PREFIXED after 9 iterates
+C, r, L, r, F, F, F, F, L,P	 at 	-0.1290185	PREFIXED after 9 iterates
+C, r, L, r, F, F, F, F, L,C	 at 	-0.12902635	Period 9 orbit
+C, r, L, r, F, F, F, F, L,0	 at 	-0.1290342	PREZERO after 9 iterates
+C, r, L, r, F, F, F, F, F,0	 at 	-0.12907345	PREZERO after 9 iterates
+C, r, L, r, F, F, F, F, F,C	 at 	-0.12909072	Period 9 orbit
+C, r, L, r, F, F, F, F, F,P	 at 	-0.12912369	PREFIXED after 9 iterates
+C, r, L, L, R, R, R, R, R,P	 at 	-0.13254472	PREFIXED after 9 iterates
+C, r, L, L, F, F, F, F, F,C	 at 	-0.13255885	Period 9 orbit
+C, r, L, L, F, F, F, F, F,0	 at 	-0.1325667	PREZERO after 9 iterates
+C, r, L, L, F, F, F, F, L,0	 at 	-0.1325824	PREZERO after 9 iterates
+C, r, L, L, F, F, F, F, L,C	 at 	-0.13258554	Period 9 orbit
+C, r, L, L, F, F, F, F, L,P	 at 	-0.13259025	PREFIXED after 9 iterates
+C, r, L, L, F, F, F, F, r,P	 at 	-0.1325981	PREFIXED after 9 iterates
+C, r, L, L, F, F, F, F, r,C	 at 	-0.13260595	Period 9 orbit
+C, r, L, L, F, F, F, L, r,C	 at 	-0.13262322	Period 9 orbit
+C, r, L, L, F, F, F, L, r,P	 at 	-0.13262793	PREFIXED after 9 iterates
+C, r, L, L, F, F, F, L, L,P	 at 	-0.13263264	PREFIXED after 9 iterates
+C, r, L, L, F, F, F, L, L,C	 at 	-0.13263421	Period 9 orbit
+C, r, L, L, F, F, F, L, L,0	 at 	-0.13263578	PREZERO after 9 iterates
+C, r, L, L, F, F, F, L, F,0	 at 	-0.13264206	PREZERO after 9 iterates
+C, r, L, L, F, F, F, L, F,C	 at 	-0.13264363	Period 9 orbit
+C, r, L, L, F, F, F, L, F,P	 at 	-0.13264677	PREFIXED after 9 iterates
+C, r, L, L, F, F, F, r, R,P	 at 	-0.13266718	PREFIXED after 9 iterates
+C, r, L, L, F, F, F, r, F,C	 at 	-0.13267189	Period 9 orbit
+C, r, L, L, F, F, F, r, F,0	 at 	-0.1326766	PREZERO after 9 iterates
+C, r, L, L, F, F, F, r, L,0	 at 	-0.13269858	PREZERO after 9 iterates
+C, r, L, L, F, F, L, r, L,0	 at 	-0.13271428	PREZERO after 9 iterates
+C, r, L, L, F, F, L, r, F,0	 at 	-0.13273155	PREZERO after 9 iterates
+C, r, L, L, F, F, L, r, F,C	 at 	-0.13273469	Period 9 orbit
+C, r, L, L, F, F, L, r, F,P	 at 	-0.13273783	PREFIXED after 9 iterates
+C, r, L, L, F, F, L, L, R,P	 at 	-0.13274882	PREFIXED after 9 iterates
+C, r, L, L, F, F, L, L, F,C	 at 	-0.13275039	Period 9 orbit
+C, r, L, L, F, F, L, L, F,0	 at 	-0.13275196	PREZERO after 9 iterates
+C, r, L, L, F, F, L, L, L,	 at 	-0.1327551	
+C, r, L, L, F, F, L, L, r,P	 at 	-0.13275824	PREFIXED after 9 iterates
+C, r, L, L, F, F, L, L, r,C	 at 	-0.13275981	Period 9 orbit
+C, r, L, L, F, F, L, F, r,C	 at 	-0.13276609	Period 9 orbit
+C, r, L, L, F, F, L, F, r,P	 at 	-0.13276923	PREFIXED after 9 iterates
+C, r, L, L, F, F, L, F, r,P	 at 	-0.1327708	PREFIXED after 9 iterates
+C, r, L, L, F, F, L, F, L,	 at 	-0.13277237	
+C, r, L, L, F, F, L, F, F,0	 at 	-0.13277708	PREZERO after 9 iterates
+C, r, L, L, F, F, L, F, F,C	 at 	-0.13277865	Period 9 orbit
+C, r, L, L, F, F, L, F, F,P	 at 	-0.13278179	PREFIXED after 9 iterates
+C, r, L, L, F, F, r, R, R,P	 at 	-0.1328336	PREFIXED after 9 iterates
+C, r, L, L, F, F, r, F, F,C	 at 	-0.13283831	Period 9 orbit
+C, r, L, L, F, F, r, F, F,0	 at 	-0.13284145	PREZERO after 9 iterates
+C, r, L, L, F, F, r, F, L,0	 at 	-0.1328493	PREZERO after 9 iterates
+C, r, L, L, F, F, r, F, L,C	 at 	-0.13285244	Period 9 orbit
+C, r, L, L, F, F, r, F, L,P	 at 	-0.13285401	PREFIXED after 9 iterates
+C, r, L, L, F, F, r, F, r,P	 at 	-0.13286029	PREFIXED after 9 iterates
+C, r, L, L, F, F, r, F, r,C	 at 	-0.13286814	Period 9 orbit
+C, r, L, L, F, F, r, L, r,C	 at 	-0.13289169	Period 9 orbit
+C, r, L, L, F, F, r, L, r,P	 at 	-0.13290268	PREFIXED after 9 iterates
+C, r, L, L, F, F, r, L, L,P	 at 	-0.13292466	PREFIXED after 9 iterates
+C, r, L, L, F, L, r, L, L,P	 at 	-0.1329435	PREFIXED after 9 iterates
+C, r, L, L, F, L, r, L, r,P	 at 	-0.13296391	PREFIXED after 9 iterates
+C, r, L, L, F, L, r, L, r,C	 at 	-0.13297333	Period 9 orbit
+C, r, L, L, F, L, r, F, r,C	 at 	-0.13299217	Period 9 orbit
+C, r, L, L, F, L, r, F, r,P	 at 	-0.13299688	PREFIXED after 9 iterates
+C, r, L, L, F, L, r, F, L,P	 at 	-0.13300159	PREFIXED after 9 iterates
+C, r, L, L, F, L, r, F, L,C	 at 	-0.13300316	Period 9 orbit
+C, r, L, L, F, L, r, F, L,0	 at 	-0.13300473	PREZERO after 9 iterates
+C, r, L, L, F, L, r, F, F,0	 at 	-0.13301101	PREZERO after 9 iterates
+C, r, L, L, F, L, r, F, F,C	 at 	-0.13301258	Period 9 orbit
+C, r, L, L, F, L, r, F, F,P	 at 	-0.13301572	PREFIXED after 9 iterates
+C, r, L, L, F, L, L, R, R,P	 at 	-0.13304712	PREFIXED after 9 iterates
+C, r, L, L, F, L, L, F, F,C	 at 	-0.13304869	Period 9 orbit
+C, r, L, L, F, L, L, F, F,0	 at 	-0.13305026	PREZERO after 9 iterates
+C, r, L, L, F, L, L, F, L,	 at 	-0.13305183	
+C, r, L, L, F, L, L, F, L,P	 at 	-0.1330534	PREFIXED after 9 iterates
+C, r, L, L, F, L, L, F, r,	 at 	-0.13305497	
+C, r, L, L, F, L, L, L, r,C	 at 	-0.13305811	Period 9 orbit
+C, r, L, L, F, L, L, L, r,P	 at 	-0.13305968	PREFIXED after 9 iterates
+C, r, L, L, F, L, L, L, L,	 at 	-0.13306125	
+C, r, L, L, F, L, L, L, F,	 at 	-0.13306282	
+C, r, L, L, F, L, L, L, F,P	 at 	-0.13306439	PREFIXED after 9 iterates
+C, r, L, L, F, L, L, r, R,P	 at 	-0.1330691	PREFIXED after 9 iterates
+C, r, L, L, F, L, L, r, F,C	 at 	-0.13307067	Period 9 orbit
+C, r, L, L, F, L, L, r, F,0	 at 	-0.13307224	PREZERO after 9 iterates
+C, r, L, L, F, L, L, r, L,0	 at 	-0.13308009	PREZERO after 9 iterates
+C, r, L, L, F, L, F, r, L,0	 at 	-0.13308637	PREZERO after 9 iterates
+C, r, L, L, F, L, F, r, F,0	 at 	-0.13309422	PREZERO after 9 iterates
+C, r, L, L, F, L, F, r, F,C	 at 	-0.13309579	Period 9 orbit
+C, r, L, L, F, L, F, r, F,P	 at 	-0.13309893	PREFIXED after 9 iterates
+C, r, L, L, F, L, F, L, R,P	 at 	-0.13310521	PREFIXED after 9 iterates
+C, r, L, L, F, L, F, L, F,	 at 	-0.13310678	
+C, r, L, L, F, L, F, L, F,0	 at 	-0.13310835	PREZERO after 9 iterates
+C, r, L, L, F, L, F, L, L,	 at 	-0.13310992	
+C, r, L, L, F, L, F, L, r,P	 at 	-0.13311149	PREFIXED after 9 iterates
+C, r, L, L, F, L, F, L, r,C	 at 	-0.13311306	Period 9 orbit
+C, r, L, L, F, L, F, F, r,C	 at 	-0.13311777	Period 9 orbit
+C, r, L, L, F, L, F, F, r,P	 at 	-0.13312091	PREFIXED after 9 iterates
+C, r, L, L, F, L, F, F, r,P	 at 	-0.13312248	PREFIXED after 9 iterates
+C, r, L, L, F, L, F, F, L,	 at 	-0.13312405	
+C, r, L, L, F, L, F, F, F,0	 at 	-0.13312876	PREZERO after 9 iterates
+C, r, L, L, F, L, F, F, F,C	 at 	-0.13313033	Period 9 orbit
+C, r, L, L, F, L, F, F, F,P	 at 	-0.13313504	PREFIXED after 9 iterates
+C, r, L, L, F, r, R, R, R,P	 at 	-0.13327948	PREFIXED after 9 iterates
+C, r, L, L, F, r, F, F, F,C	 at 	-0.13328419	Period 9 orbit
+C, r, L, L, F, r, F, F, F,0	 at 	-0.1332889	PREZERO after 9 iterates
+C, r, L, L, F, r, F, F, L,0	 at 	-0.13329675	PREZERO after 9 iterates
+C, r, L, L, F, r, F, F, L,C	 at 	-0.13329832	Period 9 orbit
+C, r, L, L, F, r, F, F, L,P	 at 	-0.13329989	PREFIXED after 9 iterates
+C, r, L, L, F, r, F, F, r,P	 at 	-0.1333046	PREFIXED after 9 iterates
+C, r, L, L, F, r, F, F, r,C	 at 	-0.13330931	Period 9 orbit
+C, r, L, L, F, r, F, L, r,C	 at 	-0.1333203	Period 9 orbit
+C, r, L, L, F, r, F, L, r,P	 at 	-0.13332501	PREFIXED after 9 iterates
+C, r, L, L, F, r, F, L, L,P	 at 	-0.13332815	PREFIXED after 9 iterates
+C, r, L, L, F, r, F, L, L,	 at 	-0.13332972	
+C, r, L, L, F, r, F, L, F,0	 at 	-0.13333443	PREZERO after 9 iterates
+C, r, L, L, F, r, F, L, F,C	 at 	-0.133336	Period 9 orbit
+C, r, L, L, F, r, F, L, F,P	 at 	-0.13333914	PREFIXED after 9 iterates
+C, r, L, L, F, r, F, r, R,P	 at 	-0.13335798	PREFIXED after 9 iterates
+C, r, L, L, F, r, F, r, F,C	 at 	-0.13336426	Period 9 orbit
+C, r, L, L, F, r, F, r, F,0	 at 	-0.13336897	PREZERO after 9 iterates
+C, r, L, L, F, r, F, r, L,0	 at 	-0.13339566	PREZERO after 9 iterates
+C, r, L, L, F, r, L, r, L,0	 at 	-0.13342549	PREZERO after 9 iterates
+C, r, L, L, F, r, L, r, F,0	 at 	-0.13346317	PREZERO after 9 iterates
+C, r, L, L, F, r, L, r, F,C	 at 	-0.13347102	Period 9 orbit
+C, r, L, L, F, r, L, r, F,P	 at 	-0.13348201	PREFIXED after 9 iterates
+C, r, L, L, F, r, L, L, R,P	 at 	-0.13353382	PREFIXED after 9 iterates
+C, r, L, L, F, r, L, L, F,C	 at 	-0.13354481	Period 9 orbit
+C, r, L, L, F, r, L, L, F,0	 at 	-0.13355423	PREZERO after 9 iterates
+C, r, L, L, L, r, L, L, F,0	 at 	-0.13361546	PREZERO after 9 iterates
+C, r, L, L, L, r, L, L, F,C	 at 	-0.13362488	Period 9 orbit
+C, r, L, L, L, r, L, L, F,P	 at 	-0.13363587	PREFIXED after 9 iterates
+C, r, L, L, L, r, L, r, R,P	 at 	-0.13368297	PREFIXED after 9 iterates
+C, r, L, L, L, r, L, r, F,C	 at 	-0.13369239	Period 9 orbit
+C, r, L, L, L, r, L, r, F,0	 at 	-0.13370024	PREZERO after 9 iterates
+C, r, L, L, L, r, L, r, L,0	 at 	-0.13373164	PREZERO after 9 iterates
+C, r, L, L, L, r, F, r, L,0	 at 	-0.1337599	PREZERO after 9 iterates
+C, r, L, L, L, r, F, r, F,0	 at 	-0.13378188	PREZERO after 9 iterates
+C, r, L, L, L, r, F, r, F,C	 at 	-0.13378502	Period 9 orbit
+C, r, L, L, L, r, F, r, F,P	 at 	-0.13378973	PREFIXED after 9 iterates
+C, r, L, L, L, r, F, L, R,P	 at 	-0.13380543	PREFIXED after 9 iterates
+C, r, L, L, L, r, F, L, F,C	 at 	-0.133807	Period 9 orbit
+C, r, L, L, L, r, F, L, F,0	 at 	-0.13380857	PREZERO after 9 iterates
+C, r, L, L, L, r, F, L, L,	 at 	-0.13381171	
+C, r, L, L, L, r, F, L, L,P	 at 	-0.13381328	PREFIXED after 9 iterates
+C, r, L, L, L, r, F, L, r,P	 at 	-0.13381642	PREFIXED after 9 iterates
+C, r, L, L, L, r, F, L, r,C	 at 	-0.13381956	Period 9 orbit
+C, r, L, L, L, r, F, F, r,C	 at 	-0.13382741	Period 9 orbit
+C, r, L, L, L, r, F, F, r,P	 at 	-0.13383212	PREFIXED after 9 iterates
+C, r, L, L, L, r, F, F, L,P	 at 	-0.13383526	PREFIXED after 9 iterates
+C, r, L, L, L, r, F, F, L,C	 at 	-0.13383683	Period 9 orbit
+C, r, L, L, L, r, F, F, L,0	 at 	-0.1338384	PREZERO after 9 iterates
+C, r, L, L, L, r, F, F, F,0	 at 	-0.13384468	PREZERO after 9 iterates
+C, r, L, L, L, r, F, F, F,C	 at 	-0.13384782	Period 9 orbit
+C, r, L, L, L, r, F, F, F,P	 at 	-0.13385096	PREFIXED after 9 iterates
+C, r, L, L, L, L, R, R, R,P	 at 	-0.13395458	PREFIXED after 9 iterates
+C, r, L, L, L, L, F, F, F,C	 at 	-0.13395615	Period 9 orbit
+C, r, L, L, L, L, F, F, F,0	 at 	-0.13395772	PREZERO after 9 iterates
+C, r, L, L, L, L, F, F, L,	 at 	-0.13396086	
+C, r, L, L, L, L, F, F, L,P	 at 	-0.13396243	PREFIXED after 9 iterates
+C, r, L, L, L, L, F, F, r,	 at 	-0.133964	
+C, r, L, L, L, L, F, L, r,	 at 	-0.13396871	
+C, r, L, L, L, L, F, L, r,	 at 	-0.13397028	
+C, r, L, L, L, L, F, L, L,	 at 	-0.13397185	
+C, r, L, L, L, L, F, L, F,P	 at 	-0.13397342	PREFIXED after 9 iterates
+C, r, L, L, L, L, F, r, R,	 at 	-0.13397813	
+C, r, L, L, L, L, F, r, F,0	 at 	-0.1339797	PREZERO after 9 iterates
+C, r, L, L, L, L, F, r, L,0	 at 	-0.13398441	PREZERO after 9 iterates
+C, r, L, L, L, L, L, r, L,0	 at 	-0.13399069	PREZERO after 9 iterates
+C, r, L, L, L, L, L, r, F,	 at 	-0.1339954	
+C, r, L, L, L, L, L, r, F,P	 at 	-0.13399697	PREFIXED after 9 iterates
+C, r, L, L, L, L, L, L, R,	 at 	-0.13400011	
+C, r, L, L, L, L, L, L, F,	 at 	-0.13400168	
+C, r, L, L, L, L, L, L, r,C	 at 	-0.13400325	Period 9 orbit
+C, r, L, L, L, L, L, F, r,C	 at 	-0.13400482	Period 9 orbit
+C, r, L, L, L, L, L, F, r,	 at 	-0.13400639	
+C, r, L, L, L, L, L, F, L,0	 at 	-0.13400796	PREZERO after 9 iterates
+C, r, L, L, L, L, L, F, F,	 at 	-0.13400953	
+C, r, L, L, L, L, r, R, R,P	 at 	-0.13402837	PREFIXED after 9 iterates
+C, r, L, L, L, L, r, F, F,C	 at 	-0.13402994	Period 9 orbit
+C, r, L, L, L, L, r, F, F,0	 at 	-0.13403151	PREZERO after 9 iterates
+C, r, L, L, L, L, r, F, L,0	 at 	-0.13403465	PREZERO after 9 iterates
+C, r, L, L, L, L, r, F, L,	 at 	-0.13403622	
+C, r, L, L, L, L, r, F, r,P	 at 	-0.13403936	PREFIXED after 9 iterates
+C, r, L, L, L, L, r, F, r,C	 at 	-0.1340425	Period 9 orbit
+C, r, L, L, L, L, r, L, r,C	 at 	-0.13405349	Period 9 orbit
+C, r, L, L, L, L, r, L, r,P	 at 	-0.1340582	PREFIXED after 9 iterates
+C, r, L, L, L, L, r, L, L,P	 at 	-0.13406605	PREFIXED after 9 iterates
+C, r, L, L, L, L, r, L, L,C	 at 	-0.13407076	Period 9 orbit
+C, r, L, L, L, F, r, L, L,C	 at 	-0.13408332	Period 9 orbit
+C, r, L, L, L, F, r, L, L,P	 at 	-0.13408803	PREFIXED after 9 iterates
+C, r, L, L, L, F, r, L, r,P	 at 	-0.13409588	PREFIXED after 9 iterates
+C, r, L, L, L, F, r, L, r,C	 at 	-0.13410216	Period 9 orbit
+C, r, L, L, L, F, r, F, r,C	 at 	-0.13411472	Period 9 orbit
+C, r, L, L, L, F, r, F, r,P	 at 	-0.13411786	PREFIXED after 9 iterates
+C, r, L, L, L, F, r, F, L,P	 at 	-0.134121	PREFIXED after 9 iterates
+C, r, L, L, L, F, r, F, L,	 at 	-0.13412257	
+C, r, L, L, L, F, r, F, F,0	 at 	-0.13412728	PREZERO after 9 iterates
+C, r, L, L, L, F, r, F, F,C	 at 	-0.13412885	Period 9 orbit
+C, r, L, L, L, F, r, F, F,P	 at 	-0.13413199	PREFIXED after 9 iterates
+C, r, L, L, L, F, L, R, R,P	 at 	-0.13415711	PREFIXED after 9 iterates
+C, r, L, L, L, F, L, F, F,	 at 	-0.13415868	
+C, r, L, L, L, F, L, F, F,0	 at 	-0.13416025	PREZERO after 9 iterates
+C, r, L, L, L, F, L, F, L,	 at 	-0.13416182	
+C, r, L, L, L, F, L, F, r,P	 at 	-0.13416339	PREFIXED after 9 iterates
+C, r, L, L, L, F, L, F, r,C	 at 	-0.13416496	Period 9 orbit
+C, r, L, L, L, F, L, F, r,C	 at 	-0.13416653	Period 9 orbit
+C, r, L, L, L, F, L, L, r,P	 at 	-0.1341681	PREFIXED after 9 iterates
+C, r, L, L, L, F, L, L, L,	 at 	-0.13416967	
+C, r, L, L, L, F, L, L, F,	 at 	-0.13417124	
+C, r, L, L, L, F, L, r, R,P	 at 	-0.13417752	PREFIXED after 9 iterates
+C, r, L, L, L, F, L, r, F,C	 at 	-0.13417909	Period 9 orbit
+C, r, L, L, L, F, L, r, F,0	 at 	-0.13418066	PREZERO after 9 iterates
+C, r, L, L, L, F, L, r, L,0	 at 	-0.13418694	PREZERO after 9 iterates
+C, r, L, L, L, F, F, r, L,0	 at 	-0.13419636	PREZERO after 9 iterates
+C, r, L, L, L, F, F, r, F,0	 at 	-0.13420578	PREZERO after 9 iterates
+C, r, L, L, L, F, F, r, F,C	 at 	-0.13420735	Period 9 orbit
+C, r, L, L, L, F, F, r, F,P	 at 	-0.13420892	PREFIXED after 9 iterates
+C, r, L, L, L, F, F, L, R,P	 at 	-0.13421834	PREFIXED after 9 iterates
+C, r, L, L, L, F, F, L, F,	 at 	-0.13421991	
+C, r, L, L, L, F, F, L, L,	 at 	-0.13422305	
+C, r, L, L, L, F, F, L, L,P	 at 	-0.13422462	PREFIXED after 9 iterates
+C, r, L, L, L, F, F, L, r,P	 at 	-0.13422619	PREFIXED after 9 iterates
+C, r, L, L, L, F, F, L, r,C	 at 	-0.13422776	Period 9 orbit
+C, r, L, L, L, F, F, F, r,C	 at 	-0.13423561	Period 9 orbit
+C, r, L, L, L, F, F, F, r,P	 at 	-0.13423875	PREFIXED after 9 iterates
+C, r, L, L, L, F, F, F, L,P	 at 	-0.13424189	PREFIXED after 9 iterates
+C, r, L, L, L, F, F, F, L,C	 at 	-0.13424346	Period 9 orbit
+C, r, L, L, L, F, F, F, L,0	 at 	-0.13424503	PREZERO after 9 iterates
+C, r, L, L, L, F, F, F, F,0	 at 	-0.13425131	PREZERO after 9 iterates
+C, r, L, L, L, F, F, F, F,C	 at 	-0.13425445	Period 9 orbit
+C, r, L, L, L, F, F, F, F,P	 at 	-0.13425916	PREFIXED after 9 iterates
+C, r, L, L, r, R, R, R, R,P	 at 	-0.13480866	PREFIXED after 9 iterates
+C, r, L, L, r, F, F, F, F,C	 at 	-0.13481808	Period 9 orbit
+C, r, L, L, r, F, F, F, F,0	 at 	-0.13482436	PREZERO after 9 iterates
+C, r, L, L, r, F, F, F, L,0	 at 	-0.13483692	PREZERO after 9 iterates
+C, r, L, L, r, F, F, F, L,C	 at 	-0.13484006	Period 9 orbit
+C, r, L, L, r, F, F, F, L,P	 at 	-0.13484163	PREFIXED after 9 iterates
+C, r, L, L, r, F, F, F, r,P	 at 	-0.13484948	PREFIXED after 9 iterates
+C, r, L, L, r, F, F, F, r,C	 at 	-0.13485576	Period 9 orbit
+C, r, L, L, r, F, F, L, r,C	 at 	-0.13487146	Period 9 orbit
+C, r, L, L, r, F, F, L, r,P	 at 	-0.13487617	PREFIXED after 9 iterates
+C, r, L, L, r, F, F, L, L,P	 at 	-0.13487931	PREFIXED after 9 iterates
+C, r, L, L, r, F, F, L, L,C	 at 	-0.13488088	Period 9 orbit
+C, r, L, L, r, F, F, L, L,0	 at 	-0.13488245	PREZERO after 9 iterates
+C, r, L, L, r, F, F, L, F,0	 at 	-0.13488716	PREZERO after 9 iterates
+C, r, L, L, r, F, F, L, F,C	 at 	-0.13488873	Period 9 orbit
+C, r, L, L, r, F, F, L, F,P	 at 	-0.13489187	PREFIXED after 9 iterates
+C, r, L, L, r, F, F, r, R,P	 at 	-0.13491228	PREFIXED after 9 iterates
+C, r, L, L, r, F, F, r, F,C	 at 	-0.13491699	Period 9 orbit
+C, r, L, L, r, F, F, r, F,0	 at 	-0.13492013	PREZERO after 9 iterates
+C, r, L, L, r, F, F, r, L,0	 at 	-0.13494054	PREZERO after 9 iterates
+C, r, L, L, r, F, L, r, L,0	 at 	-0.13496723	PREZERO after 9 iterates
+C, r, L, L, r, F, L, r, F,0	 at 	-0.1349845	PREZERO after 9 iterates
+C, r, L, L, r, F, L, r, F,C	 at 	-0.13498764	Period 9 orbit
+C, r, L, L, r, F, L, r, F,P	 at 	-0.13499078	PREFIXED after 9 iterates
+C, r, L, L, r, F, L, L, R,P	 at 	-0.13500491	PREFIXED after 9 iterates
+C, r, L, L, r, F, L, L, F,C	 at 	-0.13500648	Period 9 orbit
+C, r, L, L, r, F, L, L, F,0	 at 	-0.13500805	PREZERO after 9 iterates
+C, r, L, L, r, F, L, L, L,0	 at 	-0.13501119	PREZERO after 9 iterates
+C, r, L, L, r, F, L, L, L,	 at 	-0.13501276	
+C, r, L, L, r, F, L, L, r,P	 at 	-0.1350159	PREFIXED after 9 iterates
+C, r, L, L, r, F, L, L, r,C	 at 	-0.13501747	Period 9 orbit
+C, r, L, L, r, F, L, F, r,C	 at 	-0.13502689	Period 9 orbit
+C, r, L, L, r, F, L, F, r,P	 at 	-0.13503003	PREFIXED after 9 iterates
+C, r, L, L, r, F, L, F, L,P	 at 	-0.13503317	PREFIXED after 9 iterates
+C, r, L, L, r, F, L, F, L,	 at 	-0.13503474	
+C, r, L, L, r, F, L, F, F,0	 at 	-0.13504102	PREZERO after 9 iterates
+C, r, L, L, r, F, L, F, F,C	 at 	-0.13504259	Period 9 orbit
+C, r, L, L, r, F, L, F, F,P	 at 	-0.1350473	PREFIXED after 9 iterates
+C, r, L, L, r, F, r, R, R,P	 at 	-0.13512423	PREFIXED after 9 iterates
+C, r, L, L, r, F, r, F, F,C	 at 	-0.13513208	Period 9 orbit
+C, r, L, L, r, F, r, F, F,0	 at 	-0.13513679	PREZERO after 9 iterates
+C, r, L, L, r, F, r, F, L,0	 at 	-0.13515092	PREZERO after 9 iterates
+C, r, L, L, r, F, r, F, L,C	 at 	-0.13515406	Period 9 orbit
+C, r, L, L, r, F, r, F, L,P	 at 	-0.13515877	PREFIXED after 9 iterates
+C, r, L, L, r, F, r, F, r,P	 at 	-0.13516976	PREFIXED after 9 iterates
+C, r, L, L, r, F, r, F, r,C	 at 	-0.13518075	Period 9 orbit
+C, r, L, L, r, F, r, L, r,C	 at 	-0.13522628	Period 9 orbit
+C, r, L, L, r, F, r, L, r,P	 at 	-0.13524512	PREFIXED after 9 iterates
+C, r, L, L, r, F, r, L, L,P	 at 	-0.13527338	PREFIXED after 9 iterates
+C, r, L, L, r, F, r, L, L,C	 at 	-0.13528594	Period 9 orbit
+C, r, L, L, r, F, r, L, L,0	 at 	-0.13530164	PREZERO after 9 iterates
+C, r, L, L, r, L, r, L, L,0	 at 	-0.13537857	PREZERO after 9 iterates
+C, r, L, L, r, L, r, L, L,C	 at 	-0.13539584	Period 9 orbit
+C, r, L, L, r, L, r, L, L,P	 at 	-0.13541154	PREFIXED after 9 iterates
+C, r, L, L, r, L, r, L, r,P	 at 	-0.13544451	PREFIXED after 9 iterates
+C, r, L, L, r, L, r, L, r,C	 at 	-0.13546806	Period 9 orbit
+C, r, L, L, r, L, r, F, r,C	 at 	-0.13553243	Period 9 orbit
+C, r, L, L, r, L, r, F, r,P	 at 	-0.1355497	PREFIXED after 9 iterates
+C, r, L, L, r, L, r, F, L,P	 at 	-0.13556697	PREFIXED after 9 iterates
+C, r, L, L, r, L, r, F, L,C	 at 	-0.13557325	Period 9 orbit
+C, r, L, L, r, L, r, F, L,0	 at 	-0.13557796	PREZERO after 9 iterates
+C, r, L, L, r, L, r, F, F,0	 at 	-0.13560151	PREZERO after 9 iterates
+C, r, L, L, r, L, r, F, F,C	 at 	-0.13561093	Period 9 orbit
+C, r, L, L, r, L, r, F, F,P	 at 	-0.13562506	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, R, R,P	 at 	-0.13578834	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, F, F,C	 at 	-0.13579776	Period 9 orbit
+C, r, L, L, r, L, L, F, F,0	 at 	-0.13580404	PREZERO after 9 iterates
+C, r, L, L, r, L, L, F, L,0	 at 	-0.13581974	PREZERO after 9 iterates
+C, r, L, L, r, L, L, F, L,C	 at 	-0.13582288	Period 9 orbit
+C, r, L, L, r, L, L, F, L,P	 at 	-0.13582602	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, F, r,P	 at 	-0.13583544	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, F, r,C	 at 	-0.13584486	Period 9 orbit
+C, r, L, L, r, L, L, L, r,C	 at 	-0.13587155	Period 9 orbit
+C, r, L, L, r, L, L, L, r,P	 at 	-0.1358794	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, L, L,P	 at 	-0.13588725	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, L, L,C	 at 	-0.13589039	Period 9 orbit
+C, r, L, L, r, L, L, L, L,0	 at 	-0.13589196	PREZERO after 9 iterates
+C, r, L, L, r, L, L, L, F,0	 at 	-0.13590295	PREZERO after 9 iterates
+C, r, L, L, r, L, L, L, F,C	 at 	-0.13590609	Period 9 orbit
+C, r, L, L, r, L, L, L, F,P	 at 	-0.13591237	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, r, R,P	 at 	-0.13596418	PREFIXED after 9 iterates
+C, r, L, L, r, L, L, r, F,C	 at 	-0.13597988	Period 9 orbit
+C, r, L, L, r, L, L, r, F,0	 at 	-0.13599401	PREZERO after 9 iterates
+C, r, L, L, r, L, L, r, L,0	 at 	-0.1360835	PREZERO after 9 iterates
+C, r, L, L, r, L, L, r, L,C	 at 	-0.13624992	Period 9 orbit
+C, r, L, F, r, L, L, r, L,C	 at 	-0.13637709	Period 9 orbit
+C, r, L, F, r, L, L, r, L,0	 at 	-0.13649327	PREZERO after 9 iterates
+C, r, L, F, r, L, L, r, F,0	 at 	-0.13658276	PREZERO after 9 iterates
+C, r, L, F, r, L, L, r, F,C	 at 	-0.13659689	Period 9 orbit
+C, r, L, F, r, L, L, r, F,P	 at 	-0.13661259	PREFIXED after 9 iterates
+C, r, L, F, r, L, L, L, R,P	 at 	-0.13666597	PREFIXED after 9 iterates
+C, r, L, F, r, L, L, L, F,C	 at 	-0.13667225	Period 9 orbit
+C, r, L, F, r, L, L, L, F,0	 at 	-0.13667539	PREZERO after 9 iterates
+C, r, L, F, r, L, L, L, L,0	 at 	-0.13668638	PREZERO after 9 iterates
+C, r, L, F, r, L, L, L, L,C	 at 	-0.13668952	Period 9 orbit
+C, r, L, F, r, L, L, L, L,P	 at 	-0.13669266	PREFIXED after 9 iterates
+C, r, L, F, r, L, L, L, r,P	 at 	-0.13670051	PREFIXED after 9 iterates
+C, r, L, F, r, L, L, L, r,C	 at 	-0.13670836	Period 9 orbit
+C, r, L, F, r, L, L, F, r,C	 at 	-0.13673662	Period 9 orbit
+C, r, L, F, r, L, L, F, r,P	 at 	-0.13674604	PREFIXED after 9 iterates
+C, r, L, F, r, L, L, F, L,P	 at 	-0.13675546	PREFIXED after 9 iterates
+C, r, L, F, r, L, L, F, L,C	 at 	-0.1367586	Period 9 orbit
+C, r, L, F, r, L, L, F, L,0	 at 	-0.13676174	PREZERO after 9 iterates
+C, r, L, F, r, L, L, F, F,0	 at 	-0.13677901	PREZERO after 9 iterates
+C, r, L, F, r, L, L, F, F,C	 at 	-0.13678529	Period 9 orbit
+C, r, L, F, r, L, L, F, F,P	 at 	-0.13679471	PREFIXED after 9 iterates
+C, r, L, F, r, L, r, R, R,P	 at 	-0.13696741	PREFIXED after 9 iterates
+C, r, L, F, r, L, r, F, F,C	 at 	-0.13698154	Period 9 orbit
+C, r, L, F, r, L, r, F, F,0	 at 	-0.13699096	PREZERO after 9 iterates
+C, r, L, F, r, L, r, F, L,0	 at 	-0.13701608	PREZERO after 9 iterates
+C, r, L, F, r, L, r, F, L,C	 at 	-0.13702079	Period 9 orbit
+C, r, L, F, r, L, r, F, L,P	 at 	-0.13702707	PREFIXED after 9 iterates
+C, r, L, F, r, L, r, F, r,P	 at 	-0.13704591	PREFIXED after 9 iterates
+C, r, L, F, r, L, r, F, r,C	 at 	-0.13706161	Period 9 orbit
+C, r, L, F, r, L, r, L, r,C	 at 	-0.13713069	Period 9 orbit
+C, r, L, F, r, L, r, L, r,P	 at 	-0.13715424	PREFIXED after 9 iterates
+C, r, L, F, r, L, r, L, L,P	 at 	-0.1371825	PREFIXED after 9 iterates
+C, r, L, F, r, L, r, L, L,C	 at 	-0.13719506	Period 9 orbit
+C, r, L, F, r, L, r, L, L,0	 at 	-0.13720605	PREZERO after 9 iterates
+C, r, L, F, r, F, r, L, L,0	 at 	-0.13736305	PREZERO after 9 iterates
+C, r, L, F, r, F, r, L, L,C	 at 	-0.13737404	Period 9 orbit
+C, r, L, F, r, F, r, L, L,P	 at 	-0.13738346	PREFIXED after 9 iterates
+C, r, L, F, r, F, r, L, r,P	 at 	-0.13740701	PREFIXED after 9 iterates
+C, r, L, F, r, F, r, L, r,C	 at 	-0.13742585	Period 9 orbit
+C, r, L, F, r, F, r, F, r,C	 at 	-0.13747609	Period 9 orbit
+C, r, L, F, r, F, r, F, r,P	 at 	-0.13748708	PREFIXED after 9 iterates
+C, r, L, F, r, F, r, F, L,P	 at 	-0.13749964	PREFIXED after 9 iterates
+C, r, L, F, r, F, r, F, L,C	 at 	-0.13750278	Period 9 orbit
+C, r, L, F, r, F, r, F, L,0	 at 	-0.13750592	PREZERO after 9 iterates
+C, r, L, F, r, F, r, F, F,0	 at 	-0.13752162	PREZERO after 9 iterates
+C, r, L, F, r, F, r, F, F,C	 at 	-0.1375279	Period 9 orbit
+C, r, L, F, r, F, r, F, F,P	 at 	-0.13753575	PREFIXED after 9 iterates
+C, r, L, F, r, F, L, R, R,P	 at 	-0.13762367	PREFIXED after 9 iterates
+C, r, L, F, r, F, L, F, F,C	 at 	-0.13762838	Period 9 orbit
+C, r, L, F, r, F, L, F, F,0	 at 	-0.13762995	PREZERO after 9 iterates
+C, r, L, F, r, F, L, F, L,0	 at 	-0.13763623	PREZERO after 9 iterates
+C, r, L, F, r, F, L, F, L,C	 at 	-0.1376378	Period 9 orbit
+C, r, L, F, r, F, L, F, L,P	 at 	-0.13763937	PREFIXED after 9 iterates
+C, r, L, F, r, F, L, F, r,P	 at 	-0.13764251	PREFIXED after 9 iterates
+C, r, L, F, r, F, L, F, r,C	 at 	-0.13764722	Period 9 orbit
+C, r, L, F, r, F, L, L, r,C	 at 	-0.13765664	Period 9 orbit
+C, r, L, F, r, F, L, L, r,P	 at 	-0.13765978	PREFIXED after 9 iterates
+C, r, L, F, r, F, L, L, L,	 at 	-0.13766292	
+C, r, L, F, r, F, L, L, L,0	 at 	-0.13766449	PREZERO after 9 iterates
+C, r, L, F, r, F, L, L, F,0	 at 	-0.13766763	PREZERO after 9 iterates
+C, r, L, F, r, F, L, L, F,C	 at 	-0.1376692	Period 9 orbit
+C, r, L, F, r, F, L, L, F,P	 at 	-0.13767077	PREFIXED after 9 iterates
+C, r, L, F, r, F, L, r, R,P	 at 	-0.13768647	PREFIXED after 9 iterates
+C, r, L, F, r, F, L, r, F,C	 at 	-0.13769118	Period 9 orbit
+C, r, L, F, r, F, L, r, F,0	 at 	-0.13769432	PREZERO after 9 iterates
+C, r, L, F, r, F, L, r, L,0	 at 	-0.13771159	PREZERO after 9 iterates
+C, r, L, F, r, F, L, r, L,C	 at 	-0.13772101	Period 9 orbit
+C, r, L, F, r, F, F, r, L,C	 at 	-0.13774142	Period 9 orbit
+C, r, L, F, r, F, F, r, L,0	 at 	-0.13775241	PREZERO after 9 iterates
+C, r, L, F, r, F, F, r, F,0	 at 	-0.13777439	PREZERO after 9 iterates
+C, r, L, F, r, F, F, r, F,C	 at 	-0.13777753	Period 9 orbit
+C, r, L, F, r, F, F, r, F,P	 at 	-0.13778381	PREFIXED after 9 iterates
+C, r, L, F, r, F, F, L, R,P	 at 	-0.13780736	PREFIXED after 9 iterates
+C, r, L, F, r, F, F, L, F,C	 at 	-0.13780893	Period 9 orbit
+C, r, L, F, r, F, F, L, F,0	 at 	-0.13781207	PREZERO after 9 iterates
+C, r, L, F, r, F, F, L, L,	 at 	-0.13781835	
+C, r, L, F, r, F, F, L, L,P	 at 	-0.13781992	PREFIXED after 9 iterates
+C, r, L, F, r, F, F, L, r,P	 at 	-0.13782463	PREFIXED after 9 iterates
+C, r, L, F, r, F, F, L, r,C	 at 	-0.13782934	Period 9 orbit
+C, r, L, F, r, F, F, F, r,C	 at 	-0.13785132	Period 9 orbit
+C, r, L, F, r, F, F, F, r,P	 at 	-0.1378576	PREFIXED after 9 iterates
+C, r, L, F, r, F, F, F, L,P	 at 	-0.13786545	PREFIXED after 9 iterates
+C, r, L, F, r, F, F, F, L,C	 at 	-0.13786859	Period 9 orbit
+C, r, L, F, r, F, F, F, L,0	 at 	-0.13787173	PREZERO after 9 iterates
+C, r, L, F, r, F, F, F, F,0	 at 	-0.13788743	PREZERO after 9 iterates
+C, r, L, F, r, F, F, F, F,C	 at 	-0.13789528	Period 9 orbit
+C, r, L, F, r, F, F, F, F,P	 at 	-0.13790627	PREFIXED after 9 iterates
+C, r, L, F, L, R, R, R, R,P	 at 	-0.13860963	PREFIXED after 9 iterates
+C, r, L, F, L, F, F, F, F,C	 at 	-0.13861748	Period 9 orbit
+C, r, L, F, L, F, F, F, F,0	 at 	-0.13862062	PREZERO after 9 iterates
+C, r, L, F, L, F, F, F, L,0	 at 	-0.13863004	PREZERO after 9 iterates
+C, r, L, F, L, F, F, F, L,C	 at 	-0.13863161	Period 9 orbit
+C, r, L, F, L, F, F, F, L,P	 at 	-0.13863318	PREFIXED after 9 iterates
+C, r, L, F, L, F, F, F, r,P	 at 	-0.13863789	PREFIXED after 9 iterates
+C, r, L, F, L, F, F, F, r,C	 at 	-0.13864103	Period 9 orbit
+C, r, L, F, L, F, F, L, r,C	 at 	-0.13865202	Period 9 orbit
+C, r, L, F, L, F, F, L, r,P	 at 	-0.13865516	PREFIXED after 9 iterates
+C, r, L, F, L, F, F, L, r,P	 at 	-0.13865673	PREFIXED after 9 iterates
+C, r, L, F, L, F, F, L, L,	 at 	-0.1386583	
+C, r, L, F, L, F, F, L, F,0	 at 	-0.13866144	PREZERO after 9 iterates
+C, r, L, F, L, F, F, L, F,C	 at 	-0.13866301	Period 9 orbit
+C, r, L, F, L, F, F, L, F,P	 at 	-0.13866458	PREFIXED after 9 iterates
+C, r, L, F, L, F, F, r, R,P	 at 	-0.13867557	PREFIXED after 9 iterates
+C, r, L, F, L, F, F, r, F,C	 at 	-0.13867871	Period 9 orbit
+C, r, L, F, L, F, F, r, F,0	 at 	-0.13868028	PREZERO after 9 iterates
+C, r, L, F, L, F, F, r, L,0	 at 	-0.1386897	PREZERO after 9 iterates
+C, r, L, F, L, F, F, r, L,C	 at 	-0.13869441	Period 9 orbit
+C, r, L, F, L, F, L, r, L,C	 at 	-0.13870697	Period 9 orbit
+C, r, L, F, L, F, L, r, L,0	 at 	-0.13871011	PREZERO after 9 iterates
+C, r, L, F, L, F, L, r, F,0	 at 	-0.13871796	PREZERO after 9 iterates
+C, r, L, F, L, F, L, r, F,C	 at 	-0.13871953	Period 9 orbit
+C, r, L, F, L, F, L, r, F,P	 at 	-0.1387211	PREFIXED after 9 iterates
+C, r, L, F, L, F, L, L, R,	 at 	-0.13872738	
+C, r, L, F, L, F, L, L, F,0	 at 	-0.13872895	PREZERO after 9 iterates
+C, r, L, F, L, F, L, L, L,	 at 	-0.13873052	
+C, r, L, F, L, F, L, L, r,P	 at 	-0.13873209	PREFIXED after 9 iterates
+C, r, L, F, L, F, L, L, r,C	 at 	-0.13873366	Period 9 orbit
+C, r, L, F, L, F, L, F, r,C	 at 	-0.1387368	Period 9 orbit
+C, r, L, F, L, F, L, F, r,P	 at 	-0.13873837	PREFIXED after 9 iterates
+C, r, L, F, L, F, L, F, r,P	 at 	-0.13873994	PREFIXED after 9 iterates
+C, r, L, F, L, F, L, F, L,	 at 	-0.13874151	
+C, r, L, F, L, F, L, F, F,	 at 	-0.13874465	
+C, r, L, F, L, F, L, F, F,P	 at 	-0.13874622	PREFIXED after 9 iterates
+C, r, L, F, L, F, r, R, R,P	 at 	-0.13877919	PREFIXED after 9 iterates
+C, r, L, F, L, F, r, F, F,C	 at 	-0.13878233	Period 9 orbit
+C, r, L, F, L, F, r, F, F,0	 at 	-0.1387839	PREZERO after 9 iterates
+C, r, L, F, L, F, r, F, L,0	 at 	-0.13879018	PREZERO after 9 iterates
+C, r, L, F, L, F, r, F, L,	 at 	-0.13879175	
+C, r, L, F, L, F, r, F, r,P	 at 	-0.13879646	PREFIXED after 9 iterates
+C, r, L, F, L, F, r, F, r,C	 at 	-0.1387996	Period 9 orbit
+C, r, L, F, L, F, r, L, r,C	 at 	-0.1388153	Period 9 orbit
+C, r, L, F, L, F, r, L, r,P	 at 	-0.13882158	PREFIXED after 9 iterates
+C, r, L, F, L, F, r, L, L,P	 at 	-0.13882786	PREFIXED after 9 iterates
+C, r, L, F, L, F, r, L, L,C	 at 	-0.13882943	Period 9 orbit
+C, r, L, F, L, F, r, L, L,0	 at 	-0.13883257	PREZERO after 9 iterates
+C, r, L, F, L, F, r, L, F,0	 at 	-0.13884827	PREZERO after 9 iterates
+C, r, L, F, L, L, r, L, F,0	 at 	-0.13886711	PREZERO after 9 iterates
+C, r, L, F, L, L, r, L, L,0	 at 	-0.13888281	PREZERO after 9 iterates
+C, r, L, F, L, L, r, L, L,C	 at 	-0.13888595	Period 9 orbit
+C, r, L, F, L, L, r, L, L,P	 at 	-0.13888752	PREFIXED after 9 iterates
+C, r, L, F, L, L, r, L, r,P	 at 	-0.1388938	PREFIXED after 9 iterates
+C, r, L, F, L, L, r, L, r,C	 at 	-0.13889694	Period 9 orbit
+C, r, L, F, L, L, r, F, r,C	 at 	-0.13891107	Period 9 orbit
+C, r, L, F, L, L, r, F, r,P	 at 	-0.13891421	PREFIXED after 9 iterates
+C, r, L, F, L, L, r, F, L,	 at 	-0.13891735	
+C, r, L, F, L, L, r, F, L,0	 at 	-0.13891892	PREZERO after 9 iterates
+C, r, L, F, L, L, r, F, F,0	 at 	-0.13892363	PREZERO after 9 iterates
+C, r, L, F, L, L, r, F, F,C	 at 	-0.1389252	Period 9 orbit
+C, r, L, F, L, L, r, F, F,P	 at 	-0.13892677	PREFIXED after 9 iterates
+C, r, L, F, L, L, L, R, R,P	 at 	-0.13895032	PREFIXED after 9 iterates
+C, r, L, F, L, L, L, F, F,C	 at 	-0.13895189	Period 9 orbit
+C, r, L, F, L, L, L, F, F,0	 at 	-0.13895346	PREZERO after 9 iterates
+C, r, L, F, L, L, L, F, L,	 at 	-0.13895503	
+C, r, L, F, L, L, L, F, r,	 at 	-0.1389566	
+C, r, L, F, L, L, L, L, r,C	 at 	-0.13895974	Period 9 orbit
+C, r, L, F, L, L, L, L, r,C	 at 	-0.13896131	Period 9 orbit
+C, r, L, F, L, L, L, L, L,C	 at 	-0.13896288	Period 9 orbit
+C, r, L, F, L, L, L, L, F,P	 at 	-0.13896445	PREFIXED after 9 iterates
+C, r, L, F, L, L, L, r, R,P	 at 	-0.13896759	PREFIXED after 9 iterates
+C, r, L, F, L, L, L, r, F,C	 at 	-0.13896916	Period 9 orbit
+C, r, L, F, L, L, L, r, F,0	 at 	-0.13897073	PREZERO after 9 iterates
+C, r, L, F, L, L, L, r, L,0	 at 	-0.13897544	PREZERO after 9 iterates
+C, r, L, F, L, L, L, r, L,C	 at 	-0.13897701	Period 9 orbit
+C, r, L, F, L, L, F, r, L,C	 at 	-0.13898486	Period 9 orbit
+C, r, L, F, L, L, F, r, L,0	 at 	-0.13898643	PREZERO after 9 iterates
+C, r, L, F, L, L, F, r, F,	 at 	-0.13899271	
+C, r, L, F, L, L, F, r, F,P	 at 	-0.13899428	PREFIXED after 9 iterates
+C, r, L, F, L, L, F, L, R,	 at 	-0.13900056	
+C, r, L, F, L, L, F, L, F,0	 at 	-0.13900213	PREZERO after 9 iterates
+C, r, L, F, L, L, F, L, L,	 at 	-0.1390037	
+C, r, L, F, L, L, F, L, L,P	 at 	-0.13900527	PREFIXED after 9 iterates
+C, r, L, F, L, L, F, L, r,C	 at 	-0.13900684	Period 9 orbit
+C, r, L, F, L, L, F, F, r,C	 at 	-0.13901155	Period 9 orbit
+C, r, L, F, L, L, F, F, r,P	 at 	-0.13901312	PREFIXED after 9 iterates
+C, r, L, F, L, L, F, F, L,	 at 	-0.13901626	
+C, r, L, F, L, L, F, F, L,0	 at 	-0.13901783	PREZERO after 9 iterates
+C, r, L, F, L, L, F, F, F,0	 at 	-0.13902097	PREZERO after 9 iterates
+C, r, L, F, L, L, F, F, F,C	 at 	-0.13902254	Period 9 orbit
+C, r, L, F, L, L, F, F, F,P	 at 	-0.13902568	PREFIXED after 9 iterates
+C, r, L, F, L, r, R, R, R,P	 at 	-0.13916384	PREFIXED after 9 iterates
+C, r, L, F, L, r, F, F, F,C	 at 	-0.13917012	Period 9 orbit
+C, r, L, F, L, r, F, F, F,0	 at 	-0.13917326	PREZERO after 9 iterates
+C, r, L, F, L, r, F, F, L,0	 at 	-0.13918111	PREZERO after 9 iterates
+C, r, L, F, L, r, F, F, L,C	 at 	-0.13918268	Period 9 orbit
+C, r, L, F, L, r, F, F, L,P	 at 	-0.13918425	PREFIXED after 9 iterates
+C, r, L, F, L, r, F, F, r,P	 at 	-0.13918896	PREFIXED after 9 iterates
+C, r, L, F, L, r, F, F, r,C	 at 	-0.13919367	Period 9 orbit
+C, r, L, F, L, r, F, L, r,C	 at 	-0.13920623	Period 9 orbit
+C, r, L, F, L, r, F, L, r,P	 at 	-0.13920937	PREFIXED after 9 iterates
+C, r, L, F, L, r, F, L, L,P	 at 	-0.13921251	PREFIXED after 9 iterates
+C, r, L, F, L, r, F, L, L,	 at 	-0.13921408	
+C, r, L, F, L, r, F, L, F,0	 at 	-0.13921879	PREZERO after 9 iterates
+C, r, L, F, L, r, F, L, F,C	 at 	-0.13922036	Period 9 orbit
+C, r, L, F, L, r, F, L, F,P	 at 	-0.13922193	PREFIXED after 9 iterates
+C, r, L, F, L, r, F, r, R,P	 at 	-0.13924077	PREFIXED after 9 iterates
+C, r, L, F, L, r, F, r, F,C	 at 	-0.13924548	Period 9 orbit
+C, r, L, F, L, r, F, r, F,0	 at 	-0.13924862	PREZERO after 9 iterates
+C, r, L, F, L, r, F, r, L,0	 at 	-0.13926903	PREZERO after 9 iterates
+C, r, L, F, L, r, F, r, L,C	 at 	-0.13927845	Period 9 orbit
+C, r, L, F, L, r, L, r, L,C	 at 	-0.13931299	Period 9 orbit
+C, r, L, F, L, r, L, r, L,0	 at 	-0.13932398	PREZERO after 9 iterates
+C, r, L, F, L, r, L, r, F,0	 at 	-0.1393491	PREZERO after 9 iterates
+C, r, L, F, L, r, L, r, F,C	 at 	-0.13935538	Period 9 orbit
+C, r, L, F, L, r, L, r, F,P	 at 	-0.13936323	PREFIXED after 9 iterates
+C, r, L, F, L, r, L, L, R,P	 at 	-0.1393962	PREFIXED after 9 iterates
+C, r, L, F, L, r, L, L, F,C	 at 	-0.13939934	Period 9 orbit
+C, r, L, F, L, r, L, L, F,0	 at 	-0.13940248	PREZERO after 9 iterates
+C, r, L, F, L, r, L, L, L,0	 at 	-0.1394119	PREZERO after 9 iterates
+C, r, L, F, L, r, L, L, L,C	 at 	-0.13941504	Period 9 orbit
+C, r, L, F, L, r, L, L, L,P	 at 	-0.13941661	PREFIXED after 9 iterates
+C, r, L, F, L, r, L, L, r,P	 at 	-0.13942446	PREFIXED after 9 iterates
+C, r, L, F, L, r, L, L, r,C	 at 	-0.13943231	Period 9 orbit
+C, r, L, F, L, r, L, F, r,C	 at 	-0.1394747	Period 9 orbit
+C, r, L, F, L, r, L, F, r,P	 at 	-0.13948883	PREFIXED after 9 iterates
+C, r, L, F, L, r, L, F, L,P	 at 	-0.13951238	PREFIXED after 9 iterates
+C, r, L, F, L, r, L, F, L,C	 at 	-0.1395218	Period 9 orbit
+C, r, L, F, L, r, L, F, L,0	 at 	-0.13953436	PREZERO after 9 iterates
+C, r, L, F, F, r, L, F, L,0	 at 	-0.1396474	PREZERO after 9 iterates
+C, r, L, F, F, r, L, F, L,C	 at 	-0.13965996	Period 9 orbit
+C, r, L, F, F, r, L, F, L,P	 at 	-0.13967095	PREFIXED after 9 iterates
+C, r, L, F, F, r, L, F, r,P	 at 	-0.1396945	PREFIXED after 9 iterates
+C, r, L, F, F, r, L, F, r,C	 at 	-0.13971177	Period 9 orbit
+C, r, L, F, F, r, L, L, r,C	 at 	-0.13976044	Period 9 orbit
+C, r, L, F, F, r, L, L, r,P	 at 	-0.13976829	PREFIXED after 9 iterates
+C, r, L, F, F, r, L, L, L,P	 at 	-0.13977771	PREFIXED after 9 iterates
+C, r, L, F, F, r, L, L, L,C	 at 	-0.13978085	Period 9 orbit
+C, r, L, F, F, r, L, L, L,0	 at 	-0.13978242	PREZERO after 9 iterates
+C, r, L, F, F, r, L, L, F,0	 at 	-0.13979341	PREZERO after 9 iterates
+C, r, L, F, F, r, L, L, F,C	 at 	-0.13979812	Period 9 orbit
+C, r, L, F, F, r, L, L, F,P	 at 	-0.13980283	PREFIXED after 9 iterates
+C, r, L, F, F, r, L, r, R,P	 at 	-0.13984208	PREFIXED after 9 iterates
+C, r, L, F, F, r, L, r, F,C	 at 	-0.1398515	Period 9 orbit
+C, r, L, F, F, r, L, r, F,0	 at 	-0.13985778	PREZERO after 9 iterates
+C, r, L, F, F, r, L, r, L,0	 at 	-0.13989075	PREZERO after 9 iterates
+C, r, L, F, F, r, L, r, L,C	 at 	-0.13990331	Period 9 orbit
+C, r, L, F, F, r, F, r, L,C	 at 	-0.13995512	Period 9 orbit
+C, r, L, F, F, r, F, r, L,0	 at 	-0.13996611	PREZERO after 9 iterates
+C, r, L, F, F, r, F, r, F,0	 at 	-0.1399928	PREZERO after 9 iterates
+C, r, L, F, F, r, F, r, F,C	 at 	-0.13999751	Period 9 orbit
+C, r, L, F, F, r, F, r, F,P	 at 	-0.14000379	PREFIXED after 9 iterates
+C, r, L, F, F, r, F, L, R,P	 at 	-0.14003048	PREFIXED after 9 iterates
+C, r, L, F, F, r, F, L, F,C	 at 	-0.14003362	Period 9 orbit
+C, r, L, F, F, r, F, L, F,0	 at 	-0.14003519	PREZERO after 9 iterates
+C, r, L, F, F, r, F, L, L,0	 at 	-0.14004147	PREZERO after 9 iterates
+C, r, L, F, F, r, F, L, L,C	 at 	-0.14004304	Period 9 orbit
+C, r, L, F, F, r, F, L, L,P	 at 	-0.14004461	PREFIXED after 9 iterates
+C, r, L, F, F, r, F, L, r,P	 at 	-0.14004932	PREFIXED after 9 iterates
+C, r, L, F, F, r, F, L, r,C	 at 	-0.14005246	Period 9 orbit
+C, r, L, F, F, r, F, F, r,C	 at 	-0.14007287	Period 9 orbit
+C, r, L, F, F, r, F, F, r,P	 at 	-0.14007915	PREFIXED after 9 iterates
+C, r, L, F, F, r, F, F, L,P	 at 	-0.14008543	PREFIXED after 9 iterates
+C, r, L, F, F, r, F, F, L,C	 at 	-0.14008857	Period 9 orbit
+C, r, L, F, F, r, F, F, L,0	 at 	-0.14009171	PREZERO after 9 iterates
+C, r, L, F, F, r, F, F, F,0	 at 	-0.14010427	PREZERO after 9 iterates
+C, r, L, F, F, r, F, F, F,C	 at 	-0.14010898	Period 9 orbit
+C, r, L, F, F, r, F, F, F,P	 at 	-0.14011683	PREFIXED after 9 iterates
+C, r, L, F, F, L, R, R, R,P	 at 	-0.14034919	PREFIXED after 9 iterates
+C, r, L, F, F, L, F, F, F,C	 at 	-0.14035547	Period 9 orbit
+C, r, L, F, F, L, F, F, F,0	 at 	-0.14035861	PREZERO after 9 iterates
+C, r, L, F, F, L, F, F, L,0	 at 	-0.14036489	PREZERO after 9 iterates
+C, r, L, F, F, L, F, F, L,C	 at 	-0.14036646	Period 9 orbit
+C, r, L, F, F, L, F, F, L,P	 at 	-0.14036803	PREFIXED after 9 iterates
+C, r, L, F, F, L, F, F, r,P	 at 	-0.14037274	PREFIXED after 9 iterates
+C, r, L, F, F, L, F, F, r,C	 at 	-0.14037431	Period 9 orbit
+C, r, L, F, F, L, F, L, r,C	 at 	-0.1403853	Period 9 orbit
+C, r, L, F, F, L, F, L, r,P	 at 	-0.14038844	PREFIXED after 9 iterates
+C, r, L, F, F, L, F, L, L,	 at 	-0.14039001	
+C, r, L, F, F, L, F, L, L,0	 at 	-0.14039158	PREZERO after 9 iterates
+C, r, L, F, F, L, F, L, F,	 at 	-0.14039472	
+C, r, L, F, F, L, F, L, F,P	 at 	-0.14039629	PREFIXED after 9 iterates
+C, r, L, F, F, L, F, r, R,P	 at 	-0.14040728	PREFIXED after 9 iterates
+C, r, L, F, F, L, F, r, F,C	 at 	-0.14041042	Period 9 orbit
+C, r, L, F, F, L, F, r, F,0	 at 	-0.14041199	PREZERO after 9 iterates
+C, r, L, F, F, L, F, r, L,0	 at 	-0.14042298	PREZERO after 9 iterates
+C, r, L, F, F, L, F, r, L,C	 at 	-0.14042612	Period 9 orbit
+C, r, L, F, F, L, L, r, L,C	 at 	-0.14044339	Period 9 orbit
+C, r, L, F, F, L, L, r, L,0	 at 	-0.1404481	PREZERO after 9 iterates
+C, r, L, F, F, L, L, r, F,0	 at 	-0.14045595	PREZERO after 9 iterates
+C, r, L, F, F, L, L, r, F,C	 at 	-0.14045752	Period 9 orbit
+C, r, L, F, F, L, L, r, F,P	 at 	-0.14045909	PREFIXED after 9 iterates
+C, r, L, F, F, L, L, L, R,	 at 	-0.14046851	
+C, r, L, F, F, L, L, L, F,0	 at 	-0.14047008	PREZERO after 9 iterates
+C, r, L, F, F, L, L, L, L,	 at 	-0.14047165	
+C, r, L, F, F, L, L, L, L,P	 at 	-0.14047322	PREFIXED after 9 iterates
+C, r, L, F, F, L, L, L, r,C	 at 	-0.14047479	Period 9 orbit
+C, r, L, F, F, L, L, F, r,C	 at 	-0.14048107	Period 9 orbit
+C, r, L, F, F, L, L, F, r,P	 at 	-0.14048264	PREFIXED after 9 iterates
+C, r, L, F, F, L, L, F, L,	 at 	-0.14048578	
+C, r, L, F, F, L, L, F, L,0	 at 	-0.14048735	PREZERO after 9 iterates
+C, r, L, F, F, L, L, F, F,0	 at 	-0.14049049	PREZERO after 9 iterates
+C, r, L, F, F, L, L, F, F,C	 at 	-0.14049206	Period 9 orbit
+C, r, L, F, F, L, L, F, F,P	 at 	-0.14049363	PREFIXED after 9 iterates
+C, r, L, F, F, L, r, R, R,P	 at 	-0.1405423	PREFIXED after 9 iterates
+C, r, L, F, F, L, r, F, F,C	 at 	-0.14054701	Period 9 orbit
+C, r, L, F, F, L, r, F, F,0	 at 	-0.14055015	PREZERO after 9 iterates
+C, r, L, F, F, L, r, F, L,0	 at 	-0.14055957	PREZERO after 9 iterates
+C, r, L, F, F, L, r, F, L,C	 at 	-0.14056114	Period 9 orbit
+C, r, L, F, F, L, r, F, L,P	 at 	-0.14056271	PREFIXED after 9 iterates
+C, r, L, F, F, L, r, F, r,P	 at 	-0.14056899	PREFIXED after 9 iterates
+C, r, L, F, F, L, r, F, r,C	 at 	-0.14057527	Period 9 orbit
+C, r, L, F, F, L, r, L, r,C	 at 	-0.14060353	Period 9 orbit
+C, r, L, F, F, L, r, L, r,P	 at 	-0.14061295	PREFIXED after 9 iterates
+C, r, L, F, F, L, r, L, L,P	 at 	-0.14062237	PREFIXED after 9 iterates
+C, r, L, F, F, L, r, L, L,C	 at 	-0.14062708	Period 9 orbit
+C, r, L, F, F, L, r, L, L,0	 at 	-0.14063022	PREZERO after 9 iterates
+C, r, L, F, F, L, r, L, F,0	 at 	-0.14065534	PREZERO after 9 iterates
+C, r, L, F, F, L, r, L, F,C	 at 	-0.14066947	Period 9 orbit
+C, r, L, F, F, F, r, L, F,C	 at 	-0.14073227	Period 9 orbit
+C, r, L, F, F, F, r, L, F,0	 at 	-0.14074797	PREZERO after 9 iterates
+C, r, L, F, F, F, r, L, L,0	 at 	-0.14077623	PREZERO after 9 iterates
+C, r, L, F, F, F, r, L, L,C	 at 	-0.14078094	Period 9 orbit
+C, r, L, F, F, F, r, L, L,P	 at 	-0.14078565	PREFIXED after 9 iterates
+C, r, L, F, F, F, r, L, r,P	 at 	-0.14079978	PREFIXED after 9 iterates
+C, r, L, F, F, F, r, L, r,C	 at 	-0.14081077	Period 9 orbit
+C, r, L, F, F, F, r, F, r,C	 at 	-0.14085159	Period 9 orbit
+C, r, L, F, F, F, r, F, r,P	 at 	-0.14086101	PREFIXED after 9 iterates
+C, r, L, F, F, F, r, F, L,P	 at 	-0.14087043	PREFIXED after 9 iterates
+C, r, L, F, F, F, r, F, L,C	 at 	-0.14087357	Period 9 orbit
+C, r, L, F, F, F, r, F, L,0	 at 	-0.14087671	PREZERO after 9 iterates
+C, r, L, F, F, F, r, F, F,0	 at 	-0.14089084	PREZERO after 9 iterates
+C, r, L, F, F, F, r, F, F,C	 at 	-0.14089555	Period 9 orbit
+C, r, L, F, F, F, r, F, F,P	 at 	-0.1409034	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, R, R,P	 at 	-0.14099446	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, F, F,C	 at 	-0.14100074	Period 9 orbit
+C, r, L, F, F, F, L, F, F,0	 at 	-0.14100231	PREZERO after 9 iterates
+C, r, L, F, F, F, L, F, L,0	 at 	-0.14101016	PREZERO after 9 iterates
+C, r, L, F, F, F, L, F, L,C	 at 	-0.14101173	Period 9 orbit
+C, r, L, F, F, F, L, F, L,P	 at 	-0.1410133	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, F, r,P	 at 	-0.14101801	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, F, r,C	 at 	-0.14102115	Period 9 orbit
+C, r, L, F, F, F, L, L, r,C	 at 	-0.14103528	Period 9 orbit
+C, r, L, F, F, F, L, L, r,P	 at 	-0.14103842	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, L, r,P	 at 	-0.14104156	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, L, L,C	 at 	-0.14104313	Period 9 orbit
+C, r, L, F, F, F, L, L, L,0	 at 	-0.1410447	PREZERO after 9 iterates
+C, r, L, F, F, F, L, L, F,0	 at 	-0.14104941	PREZERO after 9 iterates
+C, r, L, F, F, F, L, L, F,C	 at 	-0.14105098	Period 9 orbit
+C, r, L, F, F, F, L, L, F,P	 at 	-0.14105255	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, r, R,P	 at 	-0.14107139	PREFIXED after 9 iterates
+C, r, L, F, F, F, L, r, F,C	 at 	-0.14107767	Period 9 orbit
+C, r, L, F, F, F, L, r, F,0	 at 	-0.14108081	PREZERO after 9 iterates
+C, r, L, F, F, F, L, r, L,0	 at 	-0.14110279	PREZERO after 9 iterates
+C, r, L, F, F, F, L, r, L,C	 at 	-0.14111064	Period 9 orbit
+C, r, L, F, F, F, F, r, L,C	 at 	-0.14116402	Period 9 orbit
+C, r, L, F, F, F, F, r, L,0	 at 	-0.14117658	PREZERO after 9 iterates
+C, r, L, F, F, F, F, r, F,0	 at 	-0.14120641	PREZERO after 9 iterates
+C, r, L, F, F, F, F, r, F,C	 at 	-0.14121269	Period 9 orbit
+C, r, L, F, F, F, F, r, F,P	 at 	-0.14122211	PREFIXED after 9 iterates
+C, r, L, F, F, F, F, L, R,P	 at 	-0.14125979	PREFIXED after 9 iterates
+C, r, L, F, F, F, F, L, F,C	 at 	-0.14126607	Period 9 orbit
+C, r, L, F, F, F, F, L, F,0	 at 	-0.14126921	PREZERO after 9 iterates
+C, r, L, F, F, F, F, L, L,0	 at 	-0.1412802	PREZERO after 9 iterates
+C, r, L, F, F, F, F, L, L,C	 at 	-0.14128177	Period 9 orbit
+C, r, L, F, F, F, F, L, L,P	 at 	-0.14128491	PREFIXED after 9 iterates
+C, r, L, F, F, F, F, L, r,P	 at 	-0.14129276	PREFIXED after 9 iterates
+C, r, L, F, F, F, F, L, r,C	 at 	-0.14130061	Period 9 orbit
+C, r, L, F, F, F, F, F, r,C	 at 	-0.14134457	Period 9 orbit
+C, r, L, F, F, F, F, F, r,P	 at 	-0.14135713	PREFIXED after 9 iterates
+C, r, L, F, F, F, F, F, L,P	 at 	-0.1413744	PREFIXED after 9 iterates
+C, r, L, F, F, F, F, F, L,C	 at 	-0.14138068	Period 9 orbit
+C, r, L, F, F, F, F, F, L,0	 at 	-0.14138696	PREZERO after 9 iterates
+C, r, L, F, F, F, F, F, F,0	 at 	-0.1414215	PREZERO after 9 iterates
+C, r, L, F, F, F, F, F, F,C	 at 	-0.14143563	Period 9 orbit
+C, r, L, F, F, F, F, F, F,P	 at 	-0.14146389	PREFIXED after 9 iterates
+C, r, r, R, R, R, R, R, R,P	 at 	-0.15501299	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, F, F,C	 at 	-0.15505067	Period 9 orbit
+C, r, r, F, F, F, F, F, F,0	 at 	-0.15506951	PREZERO after 9 iterates
+C, r, r, F, F, F, F, F, L,0	 at 	-0.15511818	PREZERO after 9 iterates
+C, r, r, F, F, F, F, F, L,C	 at 	-0.15512446	Period 9 orbit
+C, r, r, F, F, F, F, F, L,P	 at 	-0.15513231	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, F, r,P	 at 	-0.15515272	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, F, r,C	 at 	-0.15516685	Period 9 orbit
+C, r, r, F, F, F, F, F, r,0	 at 	-0.15518726	PREZERO after 9 iterates
+C, r, r, F, F, F, F, L, r,0	 at 	-0.15522651	PREZERO after 9 iterates
+C, r, r, F, F, F, F, L, r,C	 at 	-0.15524064	Period 9 orbit
+C, r, r, F, F, F, F, L, r,P	 at 	-0.15524849	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, L, L,P	 at 	-0.15525791	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, L, L,C	 at 	-0.15526105	Period 9 orbit
+C, r, r, F, F, F, F, L, L,0	 at 	-0.15526262	PREZERO after 9 iterates
+C, r, r, F, F, F, F, L, F,0	 at 	-0.15527675	PREZERO after 9 iterates
+C, r, r, F, F, F, F, L, F,C	 at 	-0.15528146	Period 9 orbit
+C, r, r, F, F, F, F, L, F,P	 at 	-0.15528774	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, r, R,P	 at 	-0.15533484	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, r, F,C	 at 	-0.15534426	Period 9 orbit
+C, r, r, F, F, F, F, r, F,0	 at 	-0.15535211	PREZERO after 9 iterates
+C, r, r, F, F, F, F, r, L,0	 at 	-0.15538194	PREZERO after 9 iterates
+C, r, r, F, F, F, F, r, L,C	 at 	-0.15538979	Period 9 orbit
+C, r, r, F, F, F, F, r, L,P	 at 	-0.15539921	PREFIXED after 9 iterates
+C, r, r, F, F, F, F, r, r,P	 at 	-0.15545416	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, r, r,P	 at 	-0.15547928	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, r, L,P	 at 	-0.15552324	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, r, L,C	 at 	-0.15552952	Period 9 orbit
+C, r, r, F, F, F, L, r, L,0	 at 	-0.15553423	PREZERO after 9 iterates
+C, r, r, F, F, F, L, r, F,0	 at 	-0.15555307	PREZERO after 9 iterates
+C, r, r, F, F, F, L, r, F,C	 at 	-0.15555621	Period 9 orbit
+C, r, r, F, F, F, L, r, F,P	 at 	-0.15556092	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, L, R,P	 at 	-0.1555829	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, L, F,C	 at 	-0.15558604	Period 9 orbit
+C, r, r, F, F, F, L, L, F,0	 at 	-0.15558761	PREZERO after 9 iterates
+C, r, r, F, F, F, L, L, L,	 at 	-0.15559389	
+C, r, r, F, F, F, L, L, L,P	 at 	-0.15559546	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, L, r,P	 at 	-0.1555986	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, L, r,C	 at 	-0.15560174	Period 9 orbit
+C, r, r, F, F, F, L, L, r,0	 at 	-0.15560645	PREZERO after 9 iterates
+C, r, r, F, F, F, L, F, r,0	 at 	-0.15561901	PREZERO after 9 iterates
+C, r, r, F, F, F, L, F, r,C	 at 	-0.15562372	Period 9 orbit
+C, r, r, F, F, F, L, F, r,P	 at 	-0.15562686	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, F, L,P	 at 	-0.15563157	PREFIXED after 9 iterates
+C, r, r, F, F, F, L, F, L,	 at 	-0.15563471	
+C, r, r, F, F, F, L, F, F,0	 at 	-0.1556457	PREZERO after 9 iterates
+C, r, r, F, F, F, L, F, F,C	 at 	-0.15564884	Period 9 orbit
+C, r, r, F, F, F, L, F, F,P	 at 	-0.15565512	PREFIXED after 9 iterates
+C, r, r, F, F, F, r, R, R,P	 at 	-0.15576816	PREFIXED after 9 iterates
+C, r, r, F, F, F, r, F, F,C	 at 	-0.15577758	Period 9 orbit
+C, r, r, F, F, F, r, F, F,0	 at 	-0.15578229	PREZERO after 9 iterates
+C, r, r, F, F, F, r, F, L,0	 at 	-0.15579799	PREZERO after 9 iterates
+C, r, r, F, F, F, r, F, L,C	 at 	-0.15580113	Period 9 orbit
+C, r, r, F, F, F, r, F, L,P	 at 	-0.15580427	PREFIXED after 9 iterates
+C, r, r, F, F, F, r, F, r,P	 at 	-0.15581369	PREFIXED after 9 iterates
+C, r, r, F, F, F, r, F, r,C	 at 	-0.15581997	Period 9 orbit
+C, r, r, F, F, F, r, F, r,0	 at 	-0.15583096	PREZERO after 9 iterates
+C, r, r, F, F, F, r, L, r,0	 at 	-0.15585922	PREZERO after 9 iterates
+C, r, r, F, F, F, r, L, r,C	 at 	-0.15587178	Period 9 orbit
+C, r, r, F, F, F, r, L, r,P	 at 	-0.15587806	PREFIXED after 9 iterates
+C, r, r, F, F, F, r, L, L,P	 at 	-0.15588748	PREFIXED after 9 iterates
+C, r, r, F, F, F, r, L, L,C	 at 	-0.15589062	Period 9 orbit
+C, r, r, F, F, F, r, L, L,0	 at 	-0.15589376	PREZERO after 9 iterates
+C, r, r, F, F, F, r, L, F,0	 at 	-0.15591103	PREZERO after 9 iterates
+C, r, r, F, F, F, r, L, F,C	 at 	-0.15591574	Period 9 orbit
+C, r, r, F, F, F, r, L, F,P	 at 	-0.15592516	PREFIXED after 9 iterates
+C, r, r, F, F, F, r, r, R,P	 at 	-0.15604762	PREFIXED after 9 iterates
+C, r, r, F, F, L, r, r, F,P	 at 	-0.15614182	PREFIXED after 9 iterates
+C, r, r, F, F, L, r, L, R,P	 at 	-0.15623916	PREFIXED after 9 iterates
+C, r, r, F, F, L, r, L, F,C	 at 	-0.15624544	Period 9 orbit
+C, r, r, F, F, L, r, L, F,0	 at 	-0.15624858	PREZERO after 9 iterates
+C, r, r, F, F, L, r, L, L,0	 at 	-0.15625957	PREZERO after 9 iterates
+C, r, r, F, F, L, r, L, L,C	 at 	-0.15626114	Period 9 orbit
+C, r, r, F, F, L, r, L, L,P	 at 	-0.15626428	PREFIXED after 9 iterates
+C, r, r, F, F, L, r, L, r,P	 at 	-0.15627056	PREFIXED after 9 iterates
+C, r, r, F, F, L, r, L, r,C	 at 	-0.1562737	Period 9 orbit
+C, r, r, F, F, L, r, L, r,0	 at 	-0.15628155	PREZERO after 9 iterates
+C, r, r, F, F, L, r, F, r,0	 at 	-0.15629882	PREZERO after 9 iterates
+C, r, r, F, F, L, r, F, r,C	 at 	-0.15630667	Period 9 orbit
+C, r, r, F, F, L, r, F, r,P	 at 	-0.15630981	PREFIXED after 9 iterates
+C, r, r, F, F, L, r, F, L,P	 at 	-0.15631452	PREFIXED after 9 iterates
+C, r, r, F, F, L, r, F, L,C	 at 	-0.15631609	Period 9 orbit
+C, r, r, F, F, L, r, F, L,0	 at 	-0.15631766	PREZERO after 9 iterates
+C, r, r, F, F, L, r, F, F,0	 at 	-0.15632708	PREZERO after 9 iterates
+C, r, r, F, F, L, r, F, F,C	 at 	-0.15633022	Period 9 orbit
+C, r, r, F, F, L, r, F, F,P	 at 	-0.15633493	PREFIXED after 9 iterates
+C, r, r, F, F, L, L, R, R,P	 at 	-0.15638988	PREFIXED after 9 iterates
+C, r, r, F, F, L, L, F, F,C	 at 	-0.15639302	Period 9 orbit
+C, r, r, F, F, L, L, F, F,0	 at 	-0.15639459	PREZERO after 9 iterates
+C, r, r, F, F, L, L, F, L,0	 at 	-0.15639773	PREZERO after 9 iterates
+C, r, r, F, F, L, L, F, L,	 at 	-0.1563993	
+C, r, r, F, F, L, L, F, r,	 at 	-0.15640244	
+C, r, r, F, F, L, L, F, r,0	 at 	-0.15640558	PREZERO after 9 iterates
+C, r, r, F, F, L, L, L, r,0	 at 	-0.15641029	PREZERO after 9 iterates
+C, r, r, F, F, L, L, L, r,	 at 	-0.15641343	
+C, r, r, F, F, L, L, L, r,	 at 	-0.156415	
+C, r, r, F, F, L, L, L, L,0	 at 	-0.15641657	PREZERO after 9 iterates
+C, r, r, F, F, L, L, L, F,	 at 	-0.15641814	
+C, r, r, F, F, L, L, L, F,P	 at 	-0.15641971	PREFIXED after 9 iterates
+C, r, r, F, F, L, L, r, R,P	 at 	-0.15642756	PREFIXED after 9 iterates
+C, r, r, F, F, L, L, r, F,	 at 	-0.1564307	
+C, r, r, F, F, L, L, r, L,0	 at 	-0.15643855	PREZERO after 9 iterates
+C, r, r, F, F, L, L, r, L,C	 at 	-0.15644012	Period 9 orbit
+C, r, r, F, F, L, L, r, L,P	 at 	-0.15644169	PREFIXED after 9 iterates
+C, r, r, F, F, L, L, r, r,P	 at 	-0.15645425	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, r, r,P	 at 	-0.15646995	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, r, L,P	 at 	-0.15648408	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, r, L,C	 at 	-0.15648722	Period 9 orbit
+C, r, r, F, F, L, F, r, L,0	 at 	-0.15648879	PREZERO after 9 iterates
+C, r, r, F, F, L, F, r, F,0	 at 	-0.15649821	PREZERO after 9 iterates
+C, r, r, F, F, L, F, r, F,C	 at 	-0.15649978	Period 9 orbit
+C, r, r, F, F, L, F, r, F,P	 at 	-0.15650292	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, L, R,P	 at 	-0.15651391	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, L, F,C	 at 	-0.15651548	Period 9 orbit
+C, r, r, F, F, L, F, L, F,0	 at 	-0.15651705	PREZERO after 9 iterates
+C, r, r, F, F, L, F, L, L,0	 at 	-0.15652019	PREZERO after 9 iterates
+C, r, r, F, F, L, F, L, L,	 at 	-0.15652176	
+C, r, r, F, F, L, F, L, r,P	 at 	-0.1565249	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, L, r,C	 at 	-0.15652647	Period 9 orbit
+C, r, r, F, F, L, F, L, r,0	 at 	-0.15652961	PREZERO after 9 iterates
+C, r, r, F, F, L, F, F, r,0	 at 	-0.15653903	PREZERO after 9 iterates
+C, r, r, F, F, L, F, F, r,C	 at 	-0.15654374	Period 9 orbit
+C, r, r, F, F, L, F, F, r,P	 at 	-0.15654531	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, F, L,P	 at 	-0.15655002	PREFIXED after 9 iterates
+C, r, r, F, F, L, F, F, L,C	 at 	-0.15655159	Period 9 orbit
+C, r, r, F, F, L, F, F, L,0	 at 	-0.15655316	PREZERO after 9 iterates
+C, r, r, F, F, L, F, F, F,0	 at 	-0.15656258	PREZERO after 9 iterates
+C, r, r, F, F, L, F, F, F,C	 at 	-0.15656572	Period 9 orbit
+C, r, r, F, F, L, F, F, F,P	 at 	-0.15657357	PREFIXED after 9 iterates
+C, r, r, F, F, r, R, R, R,P	 at 	-0.15686716	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, F, F,C	 at 	-0.15687815	Period 9 orbit
+C, r, r, F, F, r, F, F, F,0	 at 	-0.15688286	PREZERO after 9 iterates
+C, r, r, F, F, r, F, F, L,0	 at 	-0.15689699	PREZERO after 9 iterates
+C, r, r, F, F, r, F, F, L,C	 at 	-0.15690013	Period 9 orbit
+C, r, r, F, F, r, F, F, L,P	 at 	-0.1569017	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, F, r,P	 at 	-0.15690955	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, F, r,C	 at 	-0.15691426	Period 9 orbit
+C, r, r, F, F, r, F, F, r,0	 at 	-0.15692054	PREZERO after 9 iterates
+C, r, r, F, F, r, F, L, r,0	 at 	-0.15693781	PREZERO after 9 iterates
+C, r, r, F, F, r, F, L, r,C	 at 	-0.15694252	Period 9 orbit
+C, r, r, F, F, r, F, L, r,P	 at 	-0.15694566	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, L, L,P	 at 	-0.15695037	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, L, L,	 at 	-0.15695194	
+C, r, r, F, F, r, F, L, F,0	 at 	-0.15695822	PREZERO after 9 iterates
+C, r, r, F, F, r, F, L, F,C	 at 	-0.15696136	Period 9 orbit
+C, r, r, F, F, r, F, L, F,P	 at 	-0.15696293	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, r, R,P	 at 	-0.15698648	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, r, F,C	 at 	-0.15699119	Period 9 orbit
+C, r, r, F, F, r, F, r, F,0	 at 	-0.1569959	PREZERO after 9 iterates
+C, r, r, F, F, r, F, r, L,0	 at 	-0.15701317	PREZERO after 9 iterates
+C, r, r, F, F, r, F, r, L,C	 at 	-0.15701631	Period 9 orbit
+C, r, r, F, F, r, F, r, L,P	 at 	-0.15702259	PREFIXED after 9 iterates
+C, r, r, F, F, r, F, r, r,P	 at 	-0.15705242	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, r, r,P	 at 	-0.15709167	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, r, L,P	 at 	-0.1571215	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, r, L,C	 at 	-0.15712778	Period 9 orbit
+C, r, r, F, F, r, L, r, L,0	 at 	-0.15713092	PREZERO after 9 iterates
+C, r, r, F, F, r, L, r, F,0	 at 	-0.15714976	PREZERO after 9 iterates
+C, r, r, F, F, r, L, r, F,C	 at 	-0.1571529	Period 9 orbit
+C, r, r, F, F, r, L, r, F,P	 at 	-0.15715918	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, L, R,P	 at 	-0.15718273	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, L, F,C	 at 	-0.15718587	Period 9 orbit
+C, r, r, F, F, r, L, L, F,0	 at 	-0.15718744	PREZERO after 9 iterates
+C, r, r, F, F, r, L, L, L,0	 at 	-0.15719372	PREZERO after 9 iterates
+C, r, r, F, F, r, L, L, L,	 at 	-0.15719529	
+C, r, r, F, F, r, L, L, r,P	 at 	-0.1572	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, L, r,C	 at 	-0.15720314	Period 9 orbit
+C, r, r, F, F, r, L, L, r,0	 at 	-0.15720785	PREZERO after 9 iterates
+C, r, r, F, F, r, L, F, r,0	 at 	-0.15722669	PREZERO after 9 iterates
+C, r, r, F, F, r, L, F, r,C	 at 	-0.15723297	Period 9 orbit
+C, r, r, F, F, r, L, F, r,P	 at 	-0.15723768	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, F, L,P	 at 	-0.15724553	PREFIXED after 9 iterates
+C, r, r, F, F, r, L, F, L,C	 at 	-0.1572471	Period 9 orbit
+C, r, r, F, F, r, L, F, L,0	 at 	-0.15725024	PREZERO after 9 iterates
+C, r, r, F, F, r, L, F, F,0	 at 	-0.15726437	PREZERO after 9 iterates
+C, r, r, F, F, r, L, F, F,C	 at 	-0.15726908	Period 9 orbit
+C, r, r, F, F, r, L, F, F,P	 at 	-0.1572785	PREFIXED after 9 iterates
+C, r, r, F, F, r, r, R, R,P	 at 	-0.15756581	PREFIXED after 9 iterates
+C, r, r, F, F, r, r, F, F,C	 at 	-0.15761291	Period 9 orbit
+C, r, r, F, F, r, r, F, F,0	 at 	-0.15764745	PREZERO after 9 iterates
+C, r, r, F, L, r, r, F, F,0	 at 	-0.15791749	PREZERO after 9 iterates
+C, r, r, F, L, r, r, F, F,C	 at 	-0.15794732	Period 9 orbit
+C, r, r, F, L, r, r, F, F,P	 at 	-0.15798971	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, R, R,P	 at 	-0.15821736	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, F, F,C	 at 	-0.15822364	Period 9 orbit
+C, r, r, F, L, r, L, F, F,0	 at 	-0.15822835	PREZERO after 9 iterates
+C, r, r, F, L, r, L, F, L,0	 at 	-0.15823777	PREZERO after 9 iterates
+C, r, r, F, L, r, L, F, L,C	 at 	-0.15823934	Period 9 orbit
+C, r, r, F, L, r, L, F, L,P	 at 	-0.15824248	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, F, r,P	 at 	-0.15824719	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, F, r,C	 at 	-0.15825033	Period 9 orbit
+C, r, r, F, L, r, L, F, r,0	 at 	-0.15825504	PREZERO after 9 iterates
+C, r, r, F, L, r, L, L, r,0	 at 	-0.1582676	PREZERO after 9 iterates
+C, r, r, F, L, r, L, L, r,C	 at 	-0.15827231	Period 9 orbit
+C, r, r, F, L, r, L, L, r,P	 at 	-0.15827388	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, L, L,	 at 	-0.15827702	
+C, r, r, F, L, r, L, L, L,0	 at 	-0.15827859	PREZERO after 9 iterates
+C, r, r, F, L, r, L, L, F,	 at 	-0.1582833	
+C, r, r, F, L, r, L, L, F,P	 at 	-0.15828644	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, r, R,P	 at 	-0.15830214	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, r, F,C	 at 	-0.15830528	Period 9 orbit
+C, r, r, F, L, r, L, r, F,0	 at 	-0.15830842	PREZERO after 9 iterates
+C, r, r, F, L, r, L, r, L,0	 at 	-0.15831941	PREZERO after 9 iterates
+C, r, r, F, L, r, L, r, L,C	 at 	-0.15832255	Period 9 orbit
+C, r, r, F, L, r, L, r, L,P	 at 	-0.15832569	PREFIXED after 9 iterates
+C, r, r, F, L, r, L, r, r,P	 at 	-0.15834453	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, r, r,P	 at 	-0.1583775	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, r, L,P	 at 	-0.1583932	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, r, L,C	 at 	-0.15839634	Period 9 orbit
+C, r, r, F, L, r, F, r, L,0	 at 	-0.15839948	PREZERO after 9 iterates
+C, r, r, F, L, r, F, r, F,0	 at 	-0.15841047	PREZERO after 9 iterates
+C, r, r, F, L, r, F, r, F,C	 at 	-0.15841204	Period 9 orbit
+C, r, r, F, L, r, F, r, F,P	 at 	-0.15841518	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, L, R,P	 at 	-0.15842931	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, L, F,C	 at 	-0.15843088	Period 9 orbit
+C, r, r, F, L, r, F, L, F,0	 at 	-0.15843245	PREZERO after 9 iterates
+C, r, r, F, L, r, F, L, L,	 at 	-0.15843716	
+C, r, r, F, L, r, F, L, r,P	 at 	-0.1584403	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, L, r,C	 at 	-0.15844187	Period 9 orbit
+C, r, r, F, L, r, F, L, r,0	 at 	-0.15844501	PREZERO after 9 iterates
+C, r, r, F, L, r, F, F, r,0	 at 	-0.158456	PREZERO after 9 iterates
+C, r, r, F, L, r, F, F, r,C	 at 	-0.15846071	Period 9 orbit
+C, r, r, F, L, r, F, F, r,P	 at 	-0.15846228	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, F, L,P	 at 	-0.15846699	PREFIXED after 9 iterates
+C, r, r, F, L, r, F, F, L,C	 at 	-0.15846856	Period 9 orbit
+C, r, r, F, L, r, F, F, L,0	 at 	-0.15847013	PREZERO after 9 iterates
+C, r, r, F, L, r, F, F, F,0	 at 	-0.15847798	PREZERO after 9 iterates
+C, r, r, F, L, r, F, F, F,C	 at 	-0.15848112	Period 9 orbit
+C, r, r, F, L, r, F, F, F,P	 at 	-0.1584874	PREFIXED after 9 iterates
+C, r, r, F, L, L, R, R, R,P	 at 	-0.15864911	PREFIXED after 9 iterates
+C, r, r, F, L, L, F, F, F,C	 at 	-0.15865225	Period 9 orbit
+C, r, r, F, L, L, F, F, F,0	 at 	-0.15865382	PREZERO after 9 iterates
+C, r, r, F, L, L, F, F, L,0	 at 	-0.15865853	PREZERO after 9 iterates
+C, r, r, F, L, L, F, F, L,	 at 	-0.1586601	
+C, r, r, F, L, L, F, F, r,	 at 	-0.15866324	
+C, r, r, F, L, L, F, F, r,0	 at 	-0.15866638	PREZERO after 9 iterates
+C, r, r, F, L, L, F, L, r,0	 at 	-0.15867109	PREZERO after 9 iterates
+C, r, r, F, L, L, F, L, r,	 at 	-0.15867266	
+C, r, r, F, L, L, F, L, r,	 at 	-0.15867423	
+C, r, r, F, L, L, F, L, L,0	 at 	-0.1586758	PREZERO after 9 iterates
+C, r, r, F, L, L, F, L, F,	 at 	-0.15867737	
+C, r, r, F, L, L, F, r, R,P	 at 	-0.15868365	PREFIXED after 9 iterates
+C, r, r, F, L, L, F, r, F,C	 at 	-0.15868522	Period 9 orbit
+C, r, r, F, L, L, F, r, F,0	 at 	-0.15868679	PREZERO after 9 iterates
+C, r, r, F, L, L, F, r, L,0	 at 	-0.15868993	PREZERO after 9 iterates
+C, r, r, F, L, L, F, r, L,C	 at 	-0.1586915	Period 9 orbit
+C, r, r, F, L, L, F, r, L,P	 at 	-0.15869307	PREFIXED after 9 iterates
+C, r, r, F, L, L, F, r, r,P	 at 	-0.15869778	PREFIXED after 9 iterates
+C, r, r, F, L, L, L, r, r,P	 at 	-0.15870877	PREFIXED after 9 iterates
+C, r, r, F, L, L, L, r, L,P	 at 	-0.15871348	PREFIXED after 9 iterates
+C, r, r, F, L, L, L, r, L,	 at 	-0.15871505	
+C, r, r, F, L, L, L, r, F,0	 at 	-0.15871819	PREZERO after 9 iterates
+C, r, r, F, L, L, L, r, F,	 at 	-0.15871976	
+C, r, r, F, L, L, L, L, R,	 at 	-0.15872447	
+C, r, r, F, L, L, L, L, L,	 at 	-0.15872604	
+C, r, r, F, L, L, L, L, r,	 at 	-0.15872761	
+C, r, r, F, L, L, L, F, r,	 at 	-0.15873075	
+C, r, r, F, L, L, L, F, L,	 at 	-0.15873389	
+C, r, r, F, L, L, L, F, F,	 at 	-0.15873546	
+C, r, r, F, L, L, L, F, F,P	 at 	-0.15873703	PREFIXED after 9 iterates
+C, r, r, F, L, L, r, R, R,P	 at 	-0.15876215	PREFIXED after 9 iterates
+C, r, r, F, L, L, r, F, F,C	 at 	-0.15876372	Period 9 orbit
+C, r, r, F, L, L, r, F, F,0	 at 	-0.15876529	PREZERO after 9 iterates
+C, r, r, F, L, L, r, F, L,0	 at 	-0.15876843	PREZERO after 9 iterates
+C, r, r, F, L, L, r, F, L,	 at 	-0.15877	
+C, r, r, F, L, L, r, F, r,P	 at 	-0.15877314	PREFIXED after 9 iterates
+C, r, r, F, L, L, r, F, r,C	 at 	-0.15877471	Period 9 orbit
+C, r, r, F, L, L, r, F, r,0	 at 	-0.15877628	PREZERO after 9 iterates
+C, r, r, F, L, L, r, L, r,0	 at 	-0.1587857	PREZERO after 9 iterates
+C, r, r, F, L, L, r, L, r,C	 at 	-0.15878727	Period 9 orbit
+C, r, r, F, L, L, r, L, r,P	 at 	-0.15878884	PREFIXED after 9 iterates
+C, r, r, F, L, L, r, L, L,	 at 	-0.15879198	
+C, r, r, F, L, L, r, L, L,0	 at 	-0.15879355	PREZERO after 9 iterates
+C, r, r, F, L, L, r, L, F,0	 at 	-0.15879826	PREZERO after 9 iterates
+C, r, r, F, L, L, r, L, F,C	 at 	-0.15879983	Period 9 orbit
+C, r, r, F, L, L, r, L, F,P	 at 	-0.1588014	PREFIXED after 9 iterates
+C, r, r, F, L, L, r, r, R,P	 at 	-0.15883123	PREFIXED after 9 iterates
+C, r, r, F, L, L, r, r, F,C	 at 	-0.15884693	Period 9 orbit
+C, r, r, F, L, F, r, r, F,C	 at 	-0.15888618	Period 9 orbit
+C, r, r, F, L, F, r, r, F,P	 at 	-0.15890188	PREFIXED after 9 iterates
+C, r, r, F, L, F, r, L, R,P	 at 	-0.15893799	PREFIXED after 9 iterates
+C, r, r, F, L, F, r, L, F,C	 at 	-0.15894113	Period 9 orbit
+C, r, r, F, L, F, r, L, F,0	 at 	-0.1589427	PREZERO after 9 iterates
+C, r, r, F, L, F, r, L, L,0	 at 	-0.15894741	PREZERO after 9 iterates
+C, r, r, F, L, F, r, L, L,C	 at 	-0.15894898	Period 9 orbit
+C, r, r, F, L, F, r, L, L,P	 at 	-0.15895055	PREFIXED after 9 iterates
+C, r, r, F, L, F, r, L, r,P	 at 	-0.15895369	PREFIXED after 9 iterates
+C, r, r, F, L, F, r, L, r,C	 at 	-0.15895526	Period 9 orbit
+C, r, r, F, L, F, r, L, r,0	 at 	-0.1589584	PREZERO after 9 iterates
+C, r, r, F, L, F, r, F, r,0	 at 	-0.15896939	PREZERO after 9 iterates
+C, r, r, F, L, F, r, F, r,C	 at 	-0.15897253	Period 9 orbit
+C, r, r, F, L, F, r, F, r,P	 at 	-0.15897567	PREFIXED after 9 iterates
+C, r, r, F, L, F, r, F, L,	 at 	-0.15897881	
+C, r, r, F, L, F, r, F, L,0	 at 	-0.15898038	PREZERO after 9 iterates
+C, r, r, F, L, F, r, F, F,0	 at 	-0.15898509	PREZERO after 9 iterates
+C, r, r, F, L, F, r, F, F,C	 at 	-0.15898666	Period 9 orbit
+C, r, r, F, L, F, r, F, F,P	 at 	-0.1589898	PREFIXED after 9 iterates
+C, r, r, F, L, F, L, R, R,P	 at 	-0.15902748	PREFIXED after 9 iterates
+C, r, r, F, L, F, L, F, F,C	 at 	-0.15902905	Period 9 orbit
+C, r, r, F, L, F, L, F, F,0	 at 	-0.15903062	PREZERO after 9 iterates
+C, r, r, F, L, F, L, F, L,	 at 	-0.15903376	
+C, r, r, F, L, F, L, F, L,P	 at 	-0.15903533	PREFIXED after 9 iterates
+C, r, r, F, L, F, L, F, r,C	 at 	-0.1590369	Period 9 orbit
+C, r, r, F, L, F, L, F, r,0	 at 	-0.15903847	PREZERO after 9 iterates
+C, r, r, F, L, F, L, L, r,0	 at 	-0.15904318	PREZERO after 9 iterates
+C, r, r, F, L, F, L, L, r,	 at 	-0.15904475	
+C, r, r, F, L, F, L, L, L,	 at 	-0.15904632	
+C, r, r, F, L, F, L, L, L,	 at 	-0.15904789	
+C, r, r, F, L, F, L, L, F,P	 at 	-0.15904946	PREFIXED after 9 iterates
+C, r, r, F, L, F, L, r, R,P	 at 	-0.15905574	PREFIXED after 9 iterates
+C, r, r, F, L, F, L, r, F,C	 at 	-0.15905731	Period 9 orbit
+C, r, r, F, L, F, L, r, F,0	 at 	-0.15905888	PREZERO after 9 iterates
+C, r, r, F, L, F, L, r, L,0	 at 	-0.15906359	PREZERO after 9 iterates
+C, r, r, F, L, F, L, r, L,C	 at 	-0.15906516	Period 9 orbit
+C, r, r, F, L, F, L, r, L,P	 at 	-0.15906673	PREFIXED after 9 iterates
+C, r, r, F, L, F, L, r, r,P	 at 	-0.15907458	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, r, r,P	 at 	-0.15909656	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, r, L,P	 at 	-0.15910755	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, r, L,C	 at 	-0.15910912	Period 9 orbit
+C, r, r, F, L, F, F, r, L,0	 at 	-0.15911069	PREZERO after 9 iterates
+C, r, r, F, L, F, F, r, F,0	 at 	-0.15912011	PREZERO after 9 iterates
+C, r, r, F, L, F, F, r, F,C	 at 	-0.15912168	Period 9 orbit
+C, r, r, F, L, F, F, r, F,P	 at 	-0.15912325	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, L, R,P	 at 	-0.15913581	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, L, F,	 at 	-0.15913895	
+C, r, r, F, L, F, F, L, L,	 at 	-0.15914366	
+C, r, r, F, L, F, F, L, r,P	 at 	-0.1591468	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, L, r,C	 at 	-0.15914837	Period 9 orbit
+C, r, r, F, L, F, F, L, r,0	 at 	-0.15915151	PREZERO after 9 iterates
+C, r, r, F, L, F, F, F, r,0	 at 	-0.15916407	PREZERO after 9 iterates
+C, r, r, F, L, F, F, F, r,C	 at 	-0.15916878	Period 9 orbit
+C, r, r, F, L, F, F, F, r,P	 at 	-0.15917192	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, F, L,P	 at 	-0.15917663	PREFIXED after 9 iterates
+C, r, r, F, L, F, F, F, L,C	 at 	-0.1591782	Period 9 orbit
+C, r, r, F, L, F, F, F, L,0	 at 	-0.15918134	PREZERO after 9 iterates
+C, r, r, F, L, F, F, F, F,0	 at 	-0.15919233	PREZERO after 9 iterates
+C, r, r, F, L, F, F, F, F,C	 at 	-0.15919704	Period 9 orbit
+C, r, r, F, L, F, F, F, F,P	 at 	-0.15920646	PREFIXED after 9 iterates
+C, r, r, F, r, R, R, R, R,P	 at 	-0.16014218	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, F, F,C	 at 	-0.16015631	Period 9 orbit
+C, r, r, F, r, F, F, F, F,0	 at 	-0.16016416	PREZERO after 9 iterates
+C, r, r, F, r, F, F, F, L,0	 at 	-0.160183	PREZERO after 9 iterates
+C, r, r, F, r, F, F, F, L,C	 at 	-0.16018614	Period 9 orbit
+C, r, r, F, r, F, F, F, L,P	 at 	-0.16018771	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, F, r,P	 at 	-0.16019556	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, F, r,C	 at 	-0.16020184	Period 9 orbit
+C, r, r, F, r, F, F, F, r,0	 at 	-0.16020812	PREZERO after 9 iterates
+C, r, r, F, r, F, F, L, r,0	 at 	-0.1602301	PREZERO after 9 iterates
+C, r, r, F, r, F, F, L, r,C	 at 	-0.16023481	Period 9 orbit
+C, r, r, F, r, F, F, L, r,P	 at 	-0.16023795	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, L, L,P	 at 	-0.16024109	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, L, L,C	 at 	-0.16024266	Period 9 orbit
+C, r, r, F, r, F, F, L, L,0	 at 	-0.16024423	PREZERO after 9 iterates
+C, r, r, F, r, F, F, L, F,0	 at 	-0.16025051	PREZERO after 9 iterates
+C, r, r, F, r, F, F, L, F,C	 at 	-0.16025208	Period 9 orbit
+C, r, r, F, r, F, F, L, F,P	 at 	-0.16025522	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, r, R,P	 at 	-0.16027563	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, r, F,C	 at 	-0.16028034	Period 9 orbit
+C, r, r, F, r, F, F, r, F,0	 at 	-0.16028348	PREZERO after 9 iterates
+C, r, r, F, r, F, F, r, L,0	 at 	-0.16029761	PREZERO after 9 iterates
+C, r, r, F, r, F, F, r, L,C	 at 	-0.16029918	Period 9 orbit
+C, r, r, F, r, F, F, r, L,P	 at 	-0.16030389	PREFIXED after 9 iterates
+C, r, r, F, r, F, F, r, r,P	 at 	-0.16032116	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, r, r,P	 at 	-0.16036512	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, r, L,P	 at 	-0.16037768	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, r, L,C	 at 	-0.16038082	Period 9 orbit
+C, r, r, F, r, F, L, r, L,0	 at 	-0.16038396	PREZERO after 9 iterates
+C, r, r, F, r, F, L, r, F,0	 at 	-0.16039338	PREZERO after 9 iterates
+C, r, r, F, r, F, L, r, F,C	 at 	-0.16039495	Period 9 orbit
+C, r, r, F, r, F, L, r, F,P	 at 	-0.16039809	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, L, R,P	 at 	-0.16040908	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, L, F,C	 at 	-0.16041065	Period 9 orbit
+C, r, r, F, r, F, L, L, F,0	 at 	-0.16041222	PREZERO after 9 iterates
+C, r, r, F, r, F, L, L, L,	 at 	-0.16041536	
+C, r, r, F, r, F, L, L, L,P	 at 	-0.16041693	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, L, r,C	 at 	-0.1604185	Period 9 orbit
+C, r, r, F, r, F, L, L, r,0	 at 	-0.16042164	PREZERO after 9 iterates
+C, r, r, F, r, F, L, F, r,0	 at 	-0.16042949	PREZERO after 9 iterates
+C, r, r, F, r, F, L, F, r,C	 at 	-0.16043263	Period 9 orbit
+C, r, r, F, r, F, L, F, r,P	 at 	-0.1604342	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, F, L,P	 at 	-0.16043734	PREFIXED after 9 iterates
+C, r, r, F, r, F, L, F, L,	 at 	-0.16043891	
+C, r, r, F, r, F, L, F, F,0	 at 	-0.16044519	PREZERO after 9 iterates
+C, r, r, F, r, F, L, F, F,C	 at 	-0.16044676	Period 9 orbit
+C, r, r, F, r, F, L, F, F,P	 at 	-0.16045147	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, R, R,P	 at 	-0.16052369	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, F, F,C	 at 	-0.16052997	Period 9 orbit
+C, r, r, F, r, F, r, F, F,0	 at 	-0.16053311	PREZERO after 9 iterates
+C, r, r, F, r, F, r, F, L,0	 at 	-0.1605441	PREZERO after 9 iterates
+C, r, r, F, r, F, r, F, L,C	 at 	-0.16054567	Period 9 orbit
+C, r, r, F, r, F, r, F, L,P	 at 	-0.16054724	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, F, r,P	 at 	-0.16055352	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, F, r,C	 at 	-0.16055823	Period 9 orbit
+C, r, r, F, r, F, r, F, r,0	 at 	-0.16056451	PREZERO after 9 iterates
+C, r, r, F, r, F, r, L, r,0	 at 	-0.16058806	PREZERO after 9 iterates
+C, r, r, F, r, F, r, L, r,C	 at 	-0.16059434	Period 9 orbit
+C, r, r, F, r, F, r, L, r,P	 at 	-0.16059905	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, L, L,P	 at 	-0.16060533	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, L, L,C	 at 	-0.1606069	Period 9 orbit
+C, r, r, F, r, F, r, L, L,0	 at 	-0.16060847	PREZERO after 9 iterates
+C, r, r, F, r, F, r, L, F,0	 at 	-0.16062103	PREZERO after 9 iterates
+C, r, r, F, r, F, r, L, F,C	 at 	-0.16062417	Period 9 orbit
+C, r, r, F, r, F, r, L, F,P	 at 	-0.16063045	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, r, R,P	 at 	-0.16069953	PREFIXED after 9 iterates
+C, r, r, F, r, F, r, r, F,C	 at 	-0.16072622	Period 9 orbit
+C, r, r, F, r, F, r, r, F,0	 at 	-0.16075605	PREZERO after 9 iterates
+C, r, r, F, r, L, r, r, F,0	 at 	-0.16085653	PREZERO after 9 iterates
+C, r, r, F, r, L, r, r, F,C	 at 	-0.16088479	Period 9 orbit
+C, r, r, F, r, L, r, r, F,P	 at 	-0.16091148	PREFIXED after 9 iterates
+C, r, r, F, r, L, r, L, R,P	 at 	-0.16098056	PREFIXED after 9 iterates
+C, r, r, F, r, L, r, L, F,C	 at 	-0.16098684	Period 9 orbit
+C, r, r, F, r, L, r, L, F,0	 at 	-0.16099155	PREZERO after 9 iterates
+C, r, r, F, r, L, r, L, L,0	 at 	-0.16100254	PREZERO after 9 iterates
+C, r, r, F, r, L, r, L, L,C	 at 	-0.16100411	Period 9 orbit
+C, r, r, F, r, L, r, L, L,P	 at 	-0.16100568	PREFIXED after 9 iterates
+C, r, r, F, r, L, r, L, r,P	 at 	-0.16101196	PREFIXED after 9 iterates
+C, r, r, F, r, L, r, L, r,C	 at 	-0.16101667	Period 9 orbit
+C, r, r, F, r, L, r, L, r,0	 at 	-0.16102295	PREZERO after 9 iterates
+C, r, r, F, r, L, r, F, r,0	 at 	-0.16104807	PREZERO after 9 iterates
+C, r, r, F, r, L, r, F, r,C	 at 	-0.16105435	Period 9 orbit
+C, r, r, F, r, L, r, F, r,P	 at 	-0.16105906	PREFIXED after 9 iterates
+C, r, r, F, r, L, r, F, L,P	 at 	-0.16106377	PREFIXED after 9 iterates
+C, r, r, F, r, L, r, F, L,C	 at 	-0.16106691	Period 9 orbit
+C, r, r, F, r, L, r, F, L,0	 at 	-0.16106848	PREZERO after 9 iterates
+C, r, r, F, r, L, r, F, F,0	 at 	-0.16107947	PREZERO after 9 iterates
+C, r, r, F, r, L, r, F, F,C	 at 	-0.16108261	Period 9 orbit
+C, r, r, F, r, L, r, F, F,P	 at 	-0.16108889	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, R, R,P	 at 	-0.16116111	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, F, F,C	 at 	-0.16116425	Period 9 orbit
+C, r, r, F, r, L, L, F, F,0	 at 	-0.16116739	PREZERO after 9 iterates
+C, r, r, F, r, L, L, F, L,0	 at 	-0.1611721	PREZERO after 9 iterates
+C, r, r, F, r, L, L, F, L,C	 at 	-0.16117367	Period 9 orbit
+C, r, r, F, r, L, L, F, L,P	 at 	-0.16117524	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, F, r,P	 at 	-0.16117681	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, F, r,C	 at 	-0.16117995	Period 9 orbit
+C, r, r, F, r, L, L, F, r,0	 at 	-0.16118152	PREZERO after 9 iterates
+C, r, r, F, r, L, L, L, r,0	 at 	-0.16119094	PREZERO after 9 iterates
+C, r, r, F, r, L, L, L, r,C	 at 	-0.16119251	Period 9 orbit
+C, r, r, F, r, L, L, L, r,P	 at 	-0.16119408	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, L, r,P	 at 	-0.16119565	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, L, L,	 at 	-0.16119722	
+C, r, r, F, r, L, L, L, F,0	 at 	-0.16120036	PREZERO after 9 iterates
+C, r, r, F, r, L, L, L, F,C	 at 	-0.16120193	Period 9 orbit
+C, r, r, F, r, L, L, L, F,P	 at 	-0.1612035	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, r, R,P	 at 	-0.16121449	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, r, F,C	 at 	-0.16121763	Period 9 orbit
+C, r, r, F, r, L, L, r, F,0	 at 	-0.1612192	PREZERO after 9 iterates
+C, r, r, F, r, L, L, r, L,0	 at 	-0.16122862	PREZERO after 9 iterates
+C, r, r, F, r, L, L, r, L,C	 at 	-0.16123019	Period 9 orbit
+C, r, r, F, r, L, L, r, L,P	 at 	-0.16123333	PREFIXED after 9 iterates
+C, r, r, F, r, L, L, r, r,P	 at 	-0.16124589	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, r, r,P	 at 	-0.16129142	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, r, L,P	 at 	-0.16130712	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, r, L,C	 at 	-0.16131183	Period 9 orbit
+C, r, r, F, r, L, F, r, L,0	 at 	-0.16131497	PREZERO after 9 iterates
+C, r, r, F, r, L, F, r, F,0	 at 	-0.16132753	PREZERO after 9 iterates
+C, r, r, F, r, L, F, r, F,C	 at 	-0.16133067	Period 9 orbit
+C, r, r, F, r, L, F, r, F,P	 at 	-0.16133538	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, L, R,P	 at 	-0.16135422	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, L, F,C	 at 	-0.16135736	Period 9 orbit
+C, r, r, F, r, L, F, L, F,0	 at 	-0.16135893	PREZERO after 9 iterates
+C, r, r, F, r, L, F, L, L,	 at 	-0.16136521	
+C, r, r, F, r, L, F, L, L,P	 at 	-0.16136678	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, L, r,P	 at 	-0.16136992	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, L, r,C	 at 	-0.16137306	Period 9 orbit
+C, r, r, F, r, L, F, L, r,0	 at 	-0.16137777	PREZERO after 9 iterates
+C, r, r, F, r, L, F, F, r,0	 at 	-0.16139818	PREZERO after 9 iterates
+C, r, r, F, r, L, F, F, r,C	 at 	-0.16140446	Period 9 orbit
+C, r, r, F, r, L, F, F, r,P	 at 	-0.16140917	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, F, L,P	 at 	-0.16141702	PREFIXED after 9 iterates
+C, r, r, F, r, L, F, F, L,C	 at 	-0.16142016	Period 9 orbit
+C, r, r, F, r, L, F, F, L,0	 at 	-0.16142173	PREZERO after 9 iterates
+C, r, r, F, r, L, F, F, F,0	 at 	-0.161439	PREZERO after 9 iterates
+C, r, r, F, r, L, F, F, F,C	 at 	-0.16144528	Period 9 orbit
+C, r, r, F, r, L, F, F, F,P	 at 	-0.16145784	PREFIXED after 9 iterates
+C, r, r, F, r, r, R, R, R,P	 at 	-0.16221772	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, F, F,C	 at 	-0.16225383	Period 9 orbit
+C, r, r, F, r, r, F, F, F,0	 at 	-0.16227424	PREZERO after 9 iterates
+C, r, r, F, r, r, F, F, L,0	 at 	-0.16233076	PREZERO after 9 iterates
+C, r, r, F, r, r, F, F, L,C	 at 	-0.16233861	Period 9 orbit
+C, r, r, F, r, r, F, F, L,P	 at 	-0.16234803	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, F, r,P	 at 	-0.16237472	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, F, r,C	 at 	-0.16239199	Period 9 orbit
+C, r, r, F, r, r, F, F, r,0	 at 	-0.16241711	PREZERO after 9 iterates
+C, r, r, F, r, r, F, L, r,0	 at 	-0.16250974	PREZERO after 9 iterates
+C, r, r, F, r, r, F, L, r,C	 at 	-0.16253015	Period 9 orbit
+C, r, r, F, r, r, F, L, r,P	 at 	-0.16254271	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, L, L,P	 at 	-0.16255998	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, L, L,C	 at 	-0.16256469	Period 9 orbit
+C, r, r, F, r, r, F, L, L,0	 at 	-0.1625694	PREZERO after 9 iterates
+C, r, r, F, r, r, F, L, F,0	 at 	-0.1626008	PREZERO after 9 iterates
+C, r, r, F, r, r, F, L, F,C	 at 	-0.16260865	Period 9 orbit
+C, r, r, F, r, r, F, L, F,P	 at 	-0.16262278	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, r, R,P	 at 	-0.1627421	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, r, F,C	 at 	-0.16277036	Period 9 orbit
+C, r, r, F, r, r, F, r, F,0	 at 	-0.1627892	PREZERO after 9 iterates
+C, r, r, F, r, r, F, r, L,0	 at 	-0.16288968	PREZERO after 9 iterates
+C, r, r, F, r, r, F, r, L,C	 at 	-0.16291166	Period 9 orbit
+C, r, r, F, r, r, F, r, L,P	 at 	-0.16294463	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, r, r,P	 at 	-0.16309221	PREFIXED after 9 iterates
+C, r, r, F, r, r, F, r, r,C	 at 	-0.16364328	Period 9 orbit
+C, r, r, L, r, r, F, r, r,C	 at 	-0.16419592	Period 9 orbit
+C, r, r, L, r, r, F, r, r,P	 at 	-0.16450835	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, r, L,P	 at 	-0.16463238	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, r, L,C	 at 	-0.16466064	Period 9 orbit
+C, r, r, L, r, r, F, r, L,0	 at 	-0.16467948	PREZERO after 9 iterates
+C, r, r, L, r, r, F, r, F,0	 at 	-0.16476583	PREZERO after 9 iterates
+C, r, r, L, r, r, F, r, F,C	 at 	-0.16478153	Period 9 orbit
+C, r, r, L, r, r, F, r, F,P	 at 	-0.16480665	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, L, R,P	 at 	-0.16491027	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, L, F,C	 at 	-0.16492126	Period 9 orbit
+C, r, r, L, r, r, F, L, F,0	 at 	-0.16492911	PREZERO after 9 iterates
+C, r, r, L, r, r, F, L, L,0	 at 	-0.1649558	PREZERO after 9 iterates
+C, r, r, L, r, r, F, L, L,C	 at 	-0.16495894	Period 9 orbit
+C, r, r, L, r, r, F, L, L,P	 at 	-0.16496365	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, L, r,P	 at 	-0.16497778	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, L, r,C	 at 	-0.16498877	Period 9 orbit
+C, r, r, L, r, r, F, L, r,0	 at 	-0.16500447	PREZERO after 9 iterates
+C, r, r, L, r, r, F, F, r,0	 at 	-0.16509082	PREZERO after 9 iterates
+C, r, r, L, r, r, F, F, r,C	 at 	-0.16511123	Period 9 orbit
+C, r, r, L, r, r, F, F, r,P	 at 	-0.16512536	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, F, L,P	 at 	-0.16514734	PREFIXED after 9 iterates
+C, r, r, L, r, r, F, F, L,C	 at 	-0.16515519	Period 9 orbit
+C, r, r, L, r, r, F, F, L,0	 at 	-0.16516147	PREZERO after 9 iterates
+C, r, r, L, r, r, F, F, F,0	 at 	-0.16521171	PREZERO after 9 iterates
+C, r, r, L, r, r, F, F, F,C	 at 	-0.16522741	Period 9 orbit
+C, r, r, L, r, r, F, F, F,P	 at 	-0.16525881	PREFIXED after 9 iterates
+C, r, r, L, r, L, R, R, R,P	 at 	-0.16589623	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, F, F,C	 at 	-0.16590565	Period 9 orbit
+C, r, r, L, r, L, F, F, F,0	 at 	-0.16591036	PREZERO after 9 iterates
+C, r, r, L, r, L, F, F, L,0	 at 	-0.16592449	PREZERO after 9 iterates
+C, r, r, L, r, L, F, F, L,C	 at 	-0.16592763	Period 9 orbit
+C, r, r, L, r, L, F, F, L,P	 at 	-0.1659292	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, F, r,P	 at 	-0.16593391	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, F, r,C	 at 	-0.16593862	Period 9 orbit
+C, r, r, L, r, L, F, F, r,0	 at 	-0.16594333	PREZERO after 9 iterates
+C, r, r, L, r, L, F, L, r,0	 at 	-0.16596217	PREZERO after 9 iterates
+C, r, r, L, r, L, F, L, r,C	 at 	-0.16596531	Period 9 orbit
+C, r, r, L, r, L, F, L, r,P	 at 	-0.16596688	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, L, L,P	 at 	-0.16597002	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, L, L,	 at 	-0.16597159	
+C, r, r, L, r, L, F, L, F,0	 at 	-0.1659763	PREZERO after 9 iterates
+C, r, r, L, r, L, F, L, F,C	 at 	-0.16597787	Period 9 orbit
+C, r, r, L, r, L, F, L, F,P	 at 	-0.16597944	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, r, R,P	 at 	-0.16599514	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, r, F,C	 at 	-0.16599828	Period 9 orbit
+C, r, r, L, r, L, F, r, F,0	 at 	-0.16599985	PREZERO after 9 iterates
+C, r, r, L, r, L, F, r, L,0	 at 	-0.16601084	PREZERO after 9 iterates
+C, r, r, L, r, L, F, r, L,C	 at 	-0.16601241	Period 9 orbit
+C, r, r, L, r, L, F, r, L,P	 at 	-0.16601555	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, r, r,P	 at 	-0.16602497	PREFIXED after 9 iterates
+C, r, r, L, r, L, F, r, r,C	 at 	-0.1660391	Period 9 orbit
+C, r, r, L, r, L, L, r, r,C	 at 	-0.16606265	Period 9 orbit
+C, r, r, L, r, L, L, r, r,P	 at 	-0.16607364	PREFIXED after 9 iterates
+C, r, r, L, r, L, L, r, L,P	 at 	-0.16608149	PREFIXED after 9 iterates
+C, r, r, L, r, L, L, r, L,C	 at 	-0.16608306	Period 9 orbit
+C, r, r, L, r, L, L, r, L,0	 at 	-0.16608463	PREZERO after 9 iterates
+C, r, r, L, r, L, L, r, F,0	 at 	-0.16609091	PREZERO after 9 iterates
+C, r, r, L, r, L, L, r, F,C	 at 	-0.16609248	Period 9 orbit
+C, r, r, L, r, L, L, r, F,P	 at 	-0.16609405	PREFIXED after 9 iterates
+C, r, r, L, r, L, L, L, R,P	 at 	-0.16610347	PREFIXED after 9 iterates
+C, r, r, L, r, L, L, L, F,	 at 	-0.16610504	
+C, r, r, L, r, L, L, L, L,	 at 	-0.16610818	
+C, r, r, L, r, L, L, L, L,P	 at 	-0.16610975	PREFIXED after 9 iterates
+C, r, r, L, r, L, L, L, r,	 at 	-0.16611132	
+C, r, r, L, r, L, L, F, r,0	 at 	-0.16612074	PREZERO after 9 iterates
+C, r, r, L, r, L, L, F, r,C	 at 	-0.16612231	Period 9 orbit
+C, r, r, L, r, L, L, F, r,P	 at 	-0.16612388	PREFIXED after 9 iterates
+C, r, r, L, r, L, L, F, L,P	 at 	-0.16612545	PREFIXED after 9 iterates
+C, r, r, L, r, L, L, F, L,	 at 	-0.16612702	
+C, r, r, L, r, L, L, F, F,0	 at 	-0.16613173	PREZERO after 9 iterates
+C, r, r, L, r, L, L, F, F,C	 at 	-0.1661333	Period 9 orbit
+C, r, r, L, r, L, L, F, F,P	 at 	-0.16613644	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, R, R,P	 at 	-0.16619296	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, F, F,C	 at 	-0.16619767	Period 9 orbit
+C, r, r, L, r, L, r, F, F,0	 at 	-0.16619924	PREZERO after 9 iterates
+C, r, r, L, r, L, r, F, L,	 at 	-0.16620866	
+C, r, r, L, r, L, r, F, L,P	 at 	-0.16621023	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, F, r,P	 at 	-0.16621494	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, F, r,C	 at 	-0.16621808	Period 9 orbit
+C, r, r, L, r, L, r, F, r,0	 at 	-0.16622122	PREZERO after 9 iterates
+C, r, r, L, r, L, r, L, r,0	 at 	-0.16624163	PREZERO after 9 iterates
+C, r, r, L, r, L, r, L, r,C	 at 	-0.16624634	Period 9 orbit
+C, r, r, L, r, L, r, L, r,P	 at 	-0.16624948	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, L, L,P	 at 	-0.16625262	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, L, L,C	 at 	-0.16625419	Period 9 orbit
+C, r, r, L, r, L, r, L, L,0	 at 	-0.16625576	PREZERO after 9 iterates
+C, r, r, L, r, L, r, L, F,0	 at 	-0.16626361	PREZERO after 9 iterates
+C, r, r, L, r, L, r, L, F,C	 at 	-0.16626675	Period 9 orbit
+C, r, r, L, r, L, r, L, F,P	 at 	-0.16626989	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, r, R,P	 at 	-0.16631228	PREFIXED after 9 iterates
+C, r, r, L, r, L, r, r, F,C	 at 	-0.16632484	Period 9 orbit
+C, r, r, L, r, L, r, r, F,0	 at 	-0.16633426	PREZERO after 9 iterates
+C, r, r, L, r, F, r, r, F,0	 at 	-0.1665258	PREZERO after 9 iterates
+C, r, r, L, r, F, r, r, F,C	 at 	-0.16653522	Period 9 orbit
+C, r, r, L, r, F, r, r, F,P	 at 	-0.16654778	PREFIXED after 9 iterates
+C, r, r, L, r, F, r, L, R,P	 at 	-0.1665886	PREFIXED after 9 iterates
+C, r, r, L, r, F, r, L, F,C	 at 	-0.16659174	Period 9 orbit
+C, r, r, L, r, F, r, L, F,0	 at 	-0.16659488	PREZERO after 9 iterates
+C, r, r, L, r, F, r, L, L,	 at 	-0.16660273	
+C, r, r, L, r, F, r, L, L,P	 at 	-0.1666043	PREFIXED after 9 iterates
+C, r, r, L, r, F, r, L, r,P	 at 	-0.16660901	PREFIXED after 9 iterates
+C, r, r, L, r, F, r, L, r,C	 at 	-0.16661058	Period 9 orbit
+C, r, r, L, r, F, r, L, r,0	 at 	-0.16661529	PREZERO after 9 iterates
+C, r, r, L, r, F, r, F, r,0	 at 	-0.1666357	PREZERO after 9 iterates
+C, r, r, L, r, F, r, F, r,C	 at 	-0.16663884	Period 9 orbit
+C, r, r, L, r, F, r, F, r,P	 at 	-0.16664198	PREFIXED after 9 iterates
+C, r, r, L, r, F, r, F, L,	 at 	-0.16664669	
+C, r, r, L, r, F, r, F, L,0	 at 	-0.16664826	PREZERO after 9 iterates
+C, r, r, L, r, F, r, F, F,0	 at 	-0.16665611	PREZERO after 9 iterates
+C, r, r, L, r, F, r, F, F,C	 at 	-0.16665925	Period 9 orbit
+C, r, r, L, r, F, r, F, F,P	 at 	-0.16666396	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, R, R,P	 at 	-0.16671891	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, F, F,C	 at 	-0.16672048	Period 9 orbit
+C, r, r, L, r, F, L, F, F,0	 at 	-0.16672205	PREZERO after 9 iterates
+C, r, r, L, r, F, L, F, L,0	 at 	-0.16672676	PREZERO after 9 iterates
+C, r, r, L, r, F, L, F, L,	 at 	-0.16672833	
+C, r, r, L, r, F, L, F, L,P	 at 	-0.1667299	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, F, r,C	 at 	-0.16673147	Period 9 orbit
+C, r, r, L, r, F, L, F, r,0	 at 	-0.16673304	PREZERO after 9 iterates
+C, r, r, L, r, F, L, L, r,	 at 	-0.16674246	
+C, r, r, L, r, F, L, L, r,P	 at 	-0.16674403	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, L, L,	 at 	-0.1667456	
+C, r, r, L, r, F, L, L, F,	 at 	-0.16674874	
+C, r, r, L, r, F, L, L, F,P	 at 	-0.16675031	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, r, R,P	 at 	-0.16675816	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, r, F,	 at 	-0.1667613	
+C, r, r, L, r, F, L, r, L,0	 at 	-0.16676758	PREZERO after 9 iterates
+C, r, r, L, r, F, L, r, L,C	 at 	-0.16676915	Period 9 orbit
+C, r, r, L, r, F, L, r, L,P	 at 	-0.16677072	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, r, r,P	 at 	-0.16677857	PREFIXED after 9 iterates
+C, r, r, L, r, F, L, r, r,C	 at 	-0.16678799	Period 9 orbit
+C, r, r, L, r, F, F, r, r,C	 at 	-0.16681625	Period 9 orbit
+C, r, r, L, r, F, F, r, r,P	 at 	-0.16682724	PREFIXED after 9 iterates
+C, r, r, L, r, F, F, r, L,P	 at 	-0.16683823	PREFIXED after 9 iterates
+C, r, r, L, r, F, F, r, L,C	 at 	-0.1668398	Period 9 orbit
+C, r, r, L, r, F, F, r, L,0	 at 	-0.16684294	PREZERO after 9 iterates
+C, r, r, L, r, F, F, r, F,0	 at 	-0.16685236	PREZERO after 9 iterates
+C, r, r, L, r, F, F, r, F,C	 at 	-0.16685393	Period 9 orbit
+C, r, r, L, r, F, F, r, F,P	 at 	-0.16685707	PREFIXED after 9 iterates
+C, r, r, L, r, F, F, L, R,P	 at 	-0.16687277	PREFIXED after 9 iterates
+C, r, r, L, r, F, F, L, F,	 at 	-0.16687591	
+C, r, r, L, r, F, F, L, L,0	 at 	-0.16688062	PREZERO after 9 iterates
+C, r, r, L, r, F, F, L, L,	 at 	-0.16688219	
+C, r, r, L, r, F, F, L, r,P	 at 	-0.16688533	PREFIXED after 9 iterates
+C, r, r, L, r, F, F, L, r,C	 at 	-0.1668869	Period 9 orbit
+C, r, r, L, r, F, F, L, r,0	 at 	-0.16689004	PREZERO after 9 iterates
+C, r, r, L, r, F, F, F, r,0	 at 	-0.16691045	PREZERO after 9 iterates
+C, r, r, L, r, F, F, F, r,C	 at 	-0.16691516	Period 9 orbit
+C, r, r, L, r, F, F, F, r,P	 at 	-0.1669183	PREFIXED after 9 iterates
+C, r, r, L, r, F, F, F, L,P	 at 	-0.16692458	PREFIXED after 9 iterates
+C, r, r, L, r, F, F, F, L,C	 at 	-0.16692615	Period 9 orbit
+C, r, r, L, r, F, F, F, L,0	 at 	-0.16692929	PREZERO after 9 iterates
+C, r, r, L, r, F, F, F, F,0	 at 	-0.16694342	PREZERO after 9 iterates
+C, r, r, L, r, F, F, F, F,C	 at 	-0.1669497	Period 9 orbit
+C, r, r, L, r, F, F, F, F,P	 at 	-0.16695912	PREFIXED after 9 iterates
+C, r, r, L, L, R, R, R, R,P	 at 	-0.16768446	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, F, F,C	 at 	-0.16769074	Period 9 orbit
+C, r, r, L, L, F, F, F, F,0	 at 	-0.16769388	PREZERO after 9 iterates
+C, r, r, L, L, F, F, F, L,0	 at 	-0.1677033	PREZERO after 9 iterates
+C, r, r, L, L, F, F, F, L,C	 at 	-0.16770487	Period 9 orbit
+C, r, r, L, L, F, F, F, L,P	 at 	-0.16770644	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, F, r,P	 at 	-0.16770958	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, F, r,C	 at 	-0.16771115	Period 9 orbit
+C, r, r, L, L, F, F, F, r,0	 at 	-0.16771429	PREZERO after 9 iterates
+C, r, r, L, L, F, F, L, r,0	 at 	-0.16772528	PREZERO after 9 iterates
+C, r, r, L, L, F, F, L, r,C	 at 	-0.16772685	Period 9 orbit
+C, r, r, L, L, F, F, L, r,P	 at 	-0.16772842	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, L, r,	 at 	-0.16772999	
+C, r, r, L, L, F, F, L, L,0	 at 	-0.16773156	PREZERO after 9 iterates
+C, r, r, L, L, F, F, L, F,0	 at 	-0.16773313	PREZERO after 9 iterates
+C, r, r, L, L, F, F, L, F,C	 at 	-0.1677347	Period 9 orbit
+C, r, r, L, L, F, F, L, F,P	 at 	-0.16773627	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, r, R,P	 at 	-0.16774412	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, r, F,C	 at 	-0.16774569	Period 9 orbit
+C, r, r, L, L, F, F, r, F,0	 at 	-0.16774726	PREZERO after 9 iterates
+C, r, r, L, L, F, F, r, L,0	 at 	-0.16775197	PREZERO after 9 iterates
+C, r, r, L, L, F, F, r, L,C	 at 	-0.16775354	Period 9 orbit
+C, r, r, L, L, F, F, r, L,P	 at 	-0.16775511	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, r, r,P	 at 	-0.16775982	PREFIXED after 9 iterates
+C, r, r, L, L, F, F, r, r,C	 at 	-0.1677661	Period 9 orbit
+C, r, r, L, L, F, L, r, r,C	 at 	-0.1677818	Period 9 orbit
+C, r, r, L, L, F, L, r, r,P	 at 	-0.16778651	PREFIXED after 9 iterates
+C, r, r, L, L, F, L, r, L,P	 at 	-0.16778965	PREFIXED after 9 iterates
+C, r, r, L, L, F, L, r, L,	 at 	-0.16779122	
+C, r, r, L, L, F, L, r, F,	 at 	-0.16779436	
+C, r, r, L, L, F, L, r, F,P	 at 	-0.16779593	PREFIXED after 9 iterates
+C, r, r, L, L, F, L, L, R,	 at 	-0.16780064	
+C, r, r, L, L, F, L, L, L,	 at 	-0.16780221	
+C, r, r, L, L, F, L, L, r,	 at 	-0.16780378	
+C, r, r, L, L, F, L, F, r,	 at 	-0.16780849	
+C, r, r, L, L, F, L, F, r,C	 at 	-0.16781006	Period 9 orbit
+C, r, r, L, L, F, L, F, L,0	 at 	-0.16781163	PREZERO after 9 iterates
+C, r, r, L, L, F, L, F, F,	 at 	-0.1678132	
+C, r, r, L, L, F, L, F, F,P	 at 	-0.16781477	PREFIXED after 9 iterates
+C, r, r, L, L, F, r, R, R,P	 at 	-0.16783989	PREFIXED after 9 iterates
+C, r, r, L, L, F, r, F, F,C	 at 	-0.16784146	Period 9 orbit
+C, r, r, L, L, F, r, F, F,0	 at 	-0.16784303	PREZERO after 9 iterates
+C, r, r, L, L, F, r, F, L,0	 at 	-0.16784617	PREZERO after 9 iterates
+C, r, r, L, L, F, r, F, L,	 at 	-0.16784774	
+C, r, r, L, L, F, r, F, L,P	 at 	-0.16784931	PREFIXED after 9 iterates
+C, r, r, L, L, F, r, F, r,C	 at 	-0.16785088	Period 9 orbit
+C, r, r, L, L, F, r, F, r,0	 at 	-0.16785245	PREZERO after 9 iterates
+C, r, r, L, L, F, r, L, r,0	 at 	-0.16786187	PREZERO after 9 iterates
+C, r, r, L, L, F, r, L, r,	 at 	-0.16786344	
+C, r, r, L, L, F, r, L, r,P	 at 	-0.16786501	PREFIXED after 9 iterates
+C, r, r, L, L, F, r, L, L,	 at 	-0.16786658	
+C, r, r, L, L, F, r, L, F,0	 at 	-0.16786972	PREZERO after 9 iterates
+C, r, r, L, L, F, r, L, F,C	 at 	-0.16787129	Period 9 orbit
+C, r, r, L, L, F, r, L, F,P	 at 	-0.16787286	PREFIXED after 9 iterates
+C, r, r, L, L, F, r, r, R,P	 at 	-0.16788856	PREFIXED after 9 iterates
+C, r, r, L, L, F, r, r, F,C	 at 	-0.16789327	Period 9 orbit
+C, r, r, L, L, F, r, r, F,0	 at 	-0.16789641	PREZERO after 9 iterates
+C, r, r, L, L, F, r, r, L,0	 at 	-0.16792467	PREZERO after 9 iterates
+C, r, r, L, L, L, r, r, L,0	 at 	-0.16794665	PREZERO after 9 iterates
+C, r, r, L, L, L, r, r, F,0	 at 	-0.16797177	PREZERO after 9 iterates
+C, r, r, L, L, L, r, r, F,C	 at 	-0.16797334	Period 9 orbit
+C, r, r, L, L, L, r, r, F,P	 at 	-0.16797805	PREFIXED after 9 iterates
+C, r, r, L, L, L, r, L, R,	 at 	-0.16799061	
+C, r, r, L, L, L, r, L, F,0	 at 	-0.16799218	PREZERO after 9 iterates
+C, r, r, L, L, L, r, L, F,0	 at 	-0.16799375	PREZERO after 9 iterates
+C, r, r, L, L, L, r, L, L,	 at 	-0.16799532	
+C, r, r, L, L, L, r, L, r,	 at 	-0.16799689	
+C, r, r, L, L, L, r, L, r,0	 at 	-0.16799846	PREZERO after 9 iterates
+C, r, r, L, L, L, r, F, r,	 at 	-0.16800474	
+C, r, r, L, L, L, r, F, r,P	 at 	-0.16800631	PREFIXED after 9 iterates
+C, r, r, L, L, L, r, F, L,	 at 	-0.16800788	
+C, r, r, L, L, L, r, F, F,	 at 	-0.16801102	
+C, r, r, L, L, L, r, F, F,P	 at 	-0.16801259	PREFIXED after 9 iterates
+C, r, r, L, L, L, L, R, R,	 at 	-0.16802829	
+C, r, r, L, L, L, L, F, r,0	 at 	-0.168033	PREZERO after 9 iterates
+C, r, r, L, L, L, L, L, r,	 at 	-0.16803457	
+C, r, r, L, L, L, L, r, R,	 at 	-0.16803928	
+C, r, r, L, L, L, L, r, F,0	 at 	-0.16804085	PREZERO after 9 iterates
+C, r, r, L, L, L, L, r, L,	 at 	-0.16804242	
+C, r, r, L, L, L, L, r, r,P	 at 	-0.16804399	PREFIXED after 9 iterates
+C, r, r, L, L, L, L, r, r,C	 at 	-0.16804556	Period 9 orbit
+C, r, r, L, L, L, F, r, r,C	 at 	-0.16805498	Period 9 orbit
+C, r, r, L, L, L, F, r, r,P	 at 	-0.16805655	PREFIXED after 9 iterates
+C, r, r, L, L, L, F, r, L,	 at 	-0.16805969	
+C, r, r, L, L, L, F, r, L,0	 at 	-0.16806126	PREZERO after 9 iterates
+C, r, r, L, L, L, F, r, F,	 at 	-0.16806283	
+C, r, r, L, L, L, F, r, F,P	 at 	-0.1680644	PREFIXED after 9 iterates
+C, r, r, L, L, L, F, L, R,P	 at 	-0.16806754	PREFIXED after 9 iterates
+C, r, r, L, L, L, F, L, F,C	 at 	-0.16806911	Period 9 orbit
+C, r, r, L, L, L, F, L, r,0	 at 	-0.16807225	PREZERO after 9 iterates
+C, r, r, L, L, L, F, F, r,	 at 	-0.16807696	
+C, r, r, L, L, L, F, F, r,P	 at 	-0.16807853	PREFIXED after 9 iterates
+C, r, r, L, L, L, F, F, L,	 at 	-0.1680801	
+C, r, r, L, L, L, F, F, F,0	 at 	-0.16808324	PREZERO after 9 iterates
+C, r, r, L, L, L, F, F, F,C	 at 	-0.16808481	Period 9 orbit
+C, r, r, L, L, L, F, F, F,P	 at 	-0.16808638	PREFIXED after 9 iterates
+C, r, r, L, L, r, R, R, R,P	 at 	-0.16819314	PREFIXED after 9 iterates
+C, r, r, L, L, r, F, F, F,C	 at 	-0.16819628	Period 9 orbit
+C, r, r, L, L, r, F, F, F,0	 at 	-0.16819942	PREZERO after 9 iterates
+C, r, r, L, L, r, F, F, L,0	 at 	-0.16820413	PREZERO after 9 iterates
+C, r, r, L, L, r, F, F, L,	 at 	-0.1682057	
+C, r, r, L, L, r, F, F, r,P	 at 	-0.16820884	PREFIXED after 9 iterates
+C, r, r, L, L, r, F, F, r,C	 at 	-0.16821041	Period 9 orbit
+C, r, r, L, L, r, F, F, r,0	 at 	-0.16821198	PREZERO after 9 iterates
+C, r, r, L, L, r, F, L, r,0	 at 	-0.16821983	PREZERO after 9 iterates
+C, r, r, L, L, r, F, L, r,C	 at 	-0.1682214	Period 9 orbit
+C, r, r, L, L, r, F, L, r,P	 at 	-0.16822297	PREFIXED after 9 iterates
+C, r, r, L, L, r, F, L, L,	 at 	-0.16822454	
+C, r, r, L, L, r, F, L, L,0	 at 	-0.16822611	PREZERO after 9 iterates
+C, r, r, L, L, r, F, L, F,C	 at 	-0.16822768	Period 9 orbit
+C, r, r, L, L, r, F, L, F,P	 at 	-0.16822925	PREFIXED after 9 iterates
+C, r, r, L, L, r, F, r, R,P	 at 	-0.1682371	PREFIXED after 9 iterates
+C, r, r, L, L, r, F, r, F,	 at 	-0.16823867	
+C, r, r, L, L, r, F, r, L,	 at 	-0.16824495	
+C, r, r, L, L, r, F, r, L,P	 at 	-0.16824652	PREFIXED after 9 iterates
+C, r, r, L, L, r, F, r, r,P	 at 	-0.1682528	PREFIXED after 9 iterates
+C, r, r, L, L, r, F, r, r,C	 at 	-0.16825908	Period 9 orbit
+C, r, r, L, L, r, L, r, r,C	 at 	-0.16828263	Period 9 orbit
+C, r, r, L, L, r, L, r, r,P	 at 	-0.16828891	PREFIXED after 9 iterates
+C, r, r, L, L, r, L, r, L,P	 at 	-0.16829362	PREFIXED after 9 iterates
+C, r, r, L, L, r, L, r, L,C	 at 	-0.16829519	Period 9 orbit
+C, r, r, L, L, r, L, r, L,0	 at 	-0.16829676	PREZERO after 9 iterates
+C, r, r, L, L, r, L, r, F,0	 at 	-0.16830147	PREZERO after 9 iterates
+C, r, r, L, L, r, L, r, F,C	 at 	-0.16830304	Period 9 orbit
+C, r, r, L, L, r, L, r, F,P	 at 	-0.16830461	PREFIXED after 9 iterates
+C, r, r, L, L, r, L, L, R,P	 at 	-0.16831246	PREFIXED after 9 iterates
+C, r, r, L, L, r, L, L, F,	 at 	-0.16831403	
+C, r, r, L, L, r, L, L, F,0	 at 	-0.1683156	PREZERO after 9 iterates
+C, r, r, L, L, r, L, L, L,	 at 	-0.16831717	
+C, r, r, L, L, r, L, L, r,	 at 	-0.16831874	
+C, r, r, L, L, r, L, L, r,0	 at 	-0.16832031	PREZERO after 9 iterates
+C, r, r, L, L, r, L, F, r,0	 at 	-0.16832816	PREZERO after 9 iterates
+C, r, r, L, L, r, L, F, r,	 at 	-0.1683313	
+C, r, r, L, L, r, L, F, L,	 at 	-0.16833444	
+C, r, r, L, L, r, L, F, L,0	 at 	-0.16833601	PREZERO after 9 iterates
+C, r, r, L, L, r, L, F, F,0	 at 	-0.16834072	PREZERO after 9 iterates
+C, r, r, L, L, r, L, F, F,C	 at 	-0.16834229	Period 9 orbit
+C, r, r, L, L, r, L, F, F,P	 at 	-0.16834543	PREFIXED after 9 iterates
+C, r, r, L, L, r, r, R, R,P	 at 	-0.16842707	PREFIXED after 9 iterates
+C, r, r, L, L, r, r, F, F,C	 at 	-0.16843649	Period 9 orbit
+C, r, r, L, L, r, r, F, F,0	 at 	-0.1684412	PREZERO after 9 iterates
+C, r, r, L, L, r, r, F, L,0	 at 	-0.16846004	PREZERO after 9 iterates
+C, r, r, L, L, r, r, F, L,C	 at 	-0.16846161	Period 9 orbit
+C, r, r, L, L, r, r, F, L,P	 at 	-0.16846632	PREFIXED after 9 iterates
+C, r, r, L, L, r, r, F, r,P	 at 	-0.16847574	PREFIXED after 9 iterates
+C, r, r, L, L, r, r, F, r,C	 at 	-0.16848202	Period 9 orbit
+C, r, r, L, L, r, r, F, r,0	 at 	-0.16849301	PREZERO after 9 iterates
+C, r, r, L, L, r, r, L, r,0	 at 	-0.16856994	PREZERO after 9 iterates
+C, r, r, L, L, r, r, L, r,C	 at 	-0.16858721	Period 9 orbit
+C, r, r, L, L, r, r, L, r,P	 at 	-0.16860291	PREFIXED after 9 iterates
+C, r, r, L, L, r, r, L, L,P	 at 	-0.16863117	PREFIXED after 9 iterates
+C, r, r, L, L, r, r, L, L,C	 at 	-0.16864216	Period 9 orbit
+C, r, r, L, L, r, r, L, L,0	 at 	-0.16865472	PREZERO after 9 iterates
+C, r, r, L, F, r, r, L, L,0	 at 	-0.16880701	PREZERO after 9 iterates
+C, r, r, L, F, r, r, L, L,C	 at 	-0.168818	Period 9 orbit
+C, r, r, L, F, r, r, L, L,P	 at 	-0.16883213	PREFIXED after 9 iterates
+C, r, r, L, F, r, r, L, r,P	 at 	-0.16886039	PREFIXED after 9 iterates
+C, r, r, L, F, r, r, L, r,C	 at 	-0.16887766	Period 9 orbit
+C, r, r, L, F, r, r, L, r,0	 at 	-0.16889807	PREZERO after 9 iterates
+C, r, r, L, F, r, r, F, r,0	 at 	-0.16898756	PREZERO after 9 iterates
+C, r, r, L, F, r, r, F, r,C	 at 	-0.16899855	Period 9 orbit
+C, r, r, L, F, r, r, F, r,P	 at 	-0.1690064	PREFIXED after 9 iterates
+C, r, r, L, F, r, r, F, L,P	 at 	-0.16901896	PREFIXED after 9 iterates
+C, r, r, L, F, r, r, F, L,C	 at 	-0.1690221	Period 9 orbit
+C, r, r, L, F, r, r, F, L,0	 at 	-0.16902524	PREZERO after 9 iterates
+C, r, r, L, F, r, r, F, F,0	 at 	-0.16904879	PREZERO after 9 iterates
+C, r, r, L, F, r, r, F, F,C	 at 	-0.1690535	Period 9 orbit
+C, r, r, L, F, r, r, F, F,P	 at 	-0.16906449	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, R, R,P	 at 	-0.16917125	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, F, F,C	 at 	-0.16917439	Period 9 orbit
+C, r, r, L, F, r, L, F, F,0	 at 	-0.16917753	PREZERO after 9 iterates
+C, r, r, L, F, r, L, F, L,0	 at 	-0.16918381	PREZERO after 9 iterates
+C, r, r, L, F, r, L, F, L,C	 at 	-0.16918538	Period 9 orbit
+C, r, r, L, F, r, L, F, L,P	 at 	-0.16918695	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, F, r,P	 at 	-0.16918852	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, F, r,C	 at 	-0.16919009	Period 9 orbit
+C, r, r, L, F, r, L, F, r,0	 at 	-0.16919323	PREZERO after 9 iterates
+C, r, r, L, F, r, L, L, r,0	 at 	-0.16920579	PREZERO after 9 iterates
+C, r, r, L, F, r, L, L, r,	 at 	-0.16920736	
+C, r, r, L, F, r, L, L, r,P	 at 	-0.16920893	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, L, L,	 at 	-0.1692105	
+C, r, r, L, F, r, L, L, F,	 at 	-0.16921364	
+C, r, r, L, F, r, L, L, F,P	 at 	-0.16921521	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, r, R,P	 at 	-0.1692262	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, r, F,C	 at 	-0.16922934	Period 9 orbit
+C, r, r, L, F, r, L, r, F,0	 at 	-0.16923091	PREZERO after 9 iterates
+C, r, r, L, F, r, L, r, L,0	 at 	-0.16923719	PREZERO after 9 iterates
+C, r, r, L, F, r, L, r, L,C	 at 	-0.16923876	Period 9 orbit
+C, r, r, L, F, r, L, r, L,P	 at 	-0.16924033	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, r, r,P	 at 	-0.16924818	PREFIXED after 9 iterates
+C, r, r, L, F, r, L, r, r,C	 at 	-0.16925603	Period 9 orbit
+C, r, r, L, F, r, F, r, r,C	 at 	-0.16929371	Period 9 orbit
+C, r, r, L, F, r, F, r, r,P	 at 	-0.16930156	PREFIXED after 9 iterates
+C, r, r, L, F, r, F, r, L,P	 at 	-0.16930941	PREFIXED after 9 iterates
+C, r, r, L, F, r, F, r, L,C	 at 	-0.16931098	Period 9 orbit
+C, r, r, L, F, r, F, r, L,0	 at 	-0.16931255	PREZERO after 9 iterates
+C, r, r, L, F, r, F, r, F,0	 at 	-0.1693204	PREZERO after 9 iterates
+C, r, r, L, F, r, F, r, F,C	 at 	-0.16932197	Period 9 orbit
+C, r, r, L, F, r, F, r, F,P	 at 	-0.16932511	PREFIXED after 9 iterates
+C, r, r, L, F, r, F, L, R,P	 at 	-0.1693361	PREFIXED after 9 iterates
+C, r, r, L, F, r, F, L, F,C	 at 	-0.16933767	Period 9 orbit
+C, r, r, L, F, r, F, L, F,0	 at 	-0.16933924	PREZERO after 9 iterates
+C, r, r, L, F, r, F, L, L,	 at 	-0.16934238	
+C, r, r, L, F, r, F, L, r,	 at 	-0.16934552	
+C, r, r, L, F, r, F, L, r,0	 at 	-0.16934866	PREZERO after 9 iterates
+C, r, r, L, F, r, F, F, r,0	 at 	-0.16936122	PREZERO after 9 iterates
+C, r, r, L, F, r, F, F, r,C	 at 	-0.16936436	Period 9 orbit
+C, r, r, L, F, r, F, F, r,P	 at 	-0.1693675	PREFIXED after 9 iterates
+C, r, r, L, F, r, F, F, L,P	 at 	-0.16937064	PREFIXED after 9 iterates
+C, r, r, L, F, r, F, F, L,	 at 	-0.16937221	
+C, r, r, L, F, r, F, F, F,0	 at 	-0.16938163	PREZERO after 9 iterates
+C, r, r, L, F, r, F, F, F,C	 at 	-0.1693832	Period 9 orbit
+C, r, r, L, F, r, F, F, F,P	 at 	-0.16938948	PREFIXED after 9 iterates
+C, r, r, L, F, L, R, R, R,P	 at 	-0.16956375	PREFIXED after 9 iterates
+C, r, r, L, F, L, F, F, F,C	 at 	-0.16956689	Period 9 orbit
+C, r, r, L, F, L, F, F, F,0	 at 	-0.16956846	PREZERO after 9 iterates
+C, r, r, L, F, L, F, F, L,	 at 	-0.16957474	
+C, r, r, L, F, L, F, F, L,P	 at 	-0.16957631	PREFIXED after 9 iterates
+C, r, r, L, F, L, F, F, L,P	 at 	-0.16957788	PREFIXED after 9 iterates
+C, r, r, L, F, L, F, F, r,C	 at 	-0.16957945	Period 9 orbit
+C, r, r, L, F, L, F, F, r,0	 at 	-0.16958102	PREZERO after 9 iterates
+C, r, r, L, F, L, F, L, r,	 at 	-0.16959044	
+C, r, r, L, F, L, F, L, L,	 at 	-0.16959358	
+C, r, r, L, F, L, F, L, F,	 at 	-0.16959515	
+C, r, r, L, F, L, F, L, F,P	 at 	-0.16959672	PREFIXED after 9 iterates
+C, r, r, L, F, L, F, r, R,P	 at 	-0.169603	PREFIXED after 9 iterates
+C, r, r, L, F, L, F, r, F,	 at 	-0.16960457	
+C, r, r, L, F, L, F, r, L,	 at 	-0.16960928	
+C, r, r, L, F, L, F, r, L,P	 at 	-0.16961085	PREFIXED after 9 iterates
+C, r, r, L, F, L, F, r, r,P	 at 	-0.16961399	PREFIXED after 9 iterates
+C, r, r, L, F, L, F, r, r,C	 at 	-0.1696187	Period 9 orbit
+C, r, r, L, F, L, L, r, r,C	 at 	-0.16963597	Period 9 orbit
+C, r, r, L, F, L, L, r, r,P	 at 	-0.16963911	PREFIXED after 9 iterates
+C, r, r, L, F, L, L, r, L,P	 at 	-0.16964225	PREFIXED after 9 iterates
+C, r, r, L, F, L, L, r, L,	 at 	-0.16964382	
+C, r, r, L, F, L, L, r, F,	 at 	-0.16964696	
+C, r, r, L, F, L, L, r, F,P	 at 	-0.16964853	PREFIXED after 9 iterates
+C, r, r, L, F, L, L, L, R,P	 at 	-0.16965167	PREFIXED after 9 iterates
+C, r, r, L, F, L, L, L, F,	 at 	-0.16965324	
+C, r, r, L, F, L, L, L, L,0	 at 	-0.16965481	PREZERO after 9 iterates
+C, r, r, L, F, L, L, L, r,0	 at 	-0.16965638	PREZERO after 9 iterates
+C, r, r, L, F, L, L, F, r,	 at 	-0.16966109	
+C, r, r, L, F, L, L, F, r,C	 at 	-0.16966266	Period 9 orbit
+C, r, r, L, F, L, L, F, L,0	 at 	-0.16966423	PREZERO after 9 iterates
+C, r, r, L, F, L, L, F, F,	 at 	-0.1696658	
+C, r, r, L, F, L, L, F, F,P	 at 	-0.16966737	PREFIXED after 9 iterates
+C, r, r, L, F, L, r, R, R,P	 at 	-0.1696972	PREFIXED after 9 iterates
+C, r, r, L, F, L, r, F, F,C	 at 	-0.16969877	Period 9 orbit
+C, r, r, L, F, L, r, F, F,0	 at 	-0.16970034	PREZERO after 9 iterates
+C, r, r, L, F, L, r, F, L,	 at 	-0.16970505	
+C, r, r, L, F, L, r, F, L,P	 at 	-0.16970662	PREFIXED after 9 iterates
+C, r, r, L, F, L, r, F, r,P	 at 	-0.16970819	PREFIXED after 9 iterates
+C, r, r, L, F, L, r, F, r,C	 at 	-0.16970976	Period 9 orbit
+C, r, r, L, F, L, r, F, r,0	 at 	-0.16971133	PREZERO after 9 iterates
+C, r, r, L, F, L, r, L, r,0	 at 	-0.16972389	PREZERO after 9 iterates
+C, r, r, L, F, L, r, L, r,C	 at 	-0.16972546	Period 9 orbit
+C, r, r, L, F, L, r, L, r,P	 at 	-0.16972703	PREFIXED after 9 iterates
+C, r, r, L, F, L, r, L, L,	 at 	-0.1697286	
+C, r, r, L, F, L, r, L, L,0	 at 	-0.16973017	PREZERO after 9 iterates
+C, r, r, L, F, L, r, L, F,	 at 	-0.16973488	
+C, r, r, L, F, L, r, L, F,P	 at 	-0.16973802	PREFIXED after 9 iterates
+C, r, r, L, F, L, r, r, R,P	 at 	-0.16976	PREFIXED after 9 iterates
+C, r, r, L, F, L, r, r, F,C	 at 	-0.16976628	Period 9 orbit
+C, r, r, L, F, L, r, r, F,0	 at 	-0.16977099	PREZERO after 9 iterates
+C, r, r, L, F, L, r, r, L,0	 at 	-0.16980553	PREZERO after 9 iterates
+C, r, r, L, F, L, r, r, L,C	 at 	-0.16981966	Period 9 orbit
+C, r, r, L, F, F, r, r, L,C	 at 	-0.16988246	Period 9 orbit
+C, r, r, L, F, F, r, r, L,0	 at 	-0.16989816	PREZERO after 9 iterates
+C, r, r, L, F, F, r, r, F,0	 at 	-0.16994212	PREZERO after 9 iterates
+C, r, r, L, F, F, r, r, F,C	 at 	-0.16994997	Period 9 orbit
+C, r, r, L, F, F, r, r, F,P	 at 	-0.16995782	PREFIXED after 9 iterates
+C, r, r, L, F, F, r, L, R,P	 at 	-0.16999079	PREFIXED after 9 iterates
+C, r, r, L, F, F, r, L, F,C	 at 	-0.16999393	Period 9 orbit
+C, r, r, L, F, F, r, L, F,0	 at 	-0.1699955	PREZERO after 9 iterates
+C, r, r, L, F, F, r, L, L,	 at 	-0.17000335	
+C, r, r, L, F, F, r, L, L,P	 at 	-0.17000492	PREFIXED after 9 iterates
+C, r, r, L, F, F, r, L, r,P	 at 	-0.17000806	PREFIXED after 9 iterates
+C, r, r, L, F, F, r, L, r,C	 at 	-0.1700112	Period 9 orbit
+C, r, r, L, F, F, r, L, r,0	 at 	-0.17001434	PREZERO after 9 iterates
+C, r, r, L, F, F, r, F, r,0	 at 	-0.17003475	PREZERO after 9 iterates
+C, r, r, L, F, F, r, F, r,C	 at 	-0.17003789	Period 9 orbit
+C, r, r, L, F, F, r, F, r,P	 at 	-0.17004103	PREFIXED after 9 iterates
+C, r, r, L, F, F, r, F, L,P	 at 	-0.17004417	PREFIXED after 9 iterates
+C, r, r, L, F, F, r, F, L,C	 at 	-0.17004574	Period 9 orbit
+C, r, r, L, F, F, r, F, L,0	 at 	-0.17004731	PREZERO after 9 iterates
+C, r, r, L, F, F, r, F, F,0	 at 	-0.17005516	PREZERO after 9 iterates
+C, r, r, L, F, F, r, F, F,C	 at 	-0.1700583	Period 9 orbit
+C, r, r, L, F, F, r, F, F,P	 at 	-0.17006301	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, R, R,P	 at 	-0.1701211	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, F, F,C	 at 	-0.17012424	Period 9 orbit
+C, r, r, L, F, F, L, F, F,0	 at 	-0.17012581	PREZERO after 9 iterates
+C, r, r, L, F, F, L, F, L,	 at 	-0.17013209	
+C, r, r, L, F, F, L, F, L,P	 at 	-0.17013366	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, F, r,P	 at 	-0.17013523	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, F, r,C	 at 	-0.1701368	Period 9 orbit
+C, r, r, L, F, F, L, F, r,0	 at 	-0.17013837	PREZERO after 9 iterates
+C, r, r, L, F, F, L, L, r,0	 at 	-0.17014936	PREZERO after 9 iterates
+C, r, r, L, F, F, L, L, r,	 at 	-0.17015093	
+C, r, r, L, F, F, L, L, r,P	 at 	-0.1701525	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, L, L,	 at 	-0.17015407	
+C, r, r, L, F, F, L, L, F,	 at 	-0.17015721	
+C, r, r, L, F, F, L, L, F,P	 at 	-0.17015878	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, r, R,P	 at 	-0.1701682	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, r, F,C	 at 	-0.17017134	Period 9 orbit
+C, r, r, L, F, F, L, r, F,0	 at 	-0.17017291	PREZERO after 9 iterates
+C, r, r, L, F, F, L, r, L,	 at 	-0.17018076	
+C, r, r, L, F, F, L, r, L,P	 at 	-0.1701839	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, r, r,P	 at 	-0.17019175	PREFIXED after 9 iterates
+C, r, r, L, F, F, L, r, r,C	 at 	-0.17020117	Period 9 orbit
+C, r, r, L, F, F, F, r, r,C	 at 	-0.17025298	Period 9 orbit
+C, r, r, L, F, F, F, r, r,P	 at 	-0.17026711	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, r, L,P	 at 	-0.1702781	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, r, L,C	 at 	-0.17028281	Period 9 orbit
+C, r, r, L, F, F, F, r, L,0	 at 	-0.17028438	PREZERO after 9 iterates
+C, r, r, L, F, F, F, r, F,0	 at 	-0.17029851	PREZERO after 9 iterates
+C, r, r, L, F, F, F, r, F,C	 at 	-0.17030165	Period 9 orbit
+C, r, r, L, F, F, F, r, F,P	 at 	-0.17030636	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, L, R,P	 at 	-0.17032991	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, L, F,C	 at 	-0.17033305	Period 9 orbit
+C, r, r, L, F, F, F, L, F,0	 at 	-0.17033462	PREZERO after 9 iterates
+C, r, r, L, F, F, F, L, L,	 at 	-0.17034247	
+C, r, r, L, F, F, F, L, L,P	 at 	-0.17034404	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, L, r,P	 at 	-0.17034875	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, L, r,C	 at 	-0.17035189	Period 9 orbit
+C, r, r, L, F, F, F, L, r,0	 at 	-0.17035503	PREZERO after 9 iterates
+C, r, r, L, F, F, F, F, r,0	 at 	-0.17039114	PREZERO after 9 iterates
+C, r, r, L, F, F, F, F, r,C	 at 	-0.17039899	Period 9 orbit
+C, r, r, L, F, F, F, F, r,P	 at 	-0.17040527	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, F, L,P	 at 	-0.17041469	PREFIXED after 9 iterates
+C, r, r, L, F, F, F, F, L,C	 at 	-0.17041783	Period 9 orbit
+C, r, r, L, F, F, F, F, L,0	 at 	-0.17042097	PREZERO after 9 iterates
+C, r, r, L, F, F, F, F, F,0	 at 	-0.17044923	PREZERO after 9 iterates
+C, r, r, L, F, F, F, F, F,C	 at 	-0.17045865	Period 9 orbit
+C, r, r, L, F, F, F, F, F,P	 at 	-0.17047749	PREFIXED after 9 iterates
+C, r, r, r, R, R, R, R, R,P	 at 	-0.17577624	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, F, F,C	 at 	-0.17580921	Period 9 orbit
+C, r, r, r, F, F, F, F, F,0	 at 	-0.17582491	PREZERO after 9 iterates
+C, r, r, r, F, F, F, F, L,0	 at 	-0.17587044	PREZERO after 9 iterates
+C, r, r, r, F, F, F, F, L,C	 at 	-0.17587515	Period 9 orbit
+C, r, r, r, F, F, F, F, L,P	 at 	-0.17588143	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, F, r,P	 at 	-0.17589713	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, F, r,C	 at 	-0.17590655	Period 9 orbit
+C, r, r, r, F, F, F, F, r,0	 at 	-0.17591754	PREZERO after 9 iterates
+C, r, r, r, F, F, F, L, r,0	 at 	-0.17598505	PREZERO after 9 iterates
+C, r, r, r, F, F, F, L, r,C	 at 	-0.17598976	Period 9 orbit
+C, r, r, r, F, F, F, L, r,P	 at 	-0.17599447	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, L, L,P	 at 	-0.17600075	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, L, L,C	 at 	-0.17600389	Period 9 orbit
+C, r, r, r, F, F, F, L, L,0	 at 	-0.17600546	PREZERO after 9 iterates
+C, r, r, r, F, F, F, L, F,0	 at 	-0.17601802	PREZERO after 9 iterates
+C, r, r, r, F, F, F, L, F,C	 at 	-0.17601959	Period 9 orbit
+C, r, r, r, F, F, F, L, F,P	 at 	-0.17602587	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, r, R,P	 at 	-0.17606512	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, r, F,C	 at 	-0.1760714	Period 9 orbit
+C, r, r, r, F, F, F, r, F,0	 at 	-0.17607611	PREZERO after 9 iterates
+C, r, r, r, F, F, F, r, L,0	 at 	-0.17609966	PREZERO after 9 iterates
+C, r, r, r, F, F, F, r, L,C	 at 	-0.1761028	Period 9 orbit
+C, r, r, r, F, F, F, r, L,P	 at 	-0.17610751	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, r, r,P	 at 	-0.17612635	PREFIXED after 9 iterates
+C, r, r, r, F, F, F, r, r,C	 at 	-0.17614205	Period 9 orbit
+C, r, r, r, F, F, F, r, r,0	 at 	-0.17617188	PREZERO after 9 iterates
+C, r, r, r, F, F, L, r, r,0	 at 	-0.17624567	PREZERO after 9 iterates
+C, r, r, r, F, F, L, r, r,C	 at 	-0.17626765	Period 9 orbit
+C, r, r, r, F, F, L, r, r,P	 at 	-0.17627864	PREFIXED after 9 iterates
+C, r, r, r, F, F, L, r, L,P	 at 	-0.17628963	PREFIXED after 9 iterates
+C, r, r, r, F, F, L, r, L,C	 at 	-0.17629277	Period 9 orbit
+C, r, r, r, F, F, L, r, L,0	 at 	-0.17629434	PREZERO after 9 iterates
+C, r, r, r, F, F, L, r, F,0	 at 	-0.1763069	PREZERO after 9 iterates
+C, r, r, r, F, F, L, r, F,C	 at 	-0.17630847	Period 9 orbit
+C, r, r, r, F, F, L, r, F,P	 at 	-0.17631161	PREFIXED after 9 iterates
+C, r, r, r, F, F, L, L, R,P	 at 	-0.17632888	PREFIXED after 9 iterates
+C, r, r, r, F, F, L, L, F,	 at 	-0.17633202	
+C, r, r, r, F, F, L, L, L,0	 at 	-0.17633673	PREZERO after 9 iterates
+C, r, r, r, F, F, L, L, L,	 at 	-0.1763383	
+C, r, r, r, F, F, L, L, r,P	 at 	-0.17634144	PREFIXED after 9 iterates
+C, r, r, r, F, F, L, L, r,C	 at 	-0.17634301	Period 9 orbit
+C, r, r, r, F, F, L, L, r,0	 at 	-0.17634458	PREZERO after 9 iterates
+C, r, r, r, F, F, L, F, r,0	 at 	-0.17636342	PREZERO after 9 iterates
+C, r, r, r, F, F, L, F, r,C	 at 	-0.17636656	Period 9 orbit
+C, r, r, r, F, F, L, F, r,P	 at 	-0.1763697	PREFIXED after 9 iterates
+C, r, r, r, F, F, L, F, L,P	 at 	-0.17637284	PREFIXED after 9 iterates
+C, r, r, r, F, F, L, F, L,C	 at 	-0.17637441	Period 9 orbit
+C, r, r, r, F, F, L, F, L,0	 at 	-0.17637598	PREZERO after 9 iterates
+C, r, r, r, F, F, L, F, F,0	 at 	-0.1763854	PREZERO after 9 iterates
+C, r, r, r, F, F, L, F, F,C	 at 	-0.17638697	Period 9 orbit
+C, r, r, r, F, F, L, F, F,P	 at 	-0.17639325	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, R, R,P	 at 	-0.17649687	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, F, F,C	 at 	-0.17650472	Period 9 orbit
+C, r, r, r, F, F, r, F, F,0	 at 	-0.17650943	PREZERO after 9 iterates
+C, r, r, r, F, F, r, F, L,0	 at 	-0.17652356	PREZERO after 9 iterates
+C, r, r, r, F, F, r, F, L,C	 at 	-0.17652513	Period 9 orbit
+C, r, r, r, F, F, r, F, L,P	 at 	-0.1765267	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, F, r,P	 at 	-0.17653298	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, F, r,C	 at 	-0.17653769	Period 9 orbit
+C, r, r, r, F, F, r, F, r,0	 at 	-0.1765424	PREZERO after 9 iterates
+C, r, r, r, F, F, r, L, r,0	 at 	-0.17658165	PREZERO after 9 iterates
+C, r, r, r, F, F, r, L, r,C	 at 	-0.17658636	Period 9 orbit
+C, r, r, r, F, F, r, L, r,P	 at 	-0.1765895	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, L, L,P	 at 	-0.17659421	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, L, L,C	 at 	-0.17659578	Period 9 orbit
+C, r, r, r, F, F, r, L, L,0	 at 	-0.17659735	PREZERO after 9 iterates
+C, r, r, r, F, F, r, L, F,0	 at 	-0.17660834	PREZERO after 9 iterates
+C, r, r, r, F, F, r, L, F,C	 at 	-0.17661148	Period 9 orbit
+C, r, r, r, F, F, r, L, F,P	 at 	-0.17661619	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, r, R,P	 at 	-0.17666643	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, r, F,C	 at 	-0.17667899	Period 9 orbit
+C, r, r, r, F, F, r, r, F,0	 at 	-0.17668684	PREZERO after 9 iterates
+C, r, r, r, F, F, r, r, L,0	 at 	-0.17673708	PREZERO after 9 iterates
+C, r, r, r, F, F, r, r, L,C	 at 	-0.1767465	Period 9 orbit
+C, r, r, r, F, F, r, r, L,P	 at 	-0.17676377	PREFIXED after 9 iterates
+C, r, r, r, F, F, r, r, r,P	 at 	-0.17684855	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, r, r,P	 at 	-0.176982	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, r, L,P	 at 	-0.17705265	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, r, L,C	 at 	-0.17706521	Period 9 orbit
+C, r, r, r, F, L, r, r, L,0	 at 	-0.17707306	PREZERO after 9 iterates
+C, r, r, r, F, L, r, r, F,0	 at 	-0.17710917	PREZERO after 9 iterates
+C, r, r, r, F, L, r, r, F,C	 at 	-0.17711388	Period 9 orbit
+C, r, r, r, F, L, r, r, F,P	 at 	-0.1771233	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, L, R,P	 at 	-0.1771547	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, L, F,C	 at 	-0.17715784	Period 9 orbit
+C, r, r, r, F, L, r, L, F,0	 at 	-0.17715941	PREZERO after 9 iterates
+C, r, r, r, F, L, r, L, L,	 at 	-0.17716726	
+C, r, r, r, F, L, r, L, L,P	 at 	-0.17716883	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, L, r,P	 at 	-0.17717197	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, L, r,C	 at 	-0.17717354	Period 9 orbit
+C, r, r, r, F, L, r, L, r,0	 at 	-0.17717668	PREZERO after 9 iterates
+C, r, r, r, F, L, r, F, r,0	 at 	-0.17720023	PREZERO after 9 iterates
+C, r, r, r, F, L, r, F, r,C	 at 	-0.17720337	Period 9 orbit
+C, r, r, r, F, L, r, F, r,P	 at 	-0.17720494	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, F, L,P	 at 	-0.17720808	PREFIXED after 9 iterates
+C, r, r, r, F, L, r, F, L,C	 at 	-0.17720965	Period 9 orbit
+C, r, r, r, F, L, r, F, L,0	 at 	-0.17721122	PREZERO after 9 iterates
+C, r, r, r, F, L, r, F, F,0	 at 	-0.17721907	PREZERO after 9 iterates
+C, r, r, r, F, L, r, F, F,C	 at 	-0.17722064	Period 9 orbit
+C, r, r, r, F, L, r, F, F,P	 at 	-0.17722535	PREFIXED after 9 iterates
+C, r, r, r, F, L, L, R, R,P	 at 	-0.17727873	PREFIXED after 9 iterates
+C, r, r, r, F, L, L, F, F,C	 at 	-0.1772803	Period 9 orbit
+C, r, r, r, F, L, L, F, F,0	 at 	-0.17728187	PREZERO after 9 iterates
+C, r, r, r, F, L, L, F, L,	 at 	-0.17728658	
+C, r, r, r, F, L, L, F, r,	 at 	-0.17728972	
+C, r, r, r, F, L, L, F, r,0	 at 	-0.17729129	PREZERO after 9 iterates
+C, r, r, r, F, L, L, L, r,	 at 	-0.17730071	
+C, r, r, r, F, L, L, L, L,	 at 	-0.17730385	
+C, r, r, r, F, L, L, L, F,	 at 	-0.17730542	
+C, r, r, r, F, L, L, L, F,P	 at 	-0.17730699	PREFIXED after 9 iterates
+C, r, r, r, F, L, L, r, R,P	 at 	-0.17731484	PREFIXED after 9 iterates
+C, r, r, r, F, L, L, r, F,	 at 	-0.17731641	
+C, r, r, r, F, L, L, r, L,0	 at 	-0.17732112	PREZERO after 9 iterates
+C, r, r, r, F, L, L, r, L,C	 at 	-0.17732269	Period 9 orbit
+C, r, r, r, F, L, L, r, L,P	 at 	-0.17732426	PREFIXED after 9 iterates
+C, r, r, r, F, L, L, r, r,P	 at 	-0.1773274	PREFIXED after 9 iterates
+C, r, r, r, F, L, L, r, r,C	 at 	-0.17733211	Period 9 orbit
+C, r, r, r, F, L, L, r, r,0	 at 	-0.17733996	PREZERO after 9 iterates
+C, r, r, r, F, L, F, r, r,0	 at 	-0.17737136	PREZERO after 9 iterates
+C, r, r, r, F, L, F, r, r,C	 at 	-0.17738078	Period 9 orbit
+C, r, r, r, F, L, F, r, r,P	 at 	-0.17738706	PREFIXED after 9 iterates
+C, r, r, r, F, L, F, r, L,P	 at 	-0.17739177	PREFIXED after 9 iterates
+C, r, r, r, F, L, F, r, L,C	 at 	-0.17739334	Period 9 orbit
+C, r, r, r, F, L, F, r, L,0	 at 	-0.17739491	PREZERO after 9 iterates
+C, r, r, r, F, L, F, r, F,0	 at 	-0.17740276	PREZERO after 9 iterates
+C, r, r, r, F, L, F, r, F,C	 at 	-0.17740433	Period 9 orbit
+C, r, r, r, F, L, F, r, F,P	 at 	-0.1774059	PREFIXED after 9 iterates
+C, r, r, r, F, L, F, L, R,P	 at 	-0.17741846	PREFIXED after 9 iterates
+C, r, r, r, F, L, F, L, F,	 at 	-0.17742003	
+C, r, r, r, F, L, F, L, L,	 at 	-0.17742474	
+C, r, r, r, F, L, F, L, r,	 at 	-0.17742788	
+C, r, r, r, F, L, F, L, r,0	 at 	-0.17742945	PREZERO after 9 iterates
+C, r, r, r, F, L, F, F, r,0	 at 	-0.17744829	PREZERO after 9 iterates
+C, r, r, r, F, L, F, F, r,C	 at 	-0.17745143	Period 9 orbit
+C, r, r, r, F, L, F, F, r,P	 at 	-0.17745457	PREFIXED after 9 iterates
+C, r, r, r, F, L, F, F, L,P	 at 	-0.17745771	PREFIXED after 9 iterates
+C, r, r, r, F, L, F, F, L,C	 at 	-0.17745928	Period 9 orbit
+C, r, r, r, F, L, F, F, L,0	 at 	-0.17746085	PREZERO after 9 iterates
+C, r, r, r, F, L, F, F, F,0	 at 	-0.17747184	PREZERO after 9 iterates
+C, r, r, r, F, L, F, F, F,C	 at 	-0.17747655	Period 9 orbit
+C, r, r, r, F, L, F, F, F,P	 at 	-0.17748283	PREFIXED after 9 iterates
+C, r, r, r, F, r, R, R, R,P	 at 	-0.17783608	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, F, F,C	 at 	-0.17784707	Period 9 orbit
+C, r, r, r, F, r, F, F, F,0	 at 	-0.17785335	PREZERO after 9 iterates
+C, r, r, r, F, r, F, F, L,0	 at 	-0.17787062	PREZERO after 9 iterates
+C, r, r, r, F, r, F, F, L,C	 at 	-0.17787219	Period 9 orbit
+C, r, r, r, F, r, F, F, L,P	 at 	-0.17787376	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, F, r,P	 at 	-0.17788004	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, F, r,C	 at 	-0.17788475	Period 9 orbit
+C, r, r, r, F, r, F, F, r,0	 at 	-0.17788946	PREZERO after 9 iterates
+C, r, r, r, F, r, F, L, r,0	 at 	-0.17792086	PREZERO after 9 iterates
+C, r, r, r, F, r, F, L, r,C	 at 	-0.177924	Period 9 orbit
+C, r, r, r, F, r, F, L, r,P	 at 	-0.17792557	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, L, L,P	 at 	-0.17792871	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, L, L,	 at 	-0.17793028	
+C, r, r, r, F, r, F, L, F,0	 at 	-0.17793656	PREZERO after 9 iterates
+C, r, r, r, F, r, F, L, F,C	 at 	-0.17793813	Period 9 orbit
+C, r, r, r, F, r, F, L, F,P	 at 	-0.17794127	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, r, R,P	 at 	-0.17796325	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, r, F,C	 at 	-0.17796796	Period 9 orbit
+C, r, r, r, F, r, F, r, F,0	 at 	-0.17796953	PREZERO after 9 iterates
+C, r, r, r, F, r, F, r, L,0	 at 	-0.17798366	PREZERO after 9 iterates
+C, r, r, r, F, r, F, r, L,C	 at 	-0.17798523	Period 9 orbit
+C, r, r, r, F, r, F, r, L,P	 at 	-0.17798837	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, r, r,P	 at 	-0.17800093	PREFIXED after 9 iterates
+C, r, r, r, F, r, F, r, r,C	 at 	-0.17801035	Period 9 orbit
+C, r, r, r, F, r, F, r, r,0	 at 	-0.17802762	PREZERO after 9 iterates
+C, r, r, r, F, r, L, r, r,0	 at 	-0.17810298	PREZERO after 9 iterates
+C, r, r, r, F, r, L, r, r,C	 at 	-0.17812025	Period 9 orbit
+C, r, r, r, F, r, L, r, r,P	 at 	-0.17812967	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, r, L,P	 at 	-0.17813909	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, r, L,C	 at 	-0.17814223	Period 9 orbit
+C, r, r, r, F, r, L, r, L,0	 at 	-0.17814537	PREZERO after 9 iterates
+C, r, r, r, F, r, L, r, F,0	 at 	-0.17815636	PREZERO after 9 iterates
+C, r, r, r, F, r, L, r, F,C	 at 	-0.1781595	Period 9 orbit
+C, r, r, r, F, r, L, r, F,P	 at 	-0.17816264	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, L, R,P	 at 	-0.17818148	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, L, F,C	 at 	-0.17818462	Period 9 orbit
+C, r, r, r, F, r, L, L, F,0	 at 	-0.17818619	PREZERO after 9 iterates
+C, r, r, r, F, r, L, L, L,	 at 	-0.1781909	
+C, r, r, r, F, r, L, L, L,P	 at 	-0.17819247	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, L, r,P	 at 	-0.17819561	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, L, r,C	 at 	-0.17819718	Period 9 orbit
+C, r, r, r, F, r, L, L, r,0	 at 	-0.17819875	PREZERO after 9 iterates
+C, r, r, r, F, r, L, F, r,0	 at 	-0.17822387	PREZERO after 9 iterates
+C, r, r, r, F, r, L, F, r,C	 at 	-0.17822701	Period 9 orbit
+C, r, r, r, F, r, L, F, r,P	 at 	-0.17823015	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, F, L,P	 at 	-0.17823486	PREFIXED after 9 iterates
+C, r, r, r, F, r, L, F, L,C	 at 	-0.17823643	Period 9 orbit
+C, r, r, r, F, r, L, F, L,0	 at 	-0.178238	PREZERO after 9 iterates
+C, r, r, r, F, r, L, F, F,0	 at 	-0.17825056	PREZERO after 9 iterates
+C, r, r, r, F, r, L, F, F,C	 at 	-0.17825527	Period 9 orbit
+C, r, r, r, F, r, L, F, F,P	 at 	-0.17826312	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, R, R,P	 at 	-0.17844053	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, F, F,C	 at 	-0.17845623	Period 9 orbit
+C, r, r, r, F, r, r, F, F,0	 at 	-0.17846565	PREZERO after 9 iterates
+C, r, r, r, F, r, r, F, L,0	 at 	-0.17849862	PREZERO after 9 iterates
+C, r, r, r, F, r, r, F, L,C	 at 	-0.17850176	Period 9 orbit
+C, r, r, r, F, r, r, F, L,P	 at 	-0.17850804	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, F, r,P	 at 	-0.17852217	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, F, r,C	 at 	-0.17853159	Period 9 orbit
+C, r, r, r, F, r, r, F, r,0	 at 	-0.17854415	PREZERO after 9 iterates
+C, r, r, r, F, r, r, L, r,0	 at 	-0.17865719	PREZERO after 9 iterates
+C, r, r, r, F, r, r, L, r,C	 at 	-0.17867132	Period 9 orbit
+C, r, r, r, F, r, r, L, r,P	 at 	-0.17868231	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, L, L,P	 at 	-0.17869958	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, L, L,C	 at 	-0.17870586	Period 9 orbit
+C, r, r, r, F, r, r, L, L,0	 at 	-0.17871057	PREZERO after 9 iterates
+C, r, r, r, F, r, r, L, F,0	 at 	-0.17874982	PREZERO after 9 iterates
+C, r, r, r, F, r, r, L, F,C	 at 	-0.17876081	Period 9 orbit
+C, r, r, r, F, r, r, L, F,P	 at 	-0.17878122	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, r, R,P	 at 	-0.17902143	PREFIXED after 9 iterates
+C, r, r, r, F, r, r, r, F,C	 at 	-0.17910464	Period 9 orbit
+C, r, r, r, F, r, r, r, F,0	 at 	-0.17917058	PREZERO after 9 iterates
+C, r, r, r, L, r, r, r, F,0	 at 	-0.17999012	PREZERO after 9 iterates
+C, r, r, r, L, r, r, r, F,C	 at 	-0.18004978	Period 9 orbit
+C, r, r, r, L, r, r, r, F,P	 at 	-0.18012357	PREFIXED after 9 iterates
+C, r, r, r, L, r, r, L, R,P	 at 	-0.18033866	PREFIXED after 9 iterates
+C, r, r, r, L, r, r, L, F,C	 at 	-0.18035593	Period 9 orbit
+C, r, r, r, L, r, r, L, F,0	 at 	-0.18036535	PREZERO after 9 iterates
+C, r, r, r, L, r, r, L, L,0	 at 	-0.18039989	PREZERO after 9 iterates
+C, r, r, r, L, r, r, L, L,C	 at 	-0.1804046	Period 9 orbit
+C, r, r, r, L, r, r, L, L,P	 at 	-0.18040931	PREFIXED after 9 iterates
+C, r, r, r, L, r, r, L, r,P	 at 	-0.18042501	PREFIXED after 9 iterates
+C, r, r, r, L, r, r, L, r,C	 at 	-0.18043443	Period 9 orbit
+C, r, r, r, L, r, r, L, r,0	 at 	-0.18044542	PREZERO after 9 iterates
+C, r, r, r, L, r, r, F, r,0	 at 	-0.18054747	PREZERO after 9 iterates
+C, r, r, r, L, r, r, F, r,C	 at 	-0.18055846	Period 9 orbit
+C, r, r, r, L, r, r, F, r,P	 at 	-0.18056631	PREFIXED after 9 iterates
+C, r, r, r, L, r, r, F, L,P	 at 	-0.18057887	PREFIXED after 9 iterates
+C, r, r, r, L, r, r, F, L,C	 at 	-0.18058358	Period 9 orbit
+C, r, r, r, L, r, r, F, L,0	 at 	-0.18058672	PREZERO after 9 iterates
+C, r, r, r, L, r, r, F, F,0	 at 	-0.18061498	PREZERO after 9 iterates
+C, r, r, r, L, r, r, F, F,C	 at 	-0.18062283	Period 9 orbit
+C, r, r, r, L, r, r, F, F,P	 at 	-0.18063696	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, R, R,P	 at 	-0.18079239	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, F, F,C	 at 	-0.18079867	Period 9 orbit
+C, r, r, r, L, r, L, F, F,0	 at 	-0.18080338	PREZERO after 9 iterates
+C, r, r, r, L, r, L, F, L,0	 at 	-0.1808128	PREZERO after 9 iterates
+C, r, r, r, L, r, L, F, L,C	 at 	-0.18081437	Period 9 orbit
+C, r, r, r, L, r, L, F, L,P	 at 	-0.18081594	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, F, r,P	 at 	-0.18082065	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, F, r,C	 at 	-0.18082222	Period 9 orbit
+C, r, r, r, L, r, L, F, r,0	 at 	-0.18082536	PREZERO after 9 iterates
+C, r, r, r, L, r, L, L, r,0	 at 	-0.18084734	PREZERO after 9 iterates
+C, r, r, r, L, r, L, L, r,	 at 	-0.18085048	
+C, r, r, r, L, r, L, L, L,	 at 	-0.18085362	
+C, r, r, r, L, r, L, L, L,0	 at 	-0.18085519	PREZERO after 9 iterates
+C, r, r, r, L, r, L, L, F,	 at 	-0.1808599	
+C, r, r, r, L, r, L, L, F,P	 at 	-0.18086304	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, r, R,P	 at 	-0.18087874	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, r, F,C	 at 	-0.18088188	Period 9 orbit
+C, r, r, r, L, r, L, r, F,0	 at 	-0.18088345	PREZERO after 9 iterates
+C, r, r, r, L, r, L, r, L,0	 at 	-0.18089287	PREZERO after 9 iterates
+C, r, r, r, L, r, L, r, L,C	 at 	-0.18089444	Period 9 orbit
+C, r, r, r, L, r, L, r, L,P	 at 	-0.18089758	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, r, r,P	 at 	-0.18090543	PREFIXED after 9 iterates
+C, r, r, r, L, r, L, r, r,C	 at 	-0.18091328	Period 9 orbit
+C, r, r, r, L, r, L, r, r,0	 at 	-0.18092427	PREZERO after 9 iterates
+C, r, r, r, L, r, F, r, r,0	 at 	-0.18100434	PREZERO after 9 iterates
+C, r, r, r, L, r, F, r, r,C	 at 	-0.18101533	Period 9 orbit
+C, r, r, r, L, r, F, r, r,P	 at 	-0.18102318	PREFIXED after 9 iterates
+C, r, r, r, L, r, F, r, L,P	 at 	-0.1810326	PREFIXED after 9 iterates
+C, r, r, r, L, r, F, r, L,C	 at 	-0.18103417	Period 9 orbit
+C, r, r, r, L, r, F, r, L,0	 at 	-0.18103574	PREZERO after 9 iterates
+C, r, r, r, L, r, F, r, F,0	 at 	-0.1810483	PREZERO after 9 iterates
+C, r, r, r, L, r, F, r, F,C	 at 	-0.18104987	Period 9 orbit
+C, r, r, r, L, r, F, r, F,P	 at 	-0.18105301	PREFIXED after 9 iterates
+C, r, r, r, L, r, F, L, R,P	 at 	-0.18107185	PREFIXED after 9 iterates
+C, r, r, r, L, r, F, L, F,C	 at 	-0.18107342	Period 9 orbit
+C, r, r, r, L, r, F, L, F,0	 at 	-0.18107499	PREZERO after 9 iterates
+C, r, r, r, L, r, F, L, L,0	 at 	-0.1810797	PREZERO after 9 iterates
+C, r, r, r, L, r, F, L, L,	 at 	-0.18108127	
+C, r, r, r, L, r, F, L, r,P	 at 	-0.18108441	PREFIXED after 9 iterates
+C, r, r, r, L, r, F, L, r,C	 at 	-0.18108598	Period 9 orbit
+C, r, r, r, L, r, F, L, r,0	 at 	-0.18108912	PREZERO after 9 iterates
+C, r, r, r, L, r, F, F, r,0	 at 	-0.18111581	PREZERO after 9 iterates
+C, r, r, r, L, r, F, F, r,C	 at 	-0.18112052	Period 9 orbit
+C, r, r, r, L, r, F, F, r,P	 at 	-0.18112366	PREFIXED after 9 iterates
+C, r, r, r, L, r, F, F, L,P	 at 	-0.18112837	PREFIXED after 9 iterates
+C, r, r, r, L, r, F, F, L,C	 at 	-0.18112994	Period 9 orbit
+C, r, r, r, L, r, F, F, L,0	 at 	-0.18113151	PREZERO after 9 iterates
+C, r, r, r, L, r, F, F, F,0	 at 	-0.18114721	PREZERO after 9 iterates
+C, r, r, r, L, r, F, F, F,C	 at 	-0.18115192	Period 9 orbit
+C, r, r, r, L, r, F, F, F,P	 at 	-0.18116134	PREFIXED after 9 iterates
+C, r, r, r, L, L, R, R, R,P	 at 	-0.18145807	PREFIXED after 9 iterates
+C, r, r, r, L, L, F, F, F,C	 at 	-0.18146435	Period 9 orbit
+C, r, r, r, L, L, F, F, F,0	 at 	-0.18146749	PREZERO after 9 iterates
+C, r, r, r, L, L, F, F, L,0	 at 	-0.18147534	PREZERO after 9 iterates
+C, r, r, r, L, L, F, F, L,C	 at 	-0.18147691	Period 9 orbit
+C, r, r, r, L, L, F, F, L,P	 at 	-0.18147848	PREFIXED after 9 iterates
+C, r, r, r, L, L, F, F, r,P	 at 	-0.18148162	PREFIXED after 9 iterates
+C, r, r, r, L, L, F, F, r,C	 at 	-0.18148319	Period 9 orbit
+C, r, r, r, L, L, F, F, r,0	 at 	-0.18148476	PREZERO after 9 iterates
+C, r, r, r, L, L, F, L, r,	 at 	-0.18150203	
+C, r, r, r, L, L, F, L, r,P	 at 	-0.1815036	PREFIXED after 9 iterates
+C, r, r, r, L, L, F, L, L,	 at 	-0.18150517	
+C, r, r, r, L, L, F, L, F,0	 at 	-0.18150831	PREZERO after 9 iterates
+C, r, r, r, L, L, F, L, F,	 at 	-0.18150988	
+C, r, r, r, L, L, F, r, R,P	 at 	-0.1815193	PREFIXED after 9 iterates
+C, r, r, r, L, L, F, r, F,	 at 	-0.18152244	
+C, r, r, r, L, L, F, r, L,	 at 	-0.18152872	
+C, r, r, r, L, L, F, r, L,P	 at 	-0.18153029	PREFIXED after 9 iterates
+C, r, r, r, L, L, F, r, r,P	 at 	-0.181535	PREFIXED after 9 iterates
+C, r, r, r, L, L, F, r, r,C	 at 	-0.18153814	Period 9 orbit
+C, r, r, r, L, L, F, r, r,0	 at 	-0.18154442	PREZERO after 9 iterates
+C, r, r, r, L, L, L, r, r,0	 at 	-0.18157896	PREZERO after 9 iterates
+C, r, r, r, L, L, L, r, r,C	 at 	-0.18158367	Period 9 orbit
+C, r, r, r, L, L, L, r, r,P	 at 	-0.18158524	PREFIXED after 9 iterates
+C, r, r, r, L, L, L, r, L,P	 at 	-0.18158838	PREFIXED after 9 iterates
+C, r, r, r, L, L, L, r, L,	 at 	-0.18158995	
+C, r, r, r, L, L, L, r, F,0	 at 	-0.18159309	PREZERO after 9 iterates
+C, r, r, r, L, L, L, r, F,C	 at 	-0.18159466	Period 9 orbit
+C, r, r, r, L, L, L, r, F,P	 at 	-0.18159623	PREFIXED after 9 iterates
+C, r, r, r, L, L, L, L, R,P	 at 	-0.18160094	PREFIXED after 9 iterates
+C, r, r, r, L, L, L, L, F,	 at 	-0.18160251	
+C, r, r, r, L, L, L, L, L,	 at 	-0.18160408	
+C, r, r, r, L, L, L, L, r,	 at 	-0.18160565	
+C, r, r, r, L, L, L, F, r,0	 at 	-0.1816135	PREZERO after 9 iterates
+C, r, r, r, L, L, L, F, r,	 at 	-0.18161507	
+C, r, r, r, L, L, L, F, r,	 at 	-0.18161664	
+C, r, r, r, L, L, L, F, F,	 at 	-0.18162135	
+C, r, r, r, L, L, L, F, F,P	 at 	-0.18162449	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, R, R,P	 at 	-0.18166531	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, F, F,C	 at 	-0.18166845	Period 9 orbit
+C, r, r, r, L, L, r, F, F,0	 at 	-0.18167002	PREZERO after 9 iterates
+C, r, r, r, L, L, r, F, L,	 at 	-0.1816763	
+C, r, r, r, L, L, r, F, L,P	 at 	-0.18167787	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, F, r,P	 at 	-0.18167944	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, F, r,C	 at 	-0.18168101	Period 9 orbit
+C, r, r, r, L, L, r, F, r,0	 at 	-0.18168415	PREZERO after 9 iterates
+C, r, r, r, L, L, r, L, r,0	 at 	-0.18170142	PREZERO after 9 iterates
+C, r, r, r, L, L, r, L, r,C	 at 	-0.18170299	Period 9 orbit
+C, r, r, r, L, L, r, L, r,P	 at 	-0.18170456	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, L, r,P	 at 	-0.18170613	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, L, L,	 at 	-0.1817077	
+C, r, r, r, L, L, r, L, F,0	 at 	-0.18171241	PREZERO after 9 iterates
+C, r, r, r, L, L, r, L, F,C	 at 	-0.18171398	Period 9 orbit
+C, r, r, r, L, L, r, L, F,P	 at 	-0.18171712	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, r, R,P	 at 	-0.1817391	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, r, F,C	 at 	-0.18174381	Period 9 orbit
+C, r, r, r, L, L, r, r, F,0	 at 	-0.18174695	PREZERO after 9 iterates
+C, r, r, r, L, L, r, r, L,0	 at 	-0.18176893	PREZERO after 9 iterates
+C, r, r, r, L, L, r, r, L,C	 at 	-0.18177364	Period 9 orbit
+C, r, r, r, L, L, r, r, L,P	 at 	-0.18177992	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, r, r,P	 at 	-0.18180504	PREFIXED after 9 iterates
+C, r, r, r, L, L, r, r, r,C	 at 	-0.18183958	Period 9 orbit
+C, r, r, r, L, F, r, r, r,C	 at 	-0.18199815	Period 9 orbit
+C, r, r, r, L, F, r, r, r,P	 at 	-0.18203897	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, r, L,P	 at 	-0.18207194	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, r, L,C	 at 	-0.18207979	Period 9 orbit
+C, r, r, r, L, F, r, r, L,0	 at 	-0.18208607	PREZERO after 9 iterates
+C, r, r, r, L, F, r, r, F,0	 at 	-0.18211433	PREZERO after 9 iterates
+C, r, r, r, L, F, r, r, F,C	 at 	-0.18211904	Period 9 orbit
+C, r, r, r, L, F, r, r, F,P	 at 	-0.18212689	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, L, R,P	 at 	-0.18215829	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, L, F,C	 at 	-0.182163	Period 9 orbit
+C, r, r, r, L, F, r, L, F,0	 at 	-0.18216457	PREZERO after 9 iterates
+C, r, r, r, L, F, r, L, L,	 at 	-0.18217242	
+C, r, r, r, L, F, r, L, L,P	 at 	-0.18217399	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, L, r,P	 at 	-0.18217713	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, L, r,C	 at 	-0.1821787	Period 9 orbit
+C, r, r, r, L, F, r, L, r,0	 at 	-0.18218184	PREZERO after 9 iterates
+C, r, r, r, L, F, r, F, r,0	 at 	-0.1822101	PREZERO after 9 iterates
+C, r, r, r, L, F, r, F, r,C	 at 	-0.18221324	Period 9 orbit
+C, r, r, r, L, F, r, F, r,P	 at 	-0.18221638	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, F, L,P	 at 	-0.18222109	PREFIXED after 9 iterates
+C, r, r, r, L, F, r, F, L,	 at 	-0.18222266	
+C, r, r, r, L, F, r, F, F,0	 at 	-0.18223365	PREZERO after 9 iterates
+C, r, r, r, L, F, r, F, F,C	 at 	-0.18223679	Period 9 orbit
+C, r, r, r, L, F, r, F, F,P	 at 	-0.1822415	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, R, R,P	 at 	-0.18231529	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, F, F,C	 at 	-0.18231843	Period 9 orbit
+C, r, r, r, L, F, L, F, F,0	 at 	-0.18232	PREZERO after 9 iterates
+C, r, r, r, L, F, L, F, L,	 at 	-0.18232785	
+C, r, r, r, L, F, L, F, L,P	 at 	-0.18232942	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, F, r,P	 at 	-0.18233099	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, F, r,C	 at 	-0.18233256	Period 9 orbit
+C, r, r, r, L, F, L, F, r,0	 at 	-0.18233413	PREZERO after 9 iterates
+C, r, r, r, L, F, L, L, r,	 at 	-0.18234983	
+C, r, r, r, L, F, L, L, r,P	 at 	-0.1823514	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, L, r,	 at 	-0.18235297	
+C, r, r, r, L, F, L, L, L,0	 at 	-0.18235454	PREZERO after 9 iterates
+C, r, r, r, L, F, L, L, F,	 at 	-0.18235768	
+C, r, r, r, L, F, L, L, F,P	 at 	-0.18235925	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, r, R,P	 at 	-0.18237024	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, r, F,C	 at 	-0.18237181	Period 9 orbit
+C, r, r, r, L, F, L, r, F,0	 at 	-0.18237338	PREZERO after 9 iterates
+C, r, r, r, L, F, L, r, L,0	 at 	-0.18238123	PREZERO after 9 iterates
+C, r, r, r, L, F, L, r, L,C	 at 	-0.1823828	Period 9 orbit
+C, r, r, r, L, F, L, r, L,P	 at 	-0.18238437	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, r, r,P	 at 	-0.18239065	PREFIXED after 9 iterates
+C, r, r, r, L, F, L, r, r,C	 at 	-0.18239536	Period 9 orbit
+C, r, r, r, L, F, L, r, r,0	 at 	-0.18240478	PREZERO after 9 iterates
+C, r, r, r, L, F, F, r, r,0	 at 	-0.18248799	PREZERO after 9 iterates
+C, r, r, r, L, F, F, r, r,C	 at 	-0.18250055	Period 9 orbit
+C, r, r, r, L, F, F, r, r,P	 at 	-0.18250997	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, r, L,P	 at 	-0.18251939	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, r, L,C	 at 	-0.18252253	Period 9 orbit
+C, r, r, r, L, F, F, r, L,0	 at 	-0.18252567	PREZERO after 9 iterates
+C, r, r, r, L, F, F, r, F,0	 at 	-0.1825398	PREZERO after 9 iterates
+C, r, r, r, L, F, F, r, F,C	 at 	-0.18254294	Period 9 orbit
+C, r, r, r, L, F, F, r, F,P	 at 	-0.18254765	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, L, R,P	 at 	-0.18257277	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, L, F,C	 at 	-0.18257591	Period 9 orbit
+C, r, r, r, L, F, F, L, F,0	 at 	-0.18257748	PREZERO after 9 iterates
+C, r, r, r, L, F, F, L, L,0	 at 	-0.18258533	PREZERO after 9 iterates
+C, r, r, r, L, F, F, L, L,C	 at 	-0.1825869	Period 9 orbit
+C, r, r, r, L, F, F, L, L,P	 at 	-0.18258847	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, L, r,P	 at 	-0.18259161	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, L, r,C	 at 	-0.18259475	Period 9 orbit
+C, r, r, r, L, F, F, L, r,0	 at 	-0.18259789	PREZERO after 9 iterates
+C, r, r, r, L, F, F, F, r,0	 at 	-0.18264656	PREZERO after 9 iterates
+C, r, r, r, L, F, F, F, r,C	 at 	-0.18265284	Period 9 orbit
+C, r, r, r, L, F, F, F, r,P	 at 	-0.18265912	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, F, L,P	 at 	-0.18266854	PREFIXED after 9 iterates
+C, r, r, r, L, F, F, F, L,C	 at 	-0.18267325	Period 9 orbit
+C, r, r, r, L, F, F, F, L,0	 at 	-0.18267482	PREZERO after 9 iterates
+C, r, r, r, L, F, F, F, F,0	 at 	-0.18270622	PREZERO after 9 iterates
+C, r, r, r, L, F, F, F, F,C	 at 	-0.18271564	Period 9 orbit
+C, r, r, r, L, F, F, F, F,P	 at 	-0.18273605	PREFIXED after 9 iterates
+C, r, r, r, r, R, R, R, R,P	 at 	-0.18539249	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, F, F,C	 at 	-0.18543017	Period 9 orbit
+C, r, r, r, r, F, F, F, F,0	 at 	-0.18544744	PREZERO after 9 iterates
+C, r, r, r, r, F, F, F, L,0	 at 	-0.18550396	PREZERO after 9 iterates
+C, r, r, r, r, F, F, F, L,C	 at 	-0.18551024	Period 9 orbit
+C, r, r, r, r, F, F, F, L,P	 at 	-0.18551652	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, F, r,P	 at 	-0.18553536	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, F, r,C	 at 	-0.18554635	Period 9 orbit
+C, r, r, r, r, F, F, F, r,0	 at 	-0.18555891	PREZERO after 9 iterates
+C, r, r, r, r, F, F, L, r,0	 at 	-0.18565468	PREZERO after 9 iterates
+C, r, r, r, r, F, F, L, r,C	 at 	-0.18566096	Period 9 orbit
+C, r, r, r, r, F, F, L, r,P	 at 	-0.18566567	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, L, L,P	 at 	-0.18567352	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, L, L,C	 at 	-0.18567666	Period 9 orbit
+C, r, r, r, r, F, F, L, L,0	 at 	-0.18567823	PREZERO after 9 iterates
+C, r, r, r, r, F, F, L, F,0	 at 	-0.18569393	PREZERO after 9 iterates
+C, r, r, r, r, F, F, L, F,C	 at 	-0.18569707	Period 9 orbit
+C, r, r, r, r, F, F, L, F,P	 at 	-0.18570492	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, r, R,P	 at 	-0.18575516	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, r, F,C	 at 	-0.18576458	Period 9 orbit
+C, r, r, r, r, F, F, r, F,0	 at 	-0.18576929	PREZERO after 9 iterates
+C, r, r, r, r, F, F, r, L,0	 at 	-0.18579912	PREZERO after 9 iterates
+C, r, r, r, r, F, F, r, L,C	 at 	-0.18580226	Period 9 orbit
+C, r, r, r, r, F, F, r, L,P	 at 	-0.18580854	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, r, r,P	 at 	-0.18582895	PREFIXED after 9 iterates
+C, r, r, r, r, F, F, r, r,C	 at 	-0.18584465	Period 9 orbit
+C, r, r, r, r, F, F, r, r,0	 at 	-0.18586663	PREZERO after 9 iterates
+C, r, r, r, r, F, L, r, r,0	 at 	-0.18607544	PREZERO after 9 iterates
+C, r, r, r, r, F, L, r, r,C	 at 	-0.18608957	Period 9 orbit
+C, r, r, r, r, F, L, r, r,P	 at 	-0.18610056	PREFIXED after 9 iterates
+C, r, r, r, r, F, L, r, L,P	 at 	-0.18611312	PREFIXED after 9 iterates
+C, r, r, r, r, F, L, r, L,C	 at 	-0.18611626	Period 9 orbit
+C, r, r, r, r, F, L, r, L,0	 at 	-0.18611783	PREZERO after 9 iterates
+C, r, r, r, r, F, L, r, F,0	 at 	-0.1861351	PREZERO after 9 iterates
+C, r, r, r, r, F, L, r, F,C	 at 	-0.18613824	Period 9 orbit
+C, r, r, r, r, F, L, r, F,P	 at 	-0.18614295	PREFIXED after 9 iterates
+C, r, r, r, r, F, L, L, R,P	 at 	-0.18616807	PREFIXED after 9 iterates
+C, r, r, r, r, F, L, L, F,C	 at 	-0.18617121	Period 9 orbit
+C, r, r, r, r, F, L, L, F,0	 at 	-0.18617278	PREZERO after 9 iterates
+C, r, r, r, r, F, L, L, L,0	 at 	-0.18617906	PREZERO after 9 iterates
+C, r, r, r, r, F, L, L, L,	 at 	-0.18618063	
+C, r, r, r, r, F, L, L, r,P	 at 	-0.18618377	PREFIXED after 9 iterates
+C, r, r, r, r, F, L, L, r,C	 at 	-0.18618691	Period 9 orbit
+C, r, r, r, r, F, L, L, r,0	 at 	-0.18618848	PREZERO after 9 iterates
+C, r, r, r, r, F, L, F, r,0	 at 	-0.18622459	PREZERO after 9 iterates
+C, r, r, r, r, F, L, F, r,C	 at 	-0.18622773	Period 9 orbit
+C, r, r, r, r, F, L, F, r,P	 at 	-0.18623087	PREFIXED after 9 iterates
+C, r, r, r, r, F, L, F, L,P	 at 	-0.18623715	PREFIXED after 9 iterates
+C, r, r, r, r, F, L, F, L,C	 at 	-0.18623872	Period 9 orbit
+C, r, r, r, r, F, L, F, L,0	 at 	-0.18624029	PREZERO after 9 iterates
+C, r, r, r, r, F, L, F, F,0	 at 	-0.18625599	PREZERO after 9 iterates
+C, r, r, r, r, F, L, F, F,C	 at 	-0.18625913	Period 9 orbit
+C, r, r, r, r, F, L, F, F,P	 at 	-0.18626855	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, R, R,P	 at 	-0.18644439	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, F, F,C	 at 	-0.18645695	Period 9 orbit
+C, r, r, r, r, F, r, F, F,0	 at 	-0.18646323	PREZERO after 9 iterates
+C, r, r, r, r, F, r, F, L,0	 at 	-0.18648835	PREZERO after 9 iterates
+C, r, r, r, r, F, r, F, L,C	 at 	-0.18648992	Period 9 orbit
+C, r, r, r, r, F, r, F, L,P	 at 	-0.18649463	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, F, r,P	 at 	-0.18650405	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, F, r,C	 at 	-0.18651033	Period 9 orbit
+C, r, r, r, r, F, r, F, r,0	 at 	-0.18651661	PREZERO after 9 iterates
+C, r, r, r, r, F, r, L, r,0	 at 	-0.1865904	PREZERO after 9 iterates
+C, r, r, r, r, F, r, L, r,C	 at 	-0.18659511	Period 9 orbit
+C, r, r, r, r, F, r, L, r,P	 at 	-0.18660139	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, L, L,P	 at 	-0.18660924	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, L, L,C	 at 	-0.18661081	Period 9 orbit
+C, r, r, r, r, F, r, L, L,0	 at 	-0.18661395	PREZERO after 9 iterates
+C, r, r, r, r, F, r, L, F,0	 at 	-0.18663122	PREZERO after 9 iterates
+C, r, r, r, r, F, r, L, F,C	 at 	-0.18663593	Period 9 orbit
+C, r, r, r, r, F, r, L, F,P	 at 	-0.18664378	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, r, R,P	 at 	-0.18671914	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, r, F,C	 at 	-0.18673641	Period 9 orbit
+C, r, r, r, r, F, r, r, F,0	 at 	-0.1867474	PREZERO after 9 iterates
+C, r, r, r, r, F, r, r, L,0	 at 	-0.18681177	PREZERO after 9 iterates
+C, r, r, r, r, F, r, r, L,C	 at 	-0.18682276	Period 9 orbit
+C, r, r, r, r, F, r, r, L,P	 at 	-0.18684003	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, r, r,P	 at 	-0.18690126	PREFIXED after 9 iterates
+C, r, r, r, r, F, r, r, r,C	 at 	-0.18696249	Period 9 orbit
+C, r, r, r, r, F, r, r, r,0	 at 	-0.18707553	PREZERO after 9 iterates
+C, r, r, r, r, L, r, r, r,0	 at 	-0.18773336	PREZERO after 9 iterates
+C, r, r, r, r, L, r, r, r,C	 at 	-0.18783698	Period 9 orbit
+C, r, r, r, r, L, r, r, r,P	 at 	-0.18789193	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, r, L,P	 at 	-0.18794845	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, r, L,C	 at 	-0.18796258	Period 9 orbit
+C, r, r, r, r, L, r, r, L,0	 at 	-0.187972	PREZERO after 9 iterates
+C, r, r, r, r, L, r, r, F,0	 at 	-0.18803166	PREZERO after 9 iterates
+C, r, r, r, r, L, r, r, F,C	 at 	-0.18804265	Period 9 orbit
+C, r, r, r, r, L, r, r, F,P	 at 	-0.18805835	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, L, R,P	 at 	-0.18812586	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, L, F,C	 at 	-0.18813371	Period 9 orbit
+C, r, r, r, r, L, r, L, F,0	 at 	-0.18813685	PREZERO after 9 iterates
+C, r, r, r, r, L, r, L, L,0	 at 	-0.18815255	PREZERO after 9 iterates
+C, r, r, r, r, L, r, L, L,C	 at 	-0.18815569	Period 9 orbit
+C, r, r, r, r, L, r, L, L,P	 at 	-0.18815726	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, L, r,P	 at 	-0.18816511	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, L, r,C	 at 	-0.18816982	Period 9 orbit
+C, r, r, r, r, L, r, L, r,0	 at 	-0.18817453	PREZERO after 9 iterates
+C, r, r, r, r, L, r, F, r,0	 at 	-0.18824204	PREZERO after 9 iterates
+C, r, r, r, r, L, r, F, r,C	 at 	-0.18824675	Period 9 orbit
+C, r, r, r, r, L, r, F, r,P	 at 	-0.18825303	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, F, L,P	 at 	-0.18826088	PREFIXED after 9 iterates
+C, r, r, r, r, L, r, F, L,C	 at 	-0.18826402	Period 9 orbit
+C, r, r, r, r, L, r, F, L,0	 at 	-0.18826716	PREZERO after 9 iterates
+C, r, r, r, r, L, r, F, F,0	 at 	-0.18828914	PREZERO after 9 iterates
+C, r, r, r, r, L, r, F, F,C	 at 	-0.18829385	Period 9 orbit
+C, r, r, r, r, L, r, F, F,P	 at 	-0.18830641	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, R, R,P	 at 	-0.18846027	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, F, F,C	 at 	-0.18846812	Period 9 orbit
+C, r, r, r, r, L, L, F, F,0	 at 	-0.18847283	PREZERO after 9 iterates
+C, r, r, r, r, L, L, F, L,0	 at 	-0.18848539	PREZERO after 9 iterates
+C, r, r, r, r, L, L, F, L,C	 at 	-0.18848696	Period 9 orbit
+C, r, r, r, r, L, L, F, L,P	 at 	-0.18848853	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, F, r,P	 at 	-0.18849324	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, F, r,C	 at 	-0.18849638	Period 9 orbit
+C, r, r, r, r, L, L, F, r,0	 at 	-0.18849952	PREZERO after 9 iterates
+C, r, r, r, r, L, L, L, r,0	 at 	-0.18852935	PREZERO after 9 iterates
+C, r, r, r, r, L, L, L, r,C	 at 	-0.18853249	Period 9 orbit
+C, r, r, r, r, L, L, L, r,P	 at 	-0.18853406	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, L, r,P	 at 	-0.18853563	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, L, L,	 at 	-0.1885372	
+C, r, r, r, r, L, L, L, F,0	 at 	-0.18854348	PREZERO after 9 iterates
+C, r, r, r, r, L, L, L, F,C	 at 	-0.18854505	Period 9 orbit
+C, r, r, r, r, L, L, L, F,P	 at 	-0.18854819	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, r, R,P	 at 	-0.1885686	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, r, F,C	 at 	-0.18857331	Period 9 orbit
+C, r, r, r, r, L, L, r, F,0	 at 	-0.18857488	PREZERO after 9 iterates
+C, r, r, r, r, L, L, r, L,0	 at 	-0.18858901	PREZERO after 9 iterates
+C, r, r, r, r, L, L, r, L,C	 at 	-0.18859058	Period 9 orbit
+C, r, r, r, r, L, L, r, L,P	 at 	-0.18859372	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, r, r,P	 at 	-0.18860314	PREFIXED after 9 iterates
+C, r, r, r, r, L, L, r, r,C	 at 	-0.18861099	Period 9 orbit
+C, r, r, r, r, L, L, r, r,0	 at 	-0.18862198	PREZERO after 9 iterates
+C, r, r, r, r, L, F, r, r,0	 at 	-0.18881038	PREZERO after 9 iterates
+C, r, r, r, r, L, F, r, r,C	 at 	-0.18882451	Period 9 orbit
+C, r, r, r, r, L, F, r, r,P	 at 	-0.18883707	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, r, L,P	 at 	-0.1888512	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, r, L,C	 at 	-0.18885591	Period 9 orbit
+C, r, r, r, r, L, F, r, L,0	 at 	-0.18885905	PREZERO after 9 iterates
+C, r, r, r, r, L, F, r, F,0	 at 	-0.18888103	PREZERO after 9 iterates
+C, r, r, r, r, L, F, r, F,C	 at 	-0.18888574	Period 9 orbit
+C, r, r, r, r, L, F, r, F,P	 at 	-0.18889202	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, L, R,P	 at 	-0.18893127	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, L, F,C	 at 	-0.18893598	Period 9 orbit
+C, r, r, r, r, L, F, L, F,0	 at 	-0.18893912	PREZERO after 9 iterates
+C, r, r, r, r, L, F, L, L,0	 at 	-0.18895168	PREZERO after 9 iterates
+C, r, r, r, r, L, F, L, L,C	 at 	-0.18895325	Period 9 orbit
+C, r, r, r, r, L, F, L, L,P	 at 	-0.18895482	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, L, r,P	 at 	-0.1889611	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, L, r,C	 at 	-0.18896424	Period 9 orbit
+C, r, r, r, r, L, F, L, r,0	 at 	-0.18896895	PREZERO after 9 iterates
+C, r, r, r, r, L, F, F, r,0	 at 	-0.18904431	PREZERO after 9 iterates
+C, r, r, r, r, L, F, F, r,C	 at 	-0.18905216	Period 9 orbit
+C, r, r, r, r, L, F, F, r,P	 at 	-0.18906001	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, F, L,P	 at 	-0.18907414	PREFIXED after 9 iterates
+C, r, r, r, r, L, F, F, L,C	 at 	-0.18907885	Period 9 orbit
+C, r, r, r, r, L, F, F, L,0	 at 	-0.18908356	PREZERO after 9 iterates
+C, r, r, r, r, L, F, F, F,0	 at 	-0.18912438	PREZERO after 9 iterates
+C, r, r, r, r, L, F, F, F,C	 at 	-0.18913694	Period 9 orbit
+C, r, r, r, r, L, F, F, F,P	 at 	-0.18916363	PREFIXED after 9 iterates
+C, r, r, r, r, r, R, R, R,P	 at 	-0.19069909	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, F, F,C	 at 	-0.1907509	Period 9 orbit
+C, r, r, r, r, r, F, F, F,0	 at 	-0.19077602	PREZERO after 9 iterates
+C, r, r, r, r, r, F, F, L,0	 at 	-0.1908608	PREZERO after 9 iterates
+C, r, r, r, r, r, F, F, L,C	 at 	-0.19087022	Period 9 orbit
+C, r, r, r, r, r, F, F, L,P	 at 	-0.19088121	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, F, r,P	 at 	-0.19090947	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, F, r,C	 at 	-0.19092674	Period 9 orbit
+C, r, r, r, r, r, F, F, r,0	 at 	-0.19094401	PREZERO after 9 iterates
+C, r, r, r, r, r, F, L, r,0	 at 	-0.19112299	PREZERO after 9 iterates
+C, r, r, r, r, r, F, L, r,C	 at 	-0.19113241	Period 9 orbit
+C, r, r, r, r, r, F, L, r,P	 at 	-0.19114183	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, L, L,P	 at 	-0.19115596	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, L, L,C	 at 	-0.19116067	Period 9 orbit
+C, r, r, r, r, r, F, L, L,0	 at 	-0.19116381	PREZERO after 9 iterates
+C, r, r, r, r, r, F, L, F,0	 at 	-0.19119364	PREZERO after 9 iterates
+C, r, r, r, r, r, F, L, F,C	 at 	-0.19119992	Period 9 orbit
+C, r, r, r, r, r, F, L, F,P	 at 	-0.19121248	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, r, R,P	 at 	-0.19131453	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, r, F,C	 at 	-0.19133337	Period 9 orbit
+C, r, r, r, r, r, F, r, F,0	 at 	-0.19134436	PREZERO after 9 iterates
+C, r, r, r, r, r, F, r, L,0	 at 	-0.19140559	PREZERO after 9 iterates
+C, r, r, r, r, r, F, r, L,C	 at 	-0.19141344	Period 9 orbit
+C, r, r, r, r, r, F, r, L,P	 at 	-0.191426	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, r, r,P	 at 	-0.19146682	PREFIXED after 9 iterates
+C, r, r, r, r, r, F, r, r,C	 at 	-0.19149665	Period 9 orbit
+C, r, r, r, r, r, F, r, r,0	 at 	-0.19153747	PREZERO after 9 iterates
+C, r, r, r, r, r, L, r, r,0	 at 	-0.1922581	PREZERO after 9 iterates
+C, r, r, r, r, r, L, r, r,C	 at 	-0.19229421	Period 9 orbit
+C, r, r, r, r, r, L, r, r,P	 at 	-0.19232404	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, r, L,P	 at 	-0.19236172	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, r, L,C	 at 	-0.19237271	Period 9 orbit
+C, r, r, r, r, r, L, r, L,0	 at 	-0.19238056	PREZERO after 9 iterates
+C, r, r, r, r, r, L, r, F,0	 at 	-0.19243708	PREZERO after 9 iterates
+C, r, r, r, r, r, L, r, F,C	 at 	-0.1924465	Period 9 orbit
+C, r, r, r, r, r, L, r, F,P	 at 	-0.19246534	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, L, R,P	 at 	-0.19255797	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, L, F,C	 at 	-0.19256896	Period 9 orbit
+C, r, r, r, r, r, L, L, F,0	 at 	-0.19257524	PREZERO after 9 iterates
+C, r, r, r, r, r, L, L, L,0	 at 	-0.19260193	PREZERO after 9 iterates
+C, r, r, r, r, r, L, L, L,C	 at 	-0.19260507	Period 9 orbit
+C, r, r, r, r, r, L, L, L,P	 at 	-0.19260978	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, L, r,P	 at 	-0.19262077	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, L, r,C	 at 	-0.19262862	Period 9 orbit
+C, r, r, r, r, r, L, L, r,0	 at 	-0.19263804	PREZERO after 9 iterates
+C, r, r, r, r, r, L, F, r,0	 at 	-0.19279504	PREZERO after 9 iterates
+C, r, r, r, r, r, L, F, r,C	 at 	-0.19280917	Period 9 orbit
+C, r, r, r, r, r, L, F, r,P	 at 	-0.1928233	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, F, L,P	 at 	-0.19284685	PREFIXED after 9 iterates
+C, r, r, r, r, r, L, F, L,C	 at 	-0.1928547	Period 9 orbit
+C, r, r, r, r, r, L, F, L,0	 at 	-0.19286098	PREZERO after 9 iterates
+C, r, r, r, r, r, L, F, F,0	 at 	-0.19293006	PREZERO after 9 iterates
+C, r, r, r, r, r, L, F, F,C	 at 	-0.1929489	Period 9 orbit
+C, r, r, r, r, r, L, F, F,P	 at 	-0.19298972	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, R, R,P	 at 	-0.19396155	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, F, F,C	 at 	-0.19404476	Period 9 orbit
+C, r, r, r, r, r, r, F, F,0	 at 	-0.19408558	PREZERO after 9 iterates
+C, r, r, r, r, r, r, F, L,0	 at 	-0.19425043	PREZERO after 9 iterates
+C, r, r, r, r, r, r, F, L,C	 at 	-0.1942677	Period 9 orbit
+C, r, r, r, r, r, r, F, L,P	 at 	-0.19429125	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, F, r,P	 at 	-0.19435562	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, F, r,C	 at 	-0.19439487	Period 9 orbit
+C, r, r, r, r, r, r, F, r,0	 at 	-0.19443569	PREZERO after 9 iterates
+C, r, r, r, r, r, r, L, r,0	 at 	-0.19504171	PREZERO after 9 iterates
+C, r, r, r, r, r, r, L, r,C	 at 	-0.19508096	Period 9 orbit
+C, r, r, r, r, r, r, L, r,P	 at 	-0.19511864	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, L, L,P	 at 	-0.1951783	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, L, L,C	 at 	-0.19519871	Period 9 orbit
+C, r, r, r, r, r, r, L, L,0	 at 	-0.19521441	PREZERO after 9 iterates
+C, r, r, r, r, r, r, L, F,0	 at 	-0.19536199	PREZERO after 9 iterates
+C, r, r, r, r, r, r, L, F,C	 at 	-0.19539653	Period 9 orbit
+C, r, r, r, r, r, r, L, F,P	 at 	-0.19546404	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, r, R,P	 at 	-0.1961203	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, r, F,C	 at 	-0.19627259	Period 9 orbit
+C, r, r, r, r, r, r, r, F,0	 at 	-0.19636522	PREZERO after 9 iterates
+C, r, r, r, r, r, r, r, L,0	 at 	-0.19694455	PREZERO after 9 iterates
+C, r, r, r, r, r, r, r, L,C	 at 	-0.1970309	Period 9 orbit
+C, r, r, r, r, r, r, r, L,P	 at 	-0.19716278	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, r, r,P	 at 	-0.19762907	PREFIXED after 9 iterates
+C, r, r, r, r, r, r, r, r,C	 at 	-0.19801372	Period 9 orbit
+C, r, r, r, r, r, r, r, r,0	 at 	-0.1985224	PREZERO after 9 iterates

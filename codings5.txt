@@ -1,0 +1,25 @@
+C, r, R, R,P	 at 	-0.09240767	PREFIXED after 4 iterates
+C, r, F, F,C	 at 	-0.0969434	Period 4 orbit
+C, r, F, F,0	 at 	-0.10029849	PREZERO after 4 iterates
+C, r, F, L,0	 at 	-0.10570243	PREZERO after 4 iterates
+C, r, F, L,C	 at 	-0.10766022	Period 4 orbit
+C, r, F, L,P	 at 	-0.1094406	PREFIXED after 4 iterates
+C, r, F, r,P	 at 	-0.11453368	PREFIXED after 4 iterates
+C, r, F, r,C	 at 	-0.12138673	Period 4 orbit
+C, r, L, r,C	 at 	-0.12354234	Period 4 orbit
+C, r, L, r,P	 at 	-0.12912369	PREFIXED after 4 iterates
+C, r, L, L,P	 at 	-0.13254472	PREFIXED after 4 iterates
+C, r, L, L,C	 at 	-0.13358406	Period 4 orbit
+C, r, L, L,0	 at 	-0.13448995	PREZERO after 4 iterates
+C, r, L, F,0	 at 	-0.13830662	PREZERO after 4 iterates
+C, r, L, F,C	 at 	-0.13958617	Period 4 orbit
+C, r, L, F,P	 at 	-0.14146389	PREFIXED after 4 iterates
+C, r, r, R,P	 at 	-0.15501299	PREFIXED after 4 iterates
+C, r, r, F,C	 at 	-0.15777619	Period 4 orbit
+C, r, r, F,0	 at 	-0.15962408	PREZERO after 4 iterates
+C, r, r, L,0	 at 	-0.16736575	PREZERO after 4 iterates
+C, r, r, L,C	 at 	-0.1687238	Period 4 orbit
+C, r, r, L,P	 at 	-0.17047749	PREFIXED after 4 iterates
+C, r, r, r,P	 at 	-0.17577624	PREFIXED after 4 iterates
+C, r, r, r,C	 at 	-0.1795411	Period 4 orbit
+C, r, r, r,0	 at 	-0.18386488	PREZERO after 4 iterates

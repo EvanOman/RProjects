@@ -1,0 +1,9 @@
+C, r, R	P	 at 	-0.09240767	PREFIXED after 3 iterates
+C, r, F	C	 at 	-0.10314333	Period 3 orbit
+C, r, F	0	 at 	-0.11157109	PREZERO after 3 iterates
+C, r, L	0	 at 	-0.13117568	PREZERO after 3 iterates
+C, r, L	C	 at 	-0.13624992	Period 3 orbit
+C, r, L	P	 at 	-0.14146389	PREFIXED after 3 iterates
+C, r, r	P	 at 	-0.15501299	PREFIXED after 3 iterates
+C, r, r	C	 at 	-0.16364328	Period 3 orbit
+C, r, r	0	 at 	-0.17278068	PREZERO after 3 iterates
